@@ -23,7 +23,8 @@
 }
 
 - (void)willActivate {
-    // This method is called when watch view controller is about to be visible to user
+    
+    [self.vocabularyTable setNumberOfRows:10 withRowType:@"VocabularyRow"];
     [super willActivate];
 }
 

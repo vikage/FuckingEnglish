@@ -314,6 +314,186 @@
 			<key>mean</key>
 			<string>chỗ ăn ở, chỗ trọ</string>
 		</dict>
+		<dict>
+			<key>word</key>
+			<string>accompany</string>
+			<key>pronunciation</key>
+			<string>əˈkʌm.pə.ni</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>đi theo, đi cùng, kèm theo</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>according</string>
+			<key>pronunciation</key>
+			<string>əˈkɔːrd</string>
+			<key>category</key>
+			<string>prep</string>
+			<key>mean</key>
+			<string>theo, y theo</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>account</string>
+			<key>pronunciation</key>
+			<string>əˈkaʊnt</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>tài khoản, bản kê khai, kế toán</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>account</string>
+			<key>pronunciation</key>
+			<string>əˈkaʊnt</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>tính toán, giải thích</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>accountant</string>
+			<key>pronunciation</key>
+			<string>əˈkaʊn.t̬ənt</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>kế toán viên</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>accurate</string>
+			<key>pronunciation</key>
+			<string>ˈæk.jɚ.ət</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>đúng đắn, chính xác, xác đáng</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>accurately</string>
+			<key>pronunciation</key>
+			<string>ˈækjʊrətli</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>đúng đắn, chính xác</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>accuse</string>
+			<key>pronunciation</key>
+			<string>əˈkjuːz</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>tố cáo, buộc tội</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>achieve</string>
+			<key>pronunciation</key>
+			<string>əˈtʃiːv</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>đạt được, dành được</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>achievement</string>
+			<key>pronunciation</key>
+			<string>əˈtʃiːv.mənt</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>thành tích, thành tựu</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>acid</string>
+			<key>pronunciation</key>
+			<string>ˈæs.ɪd</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>axit</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>acknowledge</string>
+			<key>pronunciation</key>
+			<string>əkˈnɑː.lɪdʒ</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>công nhận, thừa nhận</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>acquire</string>
+			<key>pronunciation</key>
+			<string>əˈkwaɪɚ</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>dành được, đạt được</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>across</string>
+			<key>pronunciation</key>
+			<string>əˈkrɑːs</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>qua, ngang qua</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>across</string>
+			<key>pronunciation</key>
+			<string>əˈkrɑːs</string>
+			<key>category</key>
+			<string>prep</string>
+			<key>mean</key>
+			<string>qua, ngang qua</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>act</string>
+			<key>pronunciation</key>
+			<string>ækt</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>hành động, hành vi, cử chỉ</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>act</string>
+			<key>pronunciation</key>
+			<string>ækt</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>hành động, đóng vai, đóng kịch</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>action</string>
+			<key>pronunciation</key>
+			<string>ˈæk.ʃən</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>hành động, hành vi, tác động</string>
+		</dict>
 	</array>
 </dict>
 </plist>

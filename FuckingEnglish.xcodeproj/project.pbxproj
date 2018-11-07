@@ -26,6 +26,7 @@
 		04282D4321919F3F00585781 /* FuckingEnglishAppleWatch.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 04282D2021919F3D00585781 /* FuckingEnglishAppleWatch.app */; };
 		0431CFAB2192845A00264F3C /* Vocabularies.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0431CFAA2192845A00264F3C /* Vocabularies.plist */; };
 		0431CFAE219286AD00264F3C /* Vocabulary.m in Sources */ = {isa = PBXBuildFile; fileRef = 0431CFAD219286AD00264F3C /* Vocabulary.m */; };
+		0431CFE62192F92300264F3C /* VocabularyRow.m in Sources */ = {isa = PBXBuildFile; fileRef = 0431CFE42192F91F00264F3C /* VocabularyRow.m */; };
 		87D420988B54AF051456AB60 /* libPods-FuckingEnglishTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 808AF493329BCF4310056710 /* libPods-FuckingEnglishTests.a */; };
 		FD4FAD8FB20868A0F9F3140C /* libPods-FuckingEnglish.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 20CBE4771C7ADBA89C0C8DD2 /* libPods-FuckingEnglish.a */; };
 /* End PBXBuildFile section */
@@ -114,6 +115,8 @@
 		0431CFAA2192845A00264F3C /* Vocabularies.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Vocabularies.plist; sourceTree = "<group>"; };
 		0431CFAC219286AD00264F3C /* Vocabulary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Vocabulary.h; sourceTree = "<group>"; };
 		0431CFAD219286AD00264F3C /* Vocabulary.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Vocabulary.m; sourceTree = "<group>"; };
+		0431CFE32192F91F00264F3C /* VocabularyRow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VocabularyRow.h; sourceTree = "<group>"; };
+		0431CFE42192F91F00264F3C /* VocabularyRow.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VocabularyRow.m; sourceTree = "<group>"; };
 		20CBE4771C7ADBA89C0C8DD2 /* libPods-FuckingEnglish.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FuckingEnglish.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CB4A395B1F9BE5CF888AB79 /* Pods-FuckingEnglish.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FuckingEnglish.release.xcconfig"; path = "Pods/Target Support Files/Pods-FuckingEnglish/Pods-FuckingEnglish.release.xcconfig"; sourceTree = "<group>"; };
 		808AF493329BCF4310056710 /* libPods-FuckingEnglishTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FuckingEnglishTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -227,6 +230,8 @@
 				0431CFAA2192845A00264F3C /* Vocabularies.plist */,
 				0431CFAC219286AD00264F3C /* Vocabulary.h */,
 				0431CFAD219286AD00264F3C /* Vocabulary.m */,
+				0431CFE32192F91F00264F3C /* VocabularyRow.h */,
+				0431CFE42192F91F00264F3C /* VocabularyRow.m */,
 			);
 			path = "FuckingEnglishAppleWatch Extension";
 			sourceTree = "<group>";
@@ -469,6 +474,7 @@
 			files = (
 				04282CFF21919E2D00585781 /* ViewController.m in Sources */,
 				04282D0A21919E3000585781 /* main.m in Sources */,
+				0431CFE62192F92300264F3C /* VocabularyRow.m in Sources */,
 				04282CFC21919E2D00585781 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

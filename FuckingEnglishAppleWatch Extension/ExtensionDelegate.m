@@ -17,7 +17,7 @@
 }
 
 -(void) sheduleTask {
-    [[WKExtension sharedExtension] scheduleBackgroundRefreshWithPreferredDate:[NSDate dateWithTimeIntervalSinceNow:2*60] userInfo:nil scheduledCompletion:^(NSError * _Nullable error) {
+    [[WKExtension sharedExtension] scheduleBackgroundRefreshWithPreferredDate:[NSDate dateWithTimeIntervalSinceNow:30*60] userInfo:nil scheduledCompletion:^(NSError * _Nullable error) {
         
     }];
 }
