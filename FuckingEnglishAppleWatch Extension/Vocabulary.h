@@ -12,5 +12,6 @@
 @property (nonatomic, strong) NSString *word;
 @property (nonatomic, strong) NSString *pronunciation;
 @property (nonatomic, strong) NSString *mean;
+@property (nonatomic, strong) NSString *category;
 @end
 

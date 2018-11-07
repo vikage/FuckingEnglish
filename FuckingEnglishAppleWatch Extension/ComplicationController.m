@@ -40,8 +40,9 @@
     // Call the handler with the current timeline entry
     CLKComplicationTemplateModularLargeStandardBody *template = [[CLKComplicationTemplateModularLargeStandardBody alloc] init];
     NSString *header = [NSString stringWithFormat:@"%@•%@",vocabulary.word, vocabulary.pronunciation];
+    NSString *categoryAndMean = [NSString stringWithFormat:@"%@, %@", vocabulary.category, vocabulary.mean];
     template.headerTextProvider = [CLKSimpleTextProvider textProviderWithText:header];
-    template.body1TextProvider = [CLKSimpleTextProvider textProviderWithText:vocabulary.mean];
+    template.body1TextProvider = [CLKSimpleTextProvider textProviderWithText:categoryAndMean];
     
     CLKComplicationTimelineEntry *entry = [CLKComplicationTimelineEntry entryWithDate:[NSDate date] complicationTemplate:template];
     handler(entry);

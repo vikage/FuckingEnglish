@@ -42,11 +42,13 @@
         NSString *word = [wordDict objectForKey:@"word"];
         NSString *pronunciation = [wordDict objectForKey:@"pronunciation"];
         NSString *mean = [wordDict objectForKey:@"mean"];
+        NSString *category = [wordDict objectForKey:@"category"];
         
         Vocabulary *obj = [[Vocabulary alloc] init];
         obj.word = word;
         obj.pronunciation = pronunciation;
         obj.mean = mean;
+        obj.category = category;
         
         [vocabularies addObject:obj];
     }

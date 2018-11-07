@@ -8,129 +8,311 @@
 			<key>word</key>
 			<string>abandon</string>
 			<key>pronunciation</key>
-			<string></string>
+			<string>ə&apos;bændən</string>
 			<key>mean</key>
-			<string>n. sự phóng túng, sự tự do, sự buông thả</string>
+			<string>sự phóng túng, sự tự do, sự buông thả</string>
+			<key>category</key>
+			<string>n</string>
 		</dict>
 		<dict>
 			<key>word</key>
 			<string>abandon</string>
 			<key>pronunciation</key>
-			<string></string>
+			<string>ə&apos;bændən</string>
 			<key>mean</key>
-			<string>v. từ bỏ, bỏ rơi, ruồng bỏ</string>
+			<string>từ bỏ, bỏ rơi, ruồng bỏ</string>
+			<key>category</key>
+			<string>v</string>
 		</dict>
 		<dict>
 			<key>word</key>
 			<string>abandoned</string>
 			<key>pronunciation</key>
-			<string></string>
+			<string>ə&apos;bændənd</string>
 			<key>mean</key>
-			<string>adj. bị bỏ rơi, bị ruồng bỏ</string>
+			<string>bị bỏ rơi, bị ruồng bỏ</string>
+			<key>category</key>
+			<string>adj</string>
 		</dict>
 		<dict>
 			<key>word</key>
 			<string>ability</string>
 			<key>pronunciation</key>
-			<string></string>
+			<string>ə&apos;biliti</string>
 			<key>mean</key>
-			<string>n. khả năng, năng lực</string>
-		</dict>
-		<dict>
-			<key>word</key>
-			<string></string>
-			<key>pronunciation</key>
-			<string></string>
-			<key>mean</key>
-			<string></string>
+			<string>khả năng, năng lực</string>
+			<key>category</key>
+			<string>n</string>
 		</dict>
 		<dict>
 			<key>word</key>
 			<string>able</string>
 			<key>pronunciation</key>
-			<string></string>
+			<string>&apos;eibl</string>
 			<key>mean</key>
-			<string>adj. có năng lực, có tài</string>
+			<string>có năng lực, có tài</string>
+			<key>category</key>
+			<string>adj</string>
 		</dict>
 		<dict>
 			<key>word</key>
 			<string>unable</string>
 			<key>pronunciation</key>
-			<string></string>
+			<string>ʌn&apos;eibl</string>
 			<key>mean</key>
-			<string>adj. không thể, không có năng lực, không có tài</string>
+			<string>không thể, không có năng lực, không có tài</string>
+			<key>category</key>
+			<string>adj</string>
 		</dict>
 		<dict>
 			<key>word</key>
 			<string>about</string>
 			<key>pronunciation</key>
-			<string></string>
+			<string>ə&apos;baut</string>
 			<key>mean</key>
-			<string>adv. khoảng chừng, xấp xỉ</string>
+			<string>khoảng chừng, xấp xỉ</string>
+			<key>category</key>
+			<string>adv</string>
 		</dict>
 		<dict>
 			<key>word</key>
 			<string>about</string>
 			<key>pronunciation</key>
-			<string></string>
+			<string>əˈbaʊt</string>
 			<key>mean</key>
-			<string>prep. về, đây đó</string>
+			<string>về, đây đó</string>
+			<key>category</key>
+			<string>prep</string>
 		</dict>
 		<dict>
 			<key>word</key>
 			<string>above</string>
 			<key>pronunciation</key>
-			<string></string>
+			<string>ə&apos;bʌv</string>
 			<key>mean</key>
-			<string>adv. trên đầu, ở trên, phía trên</string>
+			<string>rên đầu, ở trên, phía trên</string>
+			<key>category</key>
+			<string>adv</string>
 		</dict>
 		<dict>
 			<key>word</key>
 			<string>above</string>
 			<key>pronunciation</key>
-			<string></string>
+			<string>ə&apos;bʌv</string>
 			<key>mean</key>
-			<string>prep. hơn, trên</string>
+			<string>hơn, trên</string>
+			<key>category</key>
+			<string>prep</string>
 		</dict>
 		<dict>
 			<key>word</key>
-			<string>adroad</string>
+			<string>abroad</string>
 			<key>pronunciation</key>
-			<string></string>
+			<string>ə&apos;brɔ:d</string>
 			<key>mean</key>
-			<string>adv. ở nước ngoài, hải ngoại</string>
+			<string>ở nước ngoài, hải ngoại</string>
+			<key>category</key>
+			<string>adv</string>
 		</dict>
 		<dict>
 			<key>word</key>
-			<string>absense</string>
+			<string>absence</string>
 			<key>pronunciation</key>
-			<string></string>
+			<string>ˈæb.səns</string>
 			<key>mean</key>
-			<string>n. sự vắng mặt</string>
+			<string>sự vắng mặt</string>
+			<key>category</key>
+			<string>n</string>
 		</dict>
 		<dict>
 			<key>word</key>
 			<string>absent</string>
 			<key>pronunciation</key>
-			<string></string>
+			<string>&apos;æbsənt</string>
 			<key>mean</key>
-			<string>adj. vắng mặt, nghỉ</string>
+			<string>vắng mặt, nghỉ</string>
+			<key>category</key>
+			<string>adj</string>
 		</dict>
 		<dict>
 			<key>word</key>
 			<string>absolute</string>
 			<key>pronunciation</key>
-			<string></string>
+			<string>&apos;æbsəlu:t</string>
 			<key>mean</key>
 			<string>adj. tuyệt đối, hoàn toàn</string>
+			<key>category</key>
+			<string>adj</string>
 		</dict>
 		<dict>
 			<key>word</key>
 			<string>absolutely</string>
 			<key>pronunciation</key>
+			<string>&apos;æbsəlu:tli</string>
+			<key>mean</key>
+			<string>tuyệt đối, hoàn toàn, chắc chắn</string>
+			<key>category</key>
+			<string>adv</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>absorb</string>
+			<key>pronunciation</key>
+			<string>əbˈzɔːrb</string>
+			<key>mean</key>
+			<string>hút, hấp thu, lôi cuốn</string>
+			<key>category</key>
+			<string>v</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>abuse</string>
+			<key>pronunciation</key>
+			<string>əˈbjuːz</string>
+			<key>mean</key>
+			<string>sự lạm dụng, sự lăng mạ</string>
+			<key>category</key>
+			<string>n</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>abuse</string>
+			<key>pronunciation</key>
+			<string>əˈbjuːz</string>
+			<key>mean</key>
+			<string>lạm dụng, lăng mạ, sỉ nhục</string>
+			<key>category</key>
+			<string>v</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>academic</string>
+			<key>pronunciation</key>
+			<string>ˌæk.əˈdem.ɪk</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>hội viên, học viên</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>academic</string>
+			<key>pronunciation</key>
+			<string>ˌæk.əˈdem.ɪk</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>thuộc học viện</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>accent</string>
+			<key>pronunciation</key>
+			<string>ˈæk.sənt</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>trọng âm</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>accent</string>
+			<key>pronunciation</key>
+			<string>ˈæk.sənt</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>đánh dấu trọng âm</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>accept</string>
+			<key>pronunciation</key>
+			<string>əkˈsept</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>chấp nhận, chấp thuận</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>acceptable</string>
+			<key>pronunciation</key>
+			<string>əkˈsept.ə.bəl</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>có thể chấp nhận</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>unacceptable</string>
+			<key>pronunciation</key>
+			<string>ˌʌn.əkˈsep.t̬ə.bəl</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>không thể chấp nhận</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>access</string>
+			<key>pronunciation</key>
+			<string>ˈæk.ses</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>lối vào, cửa, đường vào</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>accident</string>
+			<key>pronunciation</key>
+			<string>ˈæk.sə.dənt</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>tai nạn, rủi ro</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>access</string>
+			<key>pronunciation</key>
+			<string>ˈæk.ses</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>truy cập</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>by accident</string>
+			<key>pronunciation</key>
+			<string>baɪ ˈæk.sə.dənt</string>
+			<key>category</key>
 			<string></string>
 			<key>mean</key>
-			<string>adv. tuyệt đối, hoàn toàn, chắc chắn</string>
+			<string>ngẫu nhiên, tình cơ</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>accidental</string>
+			<key>pronunciation</key>
+			<string>ˌæk.səˈden.t̬əl</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>tình cờ, ngẫu nhiên</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>accommodation</string>
+			<key>pronunciation</key>
+			<string>əˌkɑː.məˈdeɪ.ʃən</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>chỗ ăn ở, chỗ trọ</string>
 		</dict>
 	</array>
 </dict>
