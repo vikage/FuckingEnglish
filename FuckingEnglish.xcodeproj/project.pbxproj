@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0414BAA62192836E00D596A8 /* DataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0414BAA52192836E00D596A8 /* DataManager.m */; };
 		04282CFC21919E2D00585781 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04282CFB21919E2D00585781 /* AppDelegate.m */; };
 		04282CFF21919E2D00585781 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04282CFE21919E2D00585781 /* ViewController.m */; };
 		04282D0221919E2D00585781 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04282D0021919E2D00585781 /* Main.storyboard */; };
@@ -14,6 +15,19 @@
 		04282D0721919E3000585781 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04282D0521919E3000585781 /* LaunchScreen.storyboard */; };
 		04282D0A21919E3000585781 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04282D0921919E3000585781 /* main.m */; };
 		04282D1421919E3000585781 /* FuckingEnglishTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04282D1321919E3000585781 /* FuckingEnglishTests.m */; };
+		04282D2421919F3D00585781 /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04282D2221919F3D00585781 /* Interface.storyboard */; };
+		04282D2621919F3E00585781 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04282D2521919F3E00585781 /* Assets.xcassets */; };
+		04282D2D21919F3E00585781 /* FuckingEnglishAppleWatch Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 04282D2C21919F3E00585781 /* FuckingEnglishAppleWatch Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		04282D3321919F3E00585781 /* InterfaceController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04282D3221919F3E00585781 /* InterfaceController.m */; };
+		04282D3621919F3E00585781 /* ExtensionDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04282D3521919F3E00585781 /* ExtensionDelegate.m */; };
+		04282D3921919F3E00585781 /* NotificationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04282D3821919F3E00585781 /* NotificationController.m */; };
+		04282D3C21919F3E00585781 /* ComplicationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04282D3B21919F3E00585781 /* ComplicationController.m */; };
+		04282D3E21919F3F00585781 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04282D3D21919F3F00585781 /* Assets.xcassets */; };
+		04282D4321919F3F00585781 /* FuckingEnglishAppleWatch.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 04282D2021919F3D00585781 /* FuckingEnglishAppleWatch.app */; };
+		0431CFAB2192845A00264F3C /* Vocabularies.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0431CFAA2192845A00264F3C /* Vocabularies.plist */; };
+		0431CFAE219286AD00264F3C /* Vocabulary.m in Sources */ = {isa = PBXBuildFile; fileRef = 0431CFAD219286AD00264F3C /* Vocabulary.m */; };
+		87D420988B54AF051456AB60 /* libPods-FuckingEnglishTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 808AF493329BCF4310056710 /* libPods-FuckingEnglishTests.a */; };
+		FD4FAD8FB20868A0F9F3140C /* libPods-FuckingEnglish.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 20CBE4771C7ADBA89C0C8DD2 /* libPods-FuckingEnglish.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -24,9 +38,50 @@
 			remoteGlobalIDString = 04282CF621919E2D00585781;
 			remoteInfo = FuckingEnglish;
 		};
+		04282D2E21919F3E00585781 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04282CEF21919E2D00585781 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04282D2B21919F3E00585781;
+			remoteInfo = "FuckingEnglishAppleWatch Extension";
+		};
+		04282D4121919F3F00585781 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04282CEF21919E2D00585781 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04282D1F21919F3D00585781;
+			remoteInfo = FuckingEnglishAppleWatch;
+		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		04282D4921919F3F00585781 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				04282D2D21919F3E00585781 /* FuckingEnglishAppleWatch Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04282D4B21919F3F00585781 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				04282D4321919F3F00585781 /* FuckingEnglishAppleWatch.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		0414BAA42192836E00D596A8 /* DataManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DataManager.h; sourceTree = "<group>"; };
+		0414BAA52192836E00D596A8 /* DataManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DataManager.m; sourceTree = "<group>"; };
 		04282CF721919E2D00585781 /* FuckingEnglish.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FuckingEnglish.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04282CFA21919E2D00585781 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		04282CFB21919E2D00585781 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -40,6 +95,31 @@
 		04282D0F21919E3000585781 /* FuckingEnglishTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FuckingEnglishTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04282D1321919E3000585781 /* FuckingEnglishTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FuckingEnglishTests.m; sourceTree = "<group>"; };
 		04282D1521919E3000585781 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04282D2021919F3D00585781 /* FuckingEnglishAppleWatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FuckingEnglishAppleWatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04282D2321919F3D00585781 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
+		04282D2521919F3E00585781 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		04282D2721919F3E00585781 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04282D2C21919F3E00585781 /* FuckingEnglishAppleWatch Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "FuckingEnglishAppleWatch Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		04282D3121919F3E00585781 /* InterfaceController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InterfaceController.h; sourceTree = "<group>"; };
+		04282D3221919F3E00585781 /* InterfaceController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InterfaceController.m; sourceTree = "<group>"; };
+		04282D3421919F3E00585781 /* ExtensionDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ExtensionDelegate.h; sourceTree = "<group>"; };
+		04282D3521919F3E00585781 /* ExtensionDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExtensionDelegate.m; sourceTree = "<group>"; };
+		04282D3721919F3E00585781 /* NotificationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NotificationController.h; sourceTree = "<group>"; };
+		04282D3821919F3E00585781 /* NotificationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NotificationController.m; sourceTree = "<group>"; };
+		04282D3A21919F3E00585781 /* ComplicationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ComplicationController.h; sourceTree = "<group>"; };
+		04282D3B21919F3E00585781 /* ComplicationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ComplicationController.m; sourceTree = "<group>"; };
+		04282D3D21919F3F00585781 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		04282D3F21919F3F00585781 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04282D4021919F3F00585781 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		0431CFAA2192845A00264F3C /* Vocabularies.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Vocabularies.plist; sourceTree = "<group>"; };
+		0431CFAC219286AD00264F3C /* Vocabulary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Vocabulary.h; sourceTree = "<group>"; };
+		0431CFAD219286AD00264F3C /* Vocabulary.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Vocabulary.m; sourceTree = "<group>"; };
+		20CBE4771C7ADBA89C0C8DD2 /* libPods-FuckingEnglish.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FuckingEnglish.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5CB4A395B1F9BE5CF888AB79 /* Pods-FuckingEnglish.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FuckingEnglish.release.xcconfig"; path = "Pods/Target Support Files/Pods-FuckingEnglish/Pods-FuckingEnglish.release.xcconfig"; sourceTree = "<group>"; };
+		808AF493329BCF4310056710 /* libPods-FuckingEnglishTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FuckingEnglishTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9970A9BD98466311F0F91C60 /* Pods-FuckingEnglish.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FuckingEnglish.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FuckingEnglish/Pods-FuckingEnglish.debug.xcconfig"; sourceTree = "<group>"; };
+		A7E96F7C840F14A1D303AE1B /* Pods-FuckingEnglishTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FuckingEnglishTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-FuckingEnglishTests/Pods-FuckingEnglishTests.release.xcconfig"; sourceTree = "<group>"; };
+		EFCE3B5A7F2FE9A8E36EC448 /* Pods-FuckingEnglishTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FuckingEnglishTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FuckingEnglishTests/Pods-FuckingEnglishTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,10 +127,19 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD4FAD8FB20868A0F9F3140C /* libPods-FuckingEnglish.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		04282D0C21919E3000585781 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				87D420988B54AF051456AB60 /* libPods-FuckingEnglishTests.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04282D2921919F3E00585781 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -65,7 +154,11 @@
 			children = (
 				04282CF921919E2D00585781 /* FuckingEnglish */,
 				04282D1221919E3000585781 /* FuckingEnglishTests */,
+				04282D2121919F3D00585781 /* FuckingEnglishAppleWatch */,
+				04282D3021919F3E00585781 /* FuckingEnglishAppleWatch Extension */,
 				04282CF821919E2D00585781 /* Products */,
+				9B1E18142979F35F2C26CF01 /* Pods */,
+				C7AB7C0E64DC0A4DA88EFED3 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -74,6 +167,8 @@
 			children = (
 				04282CF721919E2D00585781 /* FuckingEnglish.app */,
 				04282D0F21919E3000585781 /* FuckingEnglishTests.xctest */,
+				04282D2021919F3D00585781 /* FuckingEnglishAppleWatch.app */,
+				04282D2C21919F3E00585781 /* FuckingEnglishAppleWatch Extension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -103,6 +198,59 @@
 			path = FuckingEnglishTests;
 			sourceTree = "<group>";
 		};
+		04282D2121919F3D00585781 /* FuckingEnglishAppleWatch */ = {
+			isa = PBXGroup;
+			children = (
+				04282D2221919F3D00585781 /* Interface.storyboard */,
+				04282D2521919F3E00585781 /* Assets.xcassets */,
+				04282D2721919F3E00585781 /* Info.plist */,
+			);
+			path = FuckingEnglishAppleWatch;
+			sourceTree = "<group>";
+		};
+		04282D3021919F3E00585781 /* FuckingEnglishAppleWatch Extension */ = {
+			isa = PBXGroup;
+			children = (
+				04282D3121919F3E00585781 /* InterfaceController.h */,
+				04282D3221919F3E00585781 /* InterfaceController.m */,
+				04282D3421919F3E00585781 /* ExtensionDelegate.h */,
+				04282D3521919F3E00585781 /* ExtensionDelegate.m */,
+				04282D3721919F3E00585781 /* NotificationController.h */,
+				04282D3821919F3E00585781 /* NotificationController.m */,
+				04282D3A21919F3E00585781 /* ComplicationController.h */,
+				04282D3B21919F3E00585781 /* ComplicationController.m */,
+				04282D3D21919F3F00585781 /* Assets.xcassets */,
+				04282D3F21919F3F00585781 /* Info.plist */,
+				04282D4021919F3F00585781 /* PushNotificationPayload.apns */,
+				0414BAA42192836E00D596A8 /* DataManager.h */,
+				0414BAA52192836E00D596A8 /* DataManager.m */,
+				0431CFAA2192845A00264F3C /* Vocabularies.plist */,
+				0431CFAC219286AD00264F3C /* Vocabulary.h */,
+				0431CFAD219286AD00264F3C /* Vocabulary.m */,
+			);
+			path = "FuckingEnglishAppleWatch Extension";
+			sourceTree = "<group>";
+		};
+		9B1E18142979F35F2C26CF01 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9970A9BD98466311F0F91C60 /* Pods-FuckingEnglish.debug.xcconfig */,
+				5CB4A395B1F9BE5CF888AB79 /* Pods-FuckingEnglish.release.xcconfig */,
+				EFCE3B5A7F2FE9A8E36EC448 /* Pods-FuckingEnglishTests.debug.xcconfig */,
+				A7E96F7C840F14A1D303AE1B /* Pods-FuckingEnglishTests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		C7AB7C0E64DC0A4DA88EFED3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				20CBE4771C7ADBA89C0C8DD2 /* libPods-FuckingEnglish.a */,
+				808AF493329BCF4310056710 /* libPods-FuckingEnglishTests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -110,13 +258,16 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 04282D1821919E3000585781 /* Build configuration list for PBXNativeTarget "FuckingEnglish" */;
 			buildPhases = (
+				975C53D4ABB2E0DEC71A0E2E /* [CP] Check Pods Manifest.lock */,
 				04282CF321919E2D00585781 /* Sources */,
 				04282CF421919E2D00585781 /* Frameworks */,
 				04282CF521919E2D00585781 /* Resources */,
+				04282D4B21919F3F00585781 /* Embed Watch Content */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				04282D4221919F3F00585781 /* PBXTargetDependency */,
 			);
 			name = FuckingEnglish;
 			productName = FuckingEnglish;
@@ -127,6 +278,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 04282D1B21919E3000585781 /* Build configuration list for PBXNativeTarget "FuckingEnglishTests" */;
 			buildPhases = (
+				08582CEA63BD608ED10D86FC /* [CP] Check Pods Manifest.lock */,
 				04282D0B21919E3000585781 /* Sources */,
 				04282D0C21919E3000585781 /* Frameworks */,
 				04282D0D21919E3000585781 /* Resources */,
@@ -140,6 +292,40 @@
 			productName = FuckingEnglishTests;
 			productReference = 04282D0F21919E3000585781 /* FuckingEnglishTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		04282D1F21919F3D00585781 /* FuckingEnglishAppleWatch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04282D4A21919F3F00585781 /* Build configuration list for PBXNativeTarget "FuckingEnglishAppleWatch" */;
+			buildPhases = (
+				04282D1E21919F3D00585781 /* Resources */,
+				04282D4921919F3F00585781 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				04282D2F21919F3E00585781 /* PBXTargetDependency */,
+			);
+			name = FuckingEnglishAppleWatch;
+			productName = FuckingEnglishAppleWatch;
+			productReference = 04282D2021919F3D00585781 /* FuckingEnglishAppleWatch.app */;
+			productType = "com.apple.product-type.application.watchapp2";
+		};
+		04282D2B21919F3E00585781 /* FuckingEnglishAppleWatch Extension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04282D4821919F3F00585781 /* Build configuration list for PBXNativeTarget "FuckingEnglishAppleWatch Extension" */;
+			buildPhases = (
+				04282D2821919F3E00585781 /* Sources */,
+				04282D2921919F3E00585781 /* Frameworks */,
+				04282D2A21919F3E00585781 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "FuckingEnglishAppleWatch Extension";
+			productName = "FuckingEnglishAppleWatch Extension";
+			productReference = 04282D2C21919F3E00585781 /* FuckingEnglishAppleWatch Extension.appex */;
+			productType = "com.apple.product-type.watchkit2-extension";
 		};
 /* End PBXNativeTarget section */
 
@@ -156,6 +342,17 @@
 					04282D0E21919E3000585781 = {
 						CreatedOnToolsVersion = 10.1;
 						TestTargetID = 04282CF621919E2D00585781;
+					};
+					04282D1F21919F3D00585781 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+					04282D2B21919F3E00585781 = {
+						CreatedOnToolsVersion = 10.1;
+						SystemCapabilities = {
+							com.apple.BackgroundModes.watchos.extension = {
+								enabled = 0;
+							};
+						};
 					};
 				};
 			};
@@ -174,6 +371,8 @@
 			targets = (
 				04282CF621919E2D00585781 /* FuckingEnglish */,
 				04282D0E21919E3000585781 /* FuckingEnglishTests */,
+				04282D1F21919F3D00585781 /* FuckingEnglishAppleWatch */,
+				04282D2B21919F3E00585781 /* FuckingEnglishAppleWatch Extension */,
 			);
 		};
 /* End PBXProject section */
@@ -196,7 +395,72 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		04282D1E21919F3D00585781 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04282D2621919F3E00585781 /* Assets.xcassets in Resources */,
+				04282D2421919F3D00585781 /* Interface.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04282D2A21919F3E00585781 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0431CFAB2192845A00264F3C /* Vocabularies.plist in Resources */,
+				04282D3E21919F3F00585781 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		08582CEA63BD608ED10D86FC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FuckingEnglishTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		975C53D4ABB2E0DEC71A0E2E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FuckingEnglish-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		04282CF321919E2D00585781 /* Sources */ = {
@@ -217,6 +481,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		04282D2821919F3E00585781 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04282D3621919F3E00585781 /* ExtensionDelegate.m in Sources */,
+				0431CFAE219286AD00264F3C /* Vocabulary.m in Sources */,
+				0414BAA62192836E00D596A8 /* DataManager.m in Sources */,
+				04282D3C21919F3E00585781 /* ComplicationController.m in Sources */,
+				04282D3321919F3E00585781 /* InterfaceController.m in Sources */,
+				04282D3921919F3E00585781 /* NotificationController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -224,6 +501,16 @@
 			isa = PBXTargetDependency;
 			target = 04282CF621919E2D00585781 /* FuckingEnglish */;
 			targetProxy = 04282D1021919E3000585781 /* PBXContainerItemProxy */;
+		};
+		04282D2F21919F3E00585781 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04282D2B21919F3E00585781 /* FuckingEnglishAppleWatch Extension */;
+			targetProxy = 04282D2E21919F3E00585781 /* PBXContainerItemProxy */;
+		};
+		04282D4221919F3F00585781 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04282D1F21919F3D00585781 /* FuckingEnglishAppleWatch */;
+			targetProxy = 04282D4121919F3F00585781 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -242,6 +529,14 @@
 				04282D0621919E3000585781 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		04282D2221919F3D00585781 /* Interface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04282D2321919F3D00585781 /* Base */,
+			);
+			name = Interface.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -361,10 +656,13 @@
 		};
 		04282D1921919E3000585781 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9970A9BD98466311F0F91C60 /* Pods-FuckingEnglish.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = TFAR74HVP6;
 				INFOPLIST_FILE = FuckingEnglish/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -377,10 +675,13 @@
 		};
 		04282D1A21919E3000585781 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5CB4A395B1F9BE5CF888AB79 /* Pods-FuckingEnglish.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = TFAR74HVP6;
 				INFOPLIST_FILE = FuckingEnglish/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -393,6 +694,7 @@
 		};
 		04282D1C21919E3000585781 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EFCE3B5A7F2FE9A8E36EC448 /* Pods-FuckingEnglishTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -411,6 +713,7 @@
 		};
 		04282D1D21919E3000585781 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A7E96F7C840F14A1D303AE1B /* Pods-FuckingEnglishTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -424,6 +727,86 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FuckingEnglish.app/FuckingEnglish";
+			};
+			name = Release;
+		};
+		04282D4421919F3F00585781 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = TFAR74HVP6;
+				IBSC_MODULE = FuckingEnglishAppleWatch_Extension;
+				INFOPLIST_FILE = FuckingEnglishAppleWatch/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglish.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 5;
+			};
+			name = Debug;
+		};
+		04282D4521919F3F00585781 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = TFAR74HVP6;
+				IBSC_MODULE = FuckingEnglishAppleWatch_Extension;
+				INFOPLIST_FILE = FuckingEnglishAppleWatch/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglish.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 5;
+			};
+			name = Release;
+		};
+		04282D4621919F3F00585781 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = TFAR74HVP6;
+				INFOPLIST_FILE = "FuckingEnglishAppleWatch Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglish.watchkitapp.watchkitextension;
+				PRODUCT_NAME = "${TARGET_NAME}";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 5;
+			};
+			name = Debug;
+		};
+		04282D4721919F3F00585781 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = TFAR74HVP6;
+				INFOPLIST_FILE = "FuckingEnglishAppleWatch Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglish.watchkitapp.watchkitextension;
+				PRODUCT_NAME = "${TARGET_NAME}";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 5;
 			};
 			name = Release;
 		};
@@ -453,6 +836,24 @@
 			buildConfigurations = (
 				04282D1C21919E3000585781 /* Debug */,
 				04282D1D21919E3000585781 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04282D4821919F3F00585781 /* Build configuration list for PBXNativeTarget "FuckingEnglishAppleWatch Extension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04282D4621919F3F00585781 /* Debug */,
+				04282D4721919F3F00585781 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04282D4A21919F3F00585781 /* Build configuration list for PBXNativeTarget "FuckingEnglishAppleWatch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04282D4421919F3F00585781 /* Debug */,
+				04282D4521919F3F00585781 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

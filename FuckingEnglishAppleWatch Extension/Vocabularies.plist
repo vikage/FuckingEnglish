@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>words</key>
+	<array>
+		<dict>
+			<key>word</key>
+			<string>abandon</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>n. sự phóng túng, sự tự do, sự buông thả</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>abandon</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>v. từ bỏ, bỏ rơi, ruồng bỏ</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>abandoned</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>adj. bị bỏ rơi, bị ruồng bỏ</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>ability</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>n. khả năng, năng lực</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string></string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>able</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>adj. có năng lực, có tài</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>unable</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>adj. không thể, không có năng lực, không có tài</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>about</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>adv. khoảng chừng, xấp xỉ</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>about</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>prep. về, đây đó</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>above</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>adv. trên đầu, ở trên, phía trên</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>above</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>prep. hơn, trên</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>adroad</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>adv. ở nước ngoài, hải ngoại</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>absense</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>n. sự vắng mặt</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>absent</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>adj. vắng mặt, nghỉ</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>absolute</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>adj. tuyệt đối, hoàn toàn</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>absolutely</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>mean</key>
+			<string>adv. tuyệt đối, hoàn toàn, chắc chắn</string>
+		</dict>
+	</array>
+</dict>
+</plist>
