@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0414BAA62192836E00D596A8 /* DataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0414BAA52192836E00D596A8 /* DataManager.m */; };
 		04282CFC21919E2D00585781 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04282CFB21919E2D00585781 /* AppDelegate.m */; };
 		04282CFF21919E2D00585781 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04282CFE21919E2D00585781 /* ViewController.m */; };
 		04282D0221919E2D00585781 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04282D0021919E2D00585781 /* Main.storyboard */; };
@@ -26,6 +25,14 @@
 		04282D4321919F3F00585781 /* FuckingEnglishAppleWatch.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 04282D2021919F3D00585781 /* FuckingEnglishAppleWatch.app */; };
 		0431CFAB2192845A00264F3C /* Vocabularies.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0431CFAA2192845A00264F3C /* Vocabularies.plist */; };
 		0431CFAE219286AD00264F3C /* Vocabulary.m in Sources */ = {isa = PBXBuildFile; fileRef = 0431CFAD219286AD00264F3C /* Vocabulary.m */; };
+		048756362193FD8200EC3C8B /* DataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0414BAA52192836E00D596A8 /* DataManager.m */; };
+		048756372193FD8200EC3C8B /* Vocabularies.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0431CFAA2192845A00264F3C /* Vocabularies.plist */; };
+		048756382193FD8200EC3C8B /* Vocabulary.m in Sources */ = {isa = PBXBuildFile; fileRef = 0431CFAD219286AD00264F3C /* Vocabulary.m */; };
+		0487563B2193FE5B00EC3C8B /* VocabularyCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0487563A2193FE5B00EC3C8B /* VocabularyCell.m */; };
+		04ED73A62193FF5C00046F62 /* DataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0414BAA52192836E00D596A8 /* DataManager.m */; };
+		04ED73A92194009A00046F62 /* Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 04ED73A82194009A00046F62 /* Utils.m */; };
+		04ED73AA2194009A00046F62 /* Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 04ED73A82194009A00046F62 /* Utils.m */; };
+		04ED73AD219401A100046F62 /* BaseNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04ED73AC219401A100046F62 /* BaseNavigationController.m */; };
 		04F099F42193C52E000D304B /* VocabularyRow.m in Sources */ = {isa = PBXBuildFile; fileRef = 0431CFE42192F91F00264F3C /* VocabularyRow.m */; };
 		87D420988B54AF051456AB60 /* libPods-FuckingEnglishTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 808AF493329BCF4310056710 /* libPods-FuckingEnglishTests.a */; };
 		FD4FAD8FB20868A0F9F3140C /* libPods-FuckingEnglish.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 20CBE4771C7ADBA89C0C8DD2 /* libPods-FuckingEnglish.a */; };
@@ -117,6 +124,12 @@
 		0431CFAD219286AD00264F3C /* Vocabulary.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Vocabulary.m; sourceTree = "<group>"; };
 		0431CFE32192F91F00264F3C /* VocabularyRow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VocabularyRow.h; sourceTree = "<group>"; };
 		0431CFE42192F91F00264F3C /* VocabularyRow.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VocabularyRow.m; sourceTree = "<group>"; };
+		048756392193FE5B00EC3C8B /* VocabularyCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VocabularyCell.h; sourceTree = "<group>"; };
+		0487563A2193FE5B00EC3C8B /* VocabularyCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VocabularyCell.m; sourceTree = "<group>"; };
+		04ED73A72194009A00046F62 /* Utils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Utils.h; sourceTree = "<group>"; };
+		04ED73A82194009A00046F62 /* Utils.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Utils.m; sourceTree = "<group>"; };
+		04ED73AB219401A100046F62 /* BaseNavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseNavigationController.h; sourceTree = "<group>"; };
+		04ED73AC219401A100046F62 /* BaseNavigationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaseNavigationController.m; sourceTree = "<group>"; };
 		20CBE4771C7ADBA89C0C8DD2 /* libPods-FuckingEnglish.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FuckingEnglish.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CB4A395B1F9BE5CF888AB79 /* Pods-FuckingEnglish.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FuckingEnglish.release.xcconfig"; path = "Pods/Target Support Files/Pods-FuckingEnglish/Pods-FuckingEnglish.release.xcconfig"; sourceTree = "<group>"; };
 		808AF493329BCF4310056710 /* libPods-FuckingEnglishTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FuckingEnglishTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -155,6 +168,7 @@
 		04282CEE21919E2D00585781 = {
 			isa = PBXGroup;
 			children = (
+				048756352193FD6F00EC3C8B /* Common */,
 				04282CF921919E2D00585781 /* FuckingEnglish */,
 				04282D1221919E3000585781 /* FuckingEnglishTests */,
 				04282D2121919F3D00585781 /* FuckingEnglishAppleWatch */,
@@ -188,6 +202,10 @@
 				04282D0521919E3000585781 /* LaunchScreen.storyboard */,
 				04282D0821919E3000585781 /* Info.plist */,
 				04282D0921919E3000585781 /* main.m */,
+				048756392193FE5B00EC3C8B /* VocabularyCell.h */,
+				0487563A2193FE5B00EC3C8B /* VocabularyCell.m */,
+				04ED73AB219401A100046F62 /* BaseNavigationController.h */,
+				04ED73AC219401A100046F62 /* BaseNavigationController.m */,
 			);
 			path = FuckingEnglish;
 			sourceTree = "<group>";
@@ -227,13 +245,22 @@
 				04282D3D21919F3F00585781 /* Assets.xcassets */,
 				04282D3F21919F3F00585781 /* Info.plist */,
 				04282D4021919F3F00585781 /* PushNotificationPayload.apns */,
+			);
+			path = "FuckingEnglishAppleWatch Extension";
+			sourceTree = "<group>";
+		};
+		048756352193FD6F00EC3C8B /* Common */ = {
+			isa = PBXGroup;
+			children = (
 				0414BAA42192836E00D596A8 /* DataManager.h */,
 				0414BAA52192836E00D596A8 /* DataManager.m */,
 				0431CFAA2192845A00264F3C /* Vocabularies.plist */,
 				0431CFAC219286AD00264F3C /* Vocabulary.h */,
 				0431CFAD219286AD00264F3C /* Vocabulary.m */,
+				04ED73A72194009A00046F62 /* Utils.h */,
+				04ED73A82194009A00046F62 /* Utils.m */,
 			);
-			path = "FuckingEnglishAppleWatch Extension";
+			path = Common;
 			sourceTree = "<group>";
 		};
 		9B1E18142979F35F2C26CF01 /* Pods */ = {
@@ -387,6 +414,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				048756372193FD8200EC3C8B /* Vocabularies.plist in Resources */,
 				04282D0721919E3000585781 /* LaunchScreen.storyboard in Resources */,
 				04282D0421919E3000585781 /* Assets.xcassets in Resources */,
 				04282D0221919E2D00585781 /* Main.storyboard in Resources */,
@@ -473,8 +501,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				04282CFF21919E2D00585781 /* ViewController.m in Sources */,
+				048756362193FD8200EC3C8B /* DataManager.m in Sources */,
 				04282D0A21919E3000585781 /* main.m in Sources */,
+				048756382193FD8200EC3C8B /* Vocabulary.m in Sources */,
+				04ED73AD219401A100046F62 /* BaseNavigationController.m in Sources */,
 				04282CFC21919E2D00585781 /* AppDelegate.m in Sources */,
+				04ED73A92194009A00046F62 /* Utils.m in Sources */,
+				0487563B2193FE5B00EC3C8B /* VocabularyCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -492,7 +525,8 @@
 			files = (
 				04282D3621919F3E00585781 /* ExtensionDelegate.m in Sources */,
 				0431CFAE219286AD00264F3C /* Vocabulary.m in Sources */,
-				0414BAA62192836E00D596A8 /* DataManager.m in Sources */,
+				04ED73A62193FF5C00046F62 /* DataManager.m in Sources */,
+				04ED73AA2194009A00046F62 /* Utils.m in Sources */,
 				04282D3C21919F3E00585781 /* ComplicationController.m in Sources */,
 				04282D3321919F3E00585781 /* InterfaceController.m in Sources */,
 				04282D3921919F3E00585781 /* NotificationController.m in Sources */,
