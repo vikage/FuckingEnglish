@@ -63,4 +63,9 @@
     
     return [self.vocaburies objectAtIndex:index];
 }
+
+-(NSArray<Vocabulary *> *)allVocabulary
+{
+    return self.vocaburies;
+}
 @end

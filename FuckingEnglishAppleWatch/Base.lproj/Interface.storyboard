@@ -14,17 +14,18 @@
             <objects>
                 <controller id="AgC-eL-Hgc" customClass="InterfaceController">
                     <items>
-                        <table alignment="left" id="8TV-5c-mq1">
+                        <table alignment="left" spacing="10" id="8TV-5c-mq1">
                             <items>
                                 <tableRow identifier="VocabularyRow" id="oNI-nj-X6j" customClass="VocabularyRow">
-                                    <group key="rootItem" width="1" height="52" alignment="left" layout="vertical" id="23i-Br-c31">
+                                    <group key="rootItem" width="1" height="0.0" alignment="left" layout="vertical" spacing="4" id="23i-Br-c31">
                                         <items>
-                                            <label alignment="left" text="Label" id="78u-cq-od1"/>
-                                            <label alignment="left" text="Label" id="n8f-Aq-tA7"/>
+                                            <label alignment="left" text="Label" numberOfLines="0" id="78u-cq-od1"/>
+                                            <label alignment="left" text="Label" numberOfLines="0" id="n8f-Aq-tA7"/>
                                         </items>
                                     </group>
                                     <connections>
-                                        <outlet property="wordLabel" destination="78u-cq-od1" id="EmW-sf-YDL"/>
+                                        <outlet property="meanLabel" destination="n8f-Aq-tA7" id="5GQ-ro-tqr"/>
+                                        <outlet property="wordLabel" destination="78u-cq-od1" id="aKe-3r-bnQ"/>
                                     </connections>
                                 </tableRow>
                             </items>

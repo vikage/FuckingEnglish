@@ -26,7 +26,7 @@
 		04282D4321919F3F00585781 /* FuckingEnglishAppleWatch.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 04282D2021919F3D00585781 /* FuckingEnglishAppleWatch.app */; };
 		0431CFAB2192845A00264F3C /* Vocabularies.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0431CFAA2192845A00264F3C /* Vocabularies.plist */; };
 		0431CFAE219286AD00264F3C /* Vocabulary.m in Sources */ = {isa = PBXBuildFile; fileRef = 0431CFAD219286AD00264F3C /* Vocabulary.m */; };
-		0431CFE62192F92300264F3C /* VocabularyRow.m in Sources */ = {isa = PBXBuildFile; fileRef = 0431CFE42192F91F00264F3C /* VocabularyRow.m */; };
+		04F099F42193C52E000D304B /* VocabularyRow.m in Sources */ = {isa = PBXBuildFile; fileRef = 0431CFE42192F91F00264F3C /* VocabularyRow.m */; };
 		87D420988B54AF051456AB60 /* libPods-FuckingEnglishTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 808AF493329BCF4310056710 /* libPods-FuckingEnglishTests.a */; };
 		FD4FAD8FB20868A0F9F3140C /* libPods-FuckingEnglish.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 20CBE4771C7ADBA89C0C8DD2 /* libPods-FuckingEnglish.a */; };
 /* End PBXBuildFile section */
@@ -207,6 +207,8 @@
 				04282D2221919F3D00585781 /* Interface.storyboard */,
 				04282D2521919F3E00585781 /* Assets.xcassets */,
 				04282D2721919F3E00585781 /* Info.plist */,
+				0431CFE32192F91F00264F3C /* VocabularyRow.h */,
+				0431CFE42192F91F00264F3C /* VocabularyRow.m */,
 			);
 			path = FuckingEnglishAppleWatch;
 			sourceTree = "<group>";
@@ -230,8 +232,6 @@
 				0431CFAA2192845A00264F3C /* Vocabularies.plist */,
 				0431CFAC219286AD00264F3C /* Vocabulary.h */,
 				0431CFAD219286AD00264F3C /* Vocabulary.m */,
-				0431CFE32192F91F00264F3C /* VocabularyRow.h */,
-				0431CFE42192F91F00264F3C /* VocabularyRow.m */,
 			);
 			path = "FuckingEnglishAppleWatch Extension";
 			sourceTree = "<group>";
@@ -474,7 +474,6 @@
 			files = (
 				04282CFF21919E2D00585781 /* ViewController.m in Sources */,
 				04282D0A21919E3000585781 /* main.m in Sources */,
-				0431CFE62192F92300264F3C /* VocabularyRow.m in Sources */,
 				04282CFC21919E2D00585781 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -497,6 +496,7 @@
 				04282D3C21919F3E00585781 /* ComplicationController.m in Sources */,
 				04282D3321919F3E00585781 /* InterfaceController.m in Sources */,
 				04282D3921919F3E00585781 /* NotificationController.m in Sources */,
+				04F099F42193C52E000D304B /* VocabularyRow.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

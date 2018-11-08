@@ -7,11 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-
-NS_ASSUME_NONNULL_BEGIN
-
+#import <WatchKit/WatchKit.h>
 @interface VocabularyRow : NSObject
 @property (nonatomic, strong) IBOutlet WKInterfaceLabel *wordLabel;
+@property (nonatomic, strong) IBOutlet WKInterfaceLabel *meanLabel;
 @end
-
-NS_ASSUME_NONNULL_END
