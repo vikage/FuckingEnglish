@@ -10,7 +10,7 @@
 #import "Vocabulary.h"
 #import "DataManager.h"
 #import "VocabularyRow.h"
-
+#import <AVFoundation/AVFoundation.h>
 @interface InterfaceController ()
 @property (nonatomic, strong) NSArray<Vocabulary *> *vocabularies;
 @end
@@ -53,9 +53,29 @@
     }
 }
 
+-(void)table:(WKInterfaceTable *)table didSelectRowAtIndex:(NSInteger)rowIndex
+{
+    Vocabulary *vocabulary = [self.vocabularies objectAtIndex:rowIndex];
+    
+    [self speech:vocabulary.word];
+}
+
 - (void)didDeactivate {
     // This method is called when watch view controller is no longer visible
     [super didDeactivate];
+}
+
+-(void)speech:(NSString *)text {
+    [[AVAudioSession sharedInstance] setCategory:AVAudioSessionCategoryPlayback error:nil];
+    AVSpeechSynthesizer *synthesizer = [[AVSpeechSynthesizer alloc] init];
+    
+    AVSpeechUtterance *speechutt = [AVSpeechUtterance speechUtteranceWithString:text];
+    speechutt.volume=90.0f;
+    speechutt.rate=0.50f;
+    speechutt.pitchMultiplier=0.80f;
+    [speechutt setRate:0.3f];
+    speechutt.voice = [AVSpeechSynthesisVoice voiceWithLanguage:@"en-us"];
+    [synthesizer speakUtterance:speechutt];
 }
 
 @end

@@ -9,6 +9,7 @@
 #import "ViewController.h"
 #import "DataManager.h"
 #import "VocabularyCell.h"
+#import <AVFoundation/AVFoundation.h>
 @interface ViewController ()<UITableViewDataSource, UITableViewDelegate, UISearchBarDelegate>
 @property (nonatomic, strong) NSArray *vocabularies;
 @property (nonatomic, strong) NSDictionary *vocabularyDataDict;
@@ -78,12 +79,8 @@
 }
 
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    NSArray *sectionTitles = [self getSessionIndexTitle];
-    NSString *sectionTitle = [sectionTitles objectAtIndex:indexPath.section];
-    NSArray *vocabulariesInSection = [self.dataSource objectForKey:sectionTitle];
-    
     VocabularyCell *cell = [tableView dequeueReusableCellWithIdentifier:@"VocabularyCell"];
-    Vocabulary *vocabulary = [vocabulariesInSection objectAtIndex:indexPath.row];
+    Vocabulary *vocabulary = [self vocabularyAtIndex:indexPath];
     
     NSMutableAttributedString *headerAtt = [[NSMutableAttributedString alloc] init];
     [headerAtt appendAttributedString:[[NSAttributedString alloc] initWithString:vocabulary.word attributes:@{NSForegroundColorAttributeName:UIColorFromRGB(0x8D9440)}]];
@@ -103,6 +100,9 @@
 
 -(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     [tableView deselectRowAtIndexPath:indexPath animated:YES];
+    
+    Vocabulary *vocabulary = [self vocabularyAtIndex:indexPath];
+    [self speech:vocabulary.word];
 }
 
 -(NSArray<NSString *> *)sectionIndexTitlesForTableView:(UITableView *)tableView {
@@ -152,5 +152,28 @@
     return [titles sortedArrayUsingComparator:^NSComparisonResult(NSString *  _Nonnull obj1, NSString *  _Nonnull obj2) {
         return [obj1 compare:obj2];
     }];
+}
+
+-(Vocabulary *) vocabularyAtIndex:(NSIndexPath *)indexPath {
+    NSArray *sectionTitles = [self getSessionIndexTitle];
+    NSString *sectionTitle = [sectionTitles objectAtIndex:indexPath.section];
+    NSArray *vocabulariesInSection = [self.dataSource objectForKey:sectionTitle];
+    
+    Vocabulary *vocabulary = [vocabulariesInSection objectAtIndex:indexPath.row];
+    
+    return vocabulary;
+}
+
+-(void)speech:(NSString *)text {
+    [[AVAudioSession sharedInstance] setCategory:AVAudioSessionCategoryPlayback error:nil];
+    AVSpeechSynthesizer *synthesizer = [[AVSpeechSynthesizer alloc] init];
+    
+    AVSpeechUtterance *speechutt = [AVSpeechUtterance speechUtteranceWithString:text];
+    speechutt.volume=90.0f;
+    speechutt.rate=0.50f;
+    speechutt.pitchMultiplier=0.80f;
+    [speechutt setRate:0.3f];
+    speechutt.voice = [AVSpeechSynthesisVoice voiceWithLanguage:@"en-us"];
+    [synthesizer speakUtterance:speechutt];
 }
 @end
