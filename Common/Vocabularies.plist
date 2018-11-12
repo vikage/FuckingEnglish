@@ -494,6 +494,826 @@
 			<key>mean</key>
 			<string>hành động, hành vi, tác động</string>
 		</dict>
+		<dict>
+			<key>word</key>
+			<string>active</string>
+			<key>pronunciation</key>
+			<string>ˈæk.tɪv</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>tích cực hoạt động, nhanh nhẹn</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>actively</string>
+			<key>pronunciation</key>
+			<string>ˈæk.tɪv.li</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>tích cực hoạt động, nhanh nhẹn</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>actor</string>
+			<key>pronunciation</key>
+			<string>ˈæk.tɚ</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>diễn viên nam</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>actress</string>
+			<key>pronunciation</key>
+			<string>ˈæk.trəs</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>diễn viên nữ</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>actual</string>
+			<key>pronunciation</key>
+			<string>ˈæk.tʃu.əl</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>thực tế, có thật</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>actually</string>
+			<key>pronunciation</key>
+			<string>ˈæk.tʃu.ə.li</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>hiện nay, hiện tại</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>adapt</string>
+			<key>pronunciation</key>
+			<string>əˈdæpt</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>tra vào, lắp vào</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>add</string>
+			<key>pronunciation</key>
+			<string>æd</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>cộng, thêm vào</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>addition</string>
+			<key>pronunciation</key>
+			<string>əˈdɪʃ.ən</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>tính cộng, phép cộng</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>in addtition(to)</string>
+			<key>pronunciation</key>
+			<string></string>
+			<key>category</key>
+			<string></string>
+			<key>mean</key>
+			<string>thêm vào, hơn nữa</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>additional</string>
+			<key>pronunciation</key>
+			<string>əˈdɪʃ.ən.əl</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>thêm vào, tăng thêm</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>address</string>
+			<key>pronunciation</key>
+			<string>ˈæd.res</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>địa chỉ</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>address</string>
+			<key>pronunciation</key>
+			<string>ˈæd.res</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>đề địa chỉ, ghi địa chỉ</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>adequate</string>
+			<key>pronunciation</key>
+			<string>ˈæd.ə.kwət</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>đầy, đầy đủ, xứng đáng, thích hợp</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>adequately</string>
+			<key>pronunciation</key>
+			<string>ˈæd.ə.kwət.li</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>tương ứng, thoả đáng</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>adjust</string>
+			<key>pronunciation</key>
+			<string>əˈdʒʌst</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>sửa lại cho đúng, điều chỉnh</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>admiration</string>
+			<key>pronunciation</key>
+			<string>ˌæd.məˈreɪ.ʃən</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>sự khâm phục, sự thán phục</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>admire</string>
+			<key>pronunciation</key>
+			<string>ədˈmaɪr</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>khâm phục, thán phục</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>admit</string>
+			<key>pronunciation</key>
+			<string>ədˈmɪt</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>nhận vào, cho vào, thừa nhận</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>adopt</string>
+			<key>pronunciation</key>
+			<string>əˈdɑːpt</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>làm theo, nhận làm con nuôi, bố mẹ nuôi</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>adult</string>
+			<key>pronunciation</key>
+			<string>ˈæd.ʌlt</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>người lớn, người trưởng thành</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>adult</string>
+			<key>pronunciation</key>
+			<string>ˈæd.ʌlt</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>trưởng thành, thành niên</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>advance</string>
+			<key>pronunciation</key>
+			<string>ədˈvæns</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>sự tiến bộ, sự tiến lên</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>advance</string>
+			<key>pronunciation</key>
+			<string>ədˈvæns</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>tiến bộ, thúc đẩy</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>advance</string>
+			<key>pronunciation</key>
+			<string>ədˈvæns</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>trước, sớm hơn</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>advanced</string>
+			<key>pronunciation</key>
+			<string>ədˈvænst</string>
+			<key>category</key>
+			<string>ạd</string>
+			<key>mean</key>
+			<string>tiên tiến, tiến bộ, cao cấp</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>advantage</string>
+			<key>pronunciation</key>
+			<string>ədˈvæn.t̬ɪdʒ</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>sự thuận lợi, lợi ích, lợi thế</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>adventure</string>
+			<key>pronunciation</key>
+			<string>ədˈven.tʃɚ</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>sự phưu lưu, mạo hiểm</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>advertise</string>
+			<key>pronunciation</key>
+			<string>ˈæd.vɚ.taɪz</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>thông báo, quảng cáo, đăng báo</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>advertising</string>
+			<key>pronunciation</key>
+			<string>ˈæd.vɚ.taɪ.zɪŋ</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>sự quảng cáo, nghề quảng cáo</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>advertisement</string>
+			<key>pronunciation</key>
+			<string>æd.vɝːˈtaɪz.mənt</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>sự quảng cáo, bài quảng cáo</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>advice</string>
+			<key>pronunciation</key>
+			<string>ədˈvaɪs</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>lời khuyên, lời chỉ bảo</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>advise</string>
+			<key>pronunciation</key>
+			<string>ədˈvaɪz</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>khuyên, khuyên bảo, chỉ bảo</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>affair</string>
+			<key>pronunciation</key>
+			<string>əˈfer</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>việc, công việc, việc làm</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>affect</string>
+			<key>pronunciation</key>
+			<string>əˈfekt</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>làm ảnh hưởng, tác động đến</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>affection</string>
+			<key>pronunciation</key>
+			<string>əˈfek.ʃən</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>thiện ý, cảm tình</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>afford</string>
+			<key>pronunciation</key>
+			<string>afford</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>có thể, đủ khả năng, đủ điều kiện</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>afraid</string>
+			<key>pronunciation</key>
+			<string>əˈfreɪd</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>sợ, sợ hãi, lo âu</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>after</string>
+			<key>pronunciation</key>
+			<string>ˈɑːf.tər</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>đằng này, sau đấy, tiếp sau, đằng sau</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>after</string>
+			<key>pronunciation</key>
+			<string>ˈɑːf.tər</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>sau, đằng sau</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>after</string>
+			<key>pronunciation</key>
+			<string>ˈɑːf.tər</string>
+			<key>category</key>
+			<string>prep</string>
+			<key>mean</key>
+			<string>sau, sau khi , ở đằng sau, phía sau</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>after</string>
+			<key>pronunciation</key>
+			<string>ˈɑːf.tər</string>
+			<key>category</key>
+			<string>conj</string>
+			<key>mean</key>
+			<string>sau khi, theo sau</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>afternoon</string>
+			<key>pronunciation</key>
+			<string>ˌæf.tɚˈnuːn</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>buổi chiều</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>afterwards</string>
+			<key>pronunciation</key>
+			<string>ˈæf.tɚ.wɚdz</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>sau này, về sau, rồi thì, sau đấy</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>again</string>
+			<key>pronunciation</key>
+			<string>əˈɡen</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>lại, nữa, lân nữa</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>against</string>
+			<key>pronunciation</key>
+			<string>əˈɡenst</string>
+			<key>category</key>
+			<string>prep</string>
+			<key>mean</key>
+			<string>chống lại, phản đổi</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>age</string>
+			<key>pronunciation</key>
+			<string>eɪdʒ</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>tuổi tác, thời kỳ</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>aged</string>
+			<key>pronunciation</key>
+			<string>eɪdʒd</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>có tuổi, cao tuổi, lớn tuổi</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>agency</string>
+			<key>pronunciation</key>
+			<string>ˈeɪ.dʒən.si</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>cơ quan, sở, hãng, đại lý</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>agent</string>
+			<key>pronunciation</key>
+			<string>ˈeɪ.dʒənt</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>đại lý, tác nhân</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>aggressive</string>
+			<key>pronunciation</key>
+			<string>əˈɡres.ɪv</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>hung hãn, công kích, tháo vát</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>ago</string>
+			<key>pronunciation</key>
+			<string>əˈɡoʊ</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>trước đây</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>agree</string>
+			<key>pronunciation</key>
+			<string>əˈɡriː</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>đồng ý, tán thành</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>agreement</string>
+			<key>pronunciation</key>
+			<string>əˈɡriː.mənt</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>sự đồng ý, hợp đồng, hiệp định</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>ahead</string>
+			<key>pronunciation</key>
+			<string>əˈhed</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>trước, về phía trước</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>aid</string>
+			<key>pronunciation</key>
+			<string>eɪd</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>sự giúp đỡ, sự viện trợ</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>aid</string>
+			<key>pronunciation</key>
+			<string>eɪd</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>giúp đỡ</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>aim</string>
+			<key>pronunciation</key>
+			<string>eɪm</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>sự nhắm(bắn), mục tiêu, ý định</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>aim</string>
+			<key>pronunciation</key>
+			<string>eɪm</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>nhắm, tập trung, hướng vào</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>air</string>
+			<key>pronunciation</key>
+			<string>er</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>không khí, không gian</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>aircraft</string>
+			<key>pronunciation</key>
+			<string>ˈer.kræft</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>máy bay, khí cầu</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>airport</string>
+			<key>pronunciation</key>
+			<string>ˈer.pɔːrt</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>sân bay</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>alarm</string>
+			<key>pronunciation</key>
+			<string>əˈlɑːrm</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>sự báo động, sự báo nguy</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>alarm</string>
+			<key>pronunciation</key>
+			<string>əˈlɑːrm</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>báo động</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>alarming</string>
+			<key>pronunciation</key>
+			<string>əˈlɑːr.mɪŋ</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>làm hoảng sợ, gây hoang mang</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>alcohol</string>
+			<key>pronunciation</key>
+			<string>ˈæl.kə.hɑːl</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>rượu, cồn</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>alcoholic</string>
+			<key>pronunciation</key>
+			<string>ˌæl.kəˈhɑː.lɪk</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>người nghiện rượu</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>alcoholic</string>
+			<key>pronunciation</key>
+			<string>ˌæl.kəˈhɑː.lɪk</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>chất có cồn, rượu</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>alive</string>
+			<key>pronunciation</key>
+			<string>əˈlaɪv</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>còn sống, còn tồn tại</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>all</string>
+			<key>pronunciation</key>
+			<string>ɑːl</string>
+			<key>category</key>
+			<string>det, pron, adv</string>
+			<key>mean</key>
+			<string>tất cả, toàn bộ, hoàn toàn</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>allow</string>
+			<key>pronunciation</key>
+			<string>əˈlaʊ</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>cho phép, cấp cho, trợ cấp</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>all right</string>
+			<key>pronunciation</key>
+			<string>ˌɔːl ˈraɪt</string>
+			<key>category</key>
+			<string>exclamation</string>
+			<key>mean</key>
+			<string>tốt, ổn, khoẻ mạnh, được</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>ally</string>
+			<key>pronunciation</key>
+			<string>ˈæl.aɪ</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>nước đồng minh</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>ally</string>
+			<key>pronunciation</key>
+			<string>ˈæl.aɪ</string>
+			<key>category</key>
+			<string>v</string>
+			<key>mean</key>
+			<string>liên kết, liên minh, kết thông gia</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>allied</string>
+			<key>pronunciation</key>
+			<string>əˈlaɪd</string>
+			<key>category</key>
+			<string>adj</string>
+			<key>mean</key>
+			<string>liên minh, đồng minh, thông gia</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>almost</string>
+			<key>pronunciation</key>
+			<string>ˈɑːl.moʊst</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>hầu như, gần như</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>alone</string>
+			<key>pronunciation</key>
+			<string>əˈloʊn</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>coo đơn, một mình</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>along</string>
+			<key>pronunciation</key>
+			<string>əˈlɑːŋ</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>về phía truóc, lên trước, tiến triển</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>along</string>
+			<key>pronunciation</key>
+			<string>əˈlɑːŋ</string>
+			<key>category</key>
+			<string>prep</string>
+			<key>mean</key>
+			<string>dọc theo, dọc</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>alongside</string>
+			<key>pronunciation</key>
+			<string>əˈlɑːŋ.saɪd</string>
+			<key>category</key>
+			<string>prep, adv</string>
+			<key>mean</key>
+			<string>sát cạnh, kề bên</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>aloud</string>
+			<key>pronunciation</key>
+			<string>əˈlaʊd</string>
+			<key>category</key>
+			<string>adv</string>
+			<key>mean</key>
+			<string>lớn tiếng, to tiếng</string>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>alphabet</string>
+			<key>pronunciation</key>
+			<string>ˈæl.fə.bet</string>
+			<key>category</key>
+			<string>n</string>
+			<key>mean</key>
+			<string>bảng chữ cái</string>
+		</dict>
 	</array>
 </dict>
 </plist>
