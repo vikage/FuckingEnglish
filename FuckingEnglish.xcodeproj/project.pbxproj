@@ -707,16 +707,18 @@
 			baseConfigurationReference = 9970A9BD98466311F0F91C60 /* Pods-FuckingEnglish.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = TFAR74HVP6;
+				DEVELOPMENT_TEAM = FSZYJCFCJJ;
 				INFOPLIST_FILE = FuckingEnglish/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglish;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglishApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -726,16 +728,18 @@
 			baseConfigurationReference = 5CB4A395B1F9BE5CF888AB79 /* Pods-FuckingEnglish.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = TFAR74HVP6;
+				DEVELOPMENT_TEAM = FSZYJCFCJJ;
 				INFOPLIST_FILE = FuckingEnglish/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglish;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglishApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -783,10 +787,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = TFAR74HVP6;
+				DEVELOPMENT_TEAM = FSZYJCFCJJ;
 				IBSC_MODULE = FuckingEnglishAppleWatch_Extension;
 				INFOPLIST_FILE = FuckingEnglishAppleWatch/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglish.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglishApp.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -800,10 +804,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = TFAR74HVP6;
+				DEVELOPMENT_TEAM = FSZYJCFCJJ;
 				IBSC_MODULE = FuckingEnglishAppleWatch_Extension;
 				INFOPLIST_FILE = FuckingEnglishAppleWatch/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglish.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglishApp.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -818,14 +822,14 @@
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = TFAR74HVP6;
+				DEVELOPMENT_TEAM = FSZYJCFCJJ;
 				INFOPLIST_FILE = "FuckingEnglishAppleWatch Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglish.watchkitapp.watchkitextension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglishApp.watchkitapp.watchkitextension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = watchos;
@@ -841,14 +845,14 @@
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = TFAR74HVP6;
+				DEVELOPMENT_TEAM = FSZYJCFCJJ;
 				INFOPLIST_FILE = "FuckingEnglishAppleWatch Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglish.watchkitapp.watchkitextension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglishApp.watchkitapp.watchkitextension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = watchos;
