@@ -17,15 +17,15 @@
 #pragma mark - Timeline Configuration
 
 - (void)getSupportedTimeTravelDirectionsForComplication:(CLKComplication *)complication withHandler:(void(^)(CLKComplicationTimeTravelDirections directions))handler {
-    handler(CLKComplicationTimeTravelDirectionForward|CLKComplicationTimeTravelDirectionBackward);
+    handler(CLKComplicationTimeTravelDirectionForward);
 }
 
 - (void)getTimelineStartDateForComplication:(CLKComplication *)complication withHandler:(void(^)(NSDate * __nullable date))handler {
-    handler(nil);
+    handler(NSDate.date);
 }
 
 - (void)getTimelineEndDateForComplication:(CLKComplication *)complication withHandler:(void(^)(NSDate * __nullable date))handler {
-    handler(nil);
+    handler([NSDate.date dateByAddingTimeInterval:4*60*60]);
 }
 
 - (void)getPrivacyBehaviorForComplication:(CLKComplication *)complication withHandler:(void(^)(CLKComplicationPrivacyBehavior privacyBehavior))handler {
@@ -35,16 +35,7 @@
 #pragma mark - Timeline Population
 
 - (void)getCurrentTimelineEntryForComplication:(CLKComplication *)complication withHandler:(void(^)(CLKComplicationTimelineEntry * __nullable))handler {
-    Vocabulary *vocabulary = [[DataManager shareInstanced] getAnyVocabulary];
-    
-    // Call the handler with the current timeline entry
-    CLKComplicationTemplateModularLargeStandardBody *template = [[CLKComplicationTemplateModularLargeStandardBody alloc] init];
-    NSString *header = [NSString stringWithFormat:@"%@•%@",vocabulary.word, vocabulary.pronunciation];
-    NSString *categoryAndMean = [NSString stringWithFormat:@"%@•%@", vocabulary.category, vocabulary.mean];
-    template.headerTextProvider = [CLKSimpleTextProvider textProviderWithText:header];
-    template.body1TextProvider = [CLKSimpleTextProvider textProviderWithText:categoryAndMean];
-    
-    CLKComplicationTimelineEntry *entry = [CLKComplicationTimelineEntry entryWithDate:[NSDate date] complicationTemplate:template];
+    CLKComplicationTimelineEntry *entry = [self entryForDate:[NSDate date]];
     handler(entry);
 }
 
@@ -54,8 +45,26 @@
 }
 
 - (void)getTimelineEntriesForComplication:(CLKComplication *)complication afterDate:(NSDate *)date limit:(NSUInteger)limit withHandler:(void(^)(NSArray<CLKComplicationTimelineEntry *> * __nullable entries))handler {
-    // Call the handler with the timeline entries after to the given date
-    handler(nil);
+    NSMutableArray<CLKComplicationTimelineEntry*> *entries = [[NSMutableArray alloc] init];
+    NSDate *nextDate = date;
+    while (entries.count != 16) {
+        nextDate = [nextDate dateByAddingTimeInterval:15*60];
+        [entries addObject:[self entryForDate:nextDate]];
+    }
+    
+    handler(entries);
+}
+
+- (CLKComplicationTimelineEntry*)entryForDate:(NSDate*)date {
+    Vocabulary *vocabulary = [[DataManager shareInstanced] getAnyVocabulary];
+    CLKComplicationTemplateModularLargeStandardBody *template = [[CLKComplicationTemplateModularLargeStandardBody alloc] init];
+    NSString *header = [NSString stringWithFormat:@"%@•%@",vocabulary.word, vocabulary.pronunciation];
+    NSString *categoryAndMean = [NSString stringWithFormat:@"%@•%@", vocabulary.category, vocabulary.mean];
+    template.headerTextProvider = [CLKSimpleTextProvider textProviderWithText:header];
+    template.body1TextProvider = [CLKSimpleTextProvider textProviderWithText:categoryAndMean];
+    
+    CLKComplicationTimelineEntry *entry = [CLKComplicationTimelineEntry entryWithDate:date complicationTemplate:template];
+    return entry;
 }
 
 #pragma mark - Placeholder Templates

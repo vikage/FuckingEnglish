@@ -3990,7 +3990,7 @@
 			<key>mean</key>
 			<string>bận, bận rộn</string>
 			<key>pronunciation</key>
-			<string>'bizi</string>
+			<string>&apos;bizi</string>
 			<key>word</key>
 			<string>busy</string>
 		</dict>
@@ -4040,7 +4040,7 @@
 			<key>mean</key>
 			<string>người mua</string>
 			<key>pronunciation</key>
-			<string>'baiə</string>
+			<string>&apos;baiə</string>
 			<key>word</key>
 			<string>buyer</string>
 		</dict>
@@ -4220,7 +4220,7 @@
 			<key>mean</key>
 			<string>hủy bỏ, xóa bỏ</string>
 			<key>pronunciation</key>
-			<string>'kænsəl</string>
+			<string>&apos;kænsəl</string>
 			<key>word</key>
 			<string>cancel</string>
 		</dict>
@@ -4250,7 +4250,7 @@
 			<key>mean</key>
 			<string>kẹo</string>
 			<key>pronunciation</key>
-			<string>'kændi</string>
+			<string>&apos;kændi</string>
 			<key>word</key>
 			<string>candy</string>
 		</dict>
@@ -4330,7 +4330,7 @@
 			<key>mean</key>
 			<string>bìa cứng, bìa các tông</string>
 			<key>pronunciation</key>
-			<string>'ka:d¸bɔ:d</string>
+			<string>&apos;ka:d¸bɔ:d</string>
 			<key>word</key>
 			<string>cardboard</string>
 		</dict>
@@ -4370,7 +4370,7 @@
 			<key>mean</key>
 			<string>cẩn thận, chu đáo</string>
 			<key>pronunciation</key>
-			<string>'keəfuli</string>
+			<string>&apos;keəfuli</string>
 			<key>word</key>
 			<string>carefully</string>
 		</dict>
@@ -4380,7 +4380,7 @@
 			<key>mean</key>
 			<string>sơ suất, cẩu thả</string>
 			<key>pronunciation</key>
-			<string>'keəlis</string>
+			<string>&apos;keəlis</string>
 			<key>word</key>
 			<string>careless</string>
 		</dict>
@@ -4410,7 +4410,7 @@
 			<key>mean</key>
 			<string>củ cà rốt</string>
 			<key>pronunciation</key>
-			<string>'kærət</string>
+			<string>&apos;kærət</string>
 			<key>word</key>
 			<string>carrot</string>
 		</dict>
@@ -4590,7 +4590,7 @@
 			<key>mean</key>
 			<string>trung tâm, ở giữa, trung ương</string>
 			<key>pronunciation</key>
-			<string>'sentrəl</string>
+			<string>&apos;sentrəl</string>
 			<key>word</key>
 			<string>central</string>
 		</dict>
@@ -4620,7 +4620,7 @@
 			<key>mean</key>
 			<string>nghi thức, nghi lễ</string>
 			<key>pronunciation</key>
-			<string>'seriməni</string>
+			<string>&apos;seriməni</string>
 			<key>word</key>
 			<string>ceremony</string>
 		</dict>
@@ -4640,7 +4640,7 @@
 			<key>mean</key>
 			<string>chắc chắn, nhất định</string>
 			<key>pronunciation</key>
-			<string>'sə:tnli</string>
+			<string>&apos;sə:tnli</string>
 			<key>word</key>
 			<string>certainly</string>
 		</dict>
@@ -4700,7 +4700,7 @@
 			<key>mean</key>
 			<string>chủ tịch, chủ tọa</string>
 			<key>pronunciation</key>
-			<string>'tʃeəwumən</string>
+			<string>&apos;tʃeəwumən</string>
 			<key>word</key>
 			<string>chairwoman</string>
 		</dict>
@@ -4710,7 +4710,7 @@
 			<key>mean</key>
 			<string>sự thử thách, sự thách thức, thách thức,</string>
 			<key>pronunciation</key>
-			<string>'tʃælindʤ</string>
+			<string>&apos;tʃælindʤ</string>
 			<key>word</key>
 			<string>challenge</string>
 		</dict>
@@ -4720,7 +4720,7 @@
 			<key>mean</key>
 			<string>buồng, phòng, buồng ngủ</string>
 			<key>pronunciation</key>
-			<string>'tʃeɪmbər</string>
+			<string>&apos;tʃeɪmbər</string>
 			<key>word</key>
 			<string>chamber</string>
 		</dict>
@@ -4770,7 +4770,7 @@
 			<key>mean</key>
 			<string>tính cách, đặc tính, nhân vật</string>
 			<key>pronunciation</key>
-			<string>'kæriktə</string>
+			<string>&apos;kæriktə</string>
 			<key>word</key>
 			<string>character</string>
 		</dict>
@@ -4780,7 +4780,7 @@
 			<key>mean</key>
 			<string>riêng biệt, đặc trừng, đặc tính, đặc điểm</string>
 			<key>pronunciation</key>
-			<string>kærəktə'ristik</string>
+			<string>kærəktə&apos;ristik</string>
 			<key>word</key>
 			<string>characteristic</string>
 		</dict>
@@ -4800,7 +4800,7 @@
 			<key>mean</key>
 			<string>lòng từ thiện, lòng nhân đức, sự bố thí</string>
 			<key>pronunciation</key>
-			<string>'tʃæriti</string>
+			<string>&apos;tʃæriti</string>
 			<key>word</key>
 			<string>charity</string>
 		</dict>
@@ -4880,7 +4880,7 @@
 			<key>mean</key>
 			<string>má</string>
 			<key>pronunciation</key>
-			<string>'tʃi:k</string>
+			<string>&apos;tʃi:k</string>
 			<key>word</key>
 			<string>cheek</string>
 		</dict>
@@ -4890,7 +4890,7 @@
 			<key>mean</key>
 			<string>vui mừng, phan khởi, hồ hởi</string>
 			<key>pronunciation</key>
-			<string>'tʃiəful</string>
+			<string>&apos;tʃiəful</string>
 			<key>word</key>
 			<string>cheerful</string>
 		</dict>
@@ -4900,7 +4900,7 @@
 			<key>mean</key>
 			<string>vui vẻ, phan khởi</string>
 			<key>pronunciation</key>
-			<string>'tʃiəfuli</string>
+			<string>&apos;tʃiəfuli</string>
 			<key>word</key>
 			<string>cheerfully</string>
 		</dict>
@@ -4930,7 +4930,7 @@
 			<key>mean</key>
 			<string>nhà hóa học</string>
 			<key>pronunciation</key>
-			<string>'kemist</string>
+			<string>&apos;kemist</string>
 			<key>word</key>
 			<string>chemist</string>
 		</dict>
@@ -4940,7 +4940,7 @@
 			<key>mean</key>
 			<string>hóa học, môn hóa học, ngành hóa học</string>
 			<key>pronunciation</key>
-			<string>'kemistri</string>
+			<string>&apos;kemistri</string>
 			<key>word</key>
 			<string>chemistry</string>
 		</dict>
@@ -5080,7 +5080,7 @@
 			<key>mean</key>
 			<string>điếu thuốc lá</string>
 			<key>pronunciation</key>
-			<string>sigə'ret</string>
+			<string>sigə&apos;ret</string>
 			<key>word</key>
 			<string>cigarette</string>
 		</dict>
@@ -5120,7 +5120,7 @@
 			<key>mean</key>
 			<string>người thành thị</string>
 			<key>pronunciation</key>
-			<string>'sitizən</string>
+			<string>&apos;sitizən</string>
 			<key>word</key>
 			<string>citizen</string>
 		</dict>
@@ -5220,7 +5220,7 @@
 			<key>mean</key>
 			<string>rõ ràng, sáng sủa</string>
 			<key>pronunciation</key>
-			<string>'kliəli</string>
+			<string>&apos;kliəli</string>
 			<key>word</key>
 			<string>clearly</string>
 		</dict>
@@ -5260,7 +5260,7 @@
 			<key>mean</key>
 			<string>khách hàng26</string>
 			<key>pronunciation</key>
-			<string>'klaiənt</string>
+			<string>&apos;klaiənt</string>
 			<key>word</key>
 			<string>client</string>
 		</dict>
@@ -5290,7 +5290,7 @@
 			<key>mean</key>
 			<string>sự leo trèo</string>
 			<key>pronunciation</key>
-			<string>'klaimiη</string>
+			<string>&apos;klaimiη</string>
 			<key>word</key>
 			<string>climbing</string>
 		</dict>
@@ -5320,7 +5320,7 @@
 			<key>mean</key>
 			<string>chặt chẽ, kỹ lưỡng, tỉ mỉ</string>
 			<key>pronunciation</key>
-			<string>'klousli</string>
+			<string>&apos;klousli</string>
 			<key>word</key>
 			<string>closely</string>
 		</dict>
@@ -5380,7 +5380,7 @@
 			<key>mean</key>
 			<string>quần áo, y phục</string>
 			<key>pronunciation</key>
-			<string>'klouðiη</string>
+			<string>&apos;klouðiη</string>
 			<key>word</key>
 			<string>clothing</string>
 		</dict>
@@ -5400,7 +5400,7 @@
 			<key>mean</key>
 			<string>câu lạc bộ, gậy, dùi cui</string>
 			<key>pronunciation</key>
-			<string>'klʌb</string>
+			<string>&apos;klʌb</string>
 			<key>word</key>
 			<string>club</string>
 		</dict>
@@ -5520,7 +5520,7 @@
 			<key>mean</key>
 			<string>sừu tập, tập trung lại</string>
 			<key>pronunciation</key>
-			<string>kə'lekt</string>
+			<string>kə&apos;lekt</string>
 			<key>word</key>
 			<string>collect</string>
 		</dict>
@@ -5560,7 +5560,7 @@
 			<key>mean</key>
 			<string>mang màu sắc, có màu sắc</string>
 			<key>pronunciation</key>
-			<string>'kʌləd</string>
+			<string>&apos;kʌləd</string>
 			<key>word</key>
 			<string>coloured</string>
 		</dict>
@@ -5610,7 +5610,7 @@
 			<key>mean</key>
 			<string>hài kịch</string>
 			<key>pronunciation</key>
-			<string>'kɔmidi</string>
+			<string>&apos;kɔmidi</string>
 			<key>word</key>
 			<string>comedy</string>
 		</dict>
@@ -5640,7 +5640,7 @@
 			<key>mean</key>
 			<string>dễ chịu, thoải mái, tiện nghi, am cúng</string>
 			<key>pronunciation</key>
-			<string>'kʌmfətəbli</string>
+			<string>&apos;kʌmfətəbli</string>
 			<key>word</key>
 			<string>comfortably</string>
 		</dict>
@@ -5650,7 +5650,7 @@
 			<key>mean</key>
 			<string>bat tiện, khó chịu, không thoải mái</string>
 			<key>pronunciation</key>
-			<string>ʌη'tkʌmfətəbl</string>
+			<string>ʌη&apos;tkʌmfətəbl</string>
 			<key>word</key>
 			<string>uncomfortable</string>
 		</dict>
@@ -5740,7 +5740,7 @@
 			<key>mean</key>
 			<string>thông thường, bình thường</string>
 			<key>pronunciation</key>
-			<string>'kɔmənli</string>
+			<string>&apos;kɔmənli</string>
 			<key>word</key>
 			<string>commonly</string>
 		</dict>
@@ -5780,7 +5780,7 @@
 			<key>mean</key>
 			<string>công ty</string>
 			<key>pronunciation</key>
-			<string>'kʌmpəni</string>
+			<string>&apos;kʌmpəni</string>
 			<key>word</key>
 			<string>company</string>
 		</dict>
@@ -5830,7 +5830,7 @@
 			<key>mean</key>
 			<string>cạnh tranh, đua tranh</string>
 			<key>pronunciation</key>
-			<string>kəm'petitiv</string>
+			<string>kəm&apos;petitiv</string>
 			<key>word</key>
 			<string>competitive</string>
 		</dict>
@@ -5840,7 +5840,7 @@
 			<key>mean</key>
 			<string>phàn nàn, kêu ca</string>
 			<key>pronunciation</key>
-			<string>kəm'plein</string>
+			<string>kəm&apos;plein</string>
 			<key>word</key>
 			<string>complain</string>
 		</dict>
@@ -5960,7 +5960,7 @@
 			<key>mean</key>
 			<string>có liên quan, có dính líu</string>
 			<key>pronunciation</key>
-			<string>kən'sə:nd</string>
+			<string>kən&apos;sə:nd</string>
 			<key>word</key>
 			<string>concerned</string>
 		</dict>
@@ -5970,7 +5970,7 @@
 			<key>mean</key>
 			<string>bâng khuâng, ái ngại</string>
 			<key>pronunciation</key>
-			<string>kən'sə:niη</string>
+			<string>kən&apos;sə:niη</string>
 			<key>word</key>
 			<string>concerning</string>
 		</dict>
@@ -6120,7 +6120,7 @@
 			<key>mean</key>
 			<string>đối mặt, đối diện, đối chiếu</string>
 			<key>pronunciation</key>
-			<string>kən'frʌnt</string>
+			<string>kən&apos;frʌnt</string>
 			<key>word</key>
 			<string>confront</string>
 		</dict>
@@ -6130,7 +6130,7 @@
 			<key>mean</key>
 			<string> làm lộn xộn, xáo trộn</string>
 			<key>pronunciation</key>
-			<string>kən'fju:z</string>
+			<string>kən&apos;fju:z</string>
 			<key>word</key>
 			<string>confuse</string>
 		</dict>
@@ -6200,7 +6200,7 @@
 			<key>mean</key>
 			<string>sự kết nối, sự giao kết</string>
 			<key>pronunciation</key>
-			<string>kə'nekʃən,</string>
+			<string>kə&apos;nekʃən,</string>
 			<key>word</key>
 			<string>connection</string>
 		</dict>
@@ -6240,7 +6240,7 @@
 			<key>mean</key>
 			<string>thận trọng, dè dặt, bảo thủ</string>
 			<key>pronunciation</key>
-			<string>kən'sə:vətiv</string>
+			<string>kən&apos;sə:vətiv</string>
 			<key>word</key>
 			<string>conservative</string>
 		</dict>
@@ -6250,7 +6250,7 @@
 			<key>mean</key>
 			<string>cân nhắc, xem xét, để ý, quan tâm, lừu ý đến</string>
 			<key>pronunciation</key>
-			<string>kən'sidə</string>
+			<string>kən&apos;sidə</string>
 			<key>word</key>
 			<string>consider</string>
 		</dict>
@@ -6310,7 +6310,7 @@
 			<key>mean</key>
 			<string>xây dựng</string>
 			<key>pronunciation</key>
-			<string>kən'strʌkt</string>
+			<string>kən&apos;strʌkt</string>
 			<key>word</key>
 			<string>construct</string>
 		</dict>
@@ -6400,7 +6400,7 @@
 			<key>mean</key>
 			<string>cuộc thi, trận đau, cuộc tranh luận, cuộc chiến đau, chiến tranh</string>
 			<key>pronunciation</key>
-			<string>kən'test</string>
+			<string>kən&apos;test</string>
 			<key>word</key>
 			<string>contest</string>
 		</dict>
@@ -6430,7 +6430,7 @@
 			<key>mean</key>
 			<string>tiếp tục, làm tiếp</string>
 			<key>pronunciation</key>
-			<string>kən'tinju:</string>
+			<string>kən&apos;tinju:</string>
 			<key>word</key>
 			<string>continue</string>
 		</dict>
@@ -6500,7 +6500,7 @@
 			<key>mean</key>
 			<string>sự đóng góp, sự góp phần</string>
 			<key>pronunciation</key>
-			<string>kɔntri'bju:ʃən</string>
+			<string>kɔntri&apos;bju:ʃən</string>
 			<key>word</key>
 			<string>contribution</string>
 		</dict>
@@ -6540,7 +6540,7 @@
 			<key>mean</key>
 			<string>tiện lợi, thuận lợi, thích hợp</string>
 			<key>pronunciation</key>
-			<string>kən'vi:njənt</string>
+			<string>kən&apos;vi:njənt</string>
 			<key>word</key>
 			<string>convenient</string>
 		</dict>
@@ -6620,7 +6620,7 @@
 			<key>mean</key>
 			<string>lò, bếp, nồi nau</string>
 			<key>pronunciation</key>
-			<string>'kukə</string>
+			<string>&apos;kukə</string>
 			<key>word</key>
 			<string>cooker</string>
 		</dict>
@@ -6630,7 +6630,7 @@
 			<key>mean</key>
 			<string>bánh quy</string>
 			<key>pronunciation</key>
-			<string>'kuki</string>
+			<string>&apos;kuki</string>
 			<key>word</key>
 			<string>cookie</string>
 		</dict>
@@ -6680,7 +6680,7 @@
 			<key>mean</key>
 			<string>góc (tường, nhà, phố)</string>
 			<key>pronunciation</key>
-			<string>'kɔ:nə</string>
+			<string>&apos;kɔ:nə</string>
 			<key>word</key>
 			<string>corner</string>
 		</dict>
@@ -6690,7 +6690,7 @@
 			<key>mean</key>
 			<string>đúng, chính xác, sửa, sửa chữa</string>
 			<key>pronunciation</key>
-			<string>kə'rekt</string>
+			<string>kə&apos;rekt</string>
 			<key>word</key>
 			<string>correct</string>
 		</dict>
@@ -6700,7 +6700,7 @@
 			<key>mean</key>
 			<string>đúng, chính xác</string>
 			<key>pronunciation</key>
-			<string>kə'rektli</string>
+			<string>kə&apos;rektli</string>
 			<key>word</key>
 			<string>correctly</string>
 		</dict>
@@ -6750,7 +6750,7 @@
 			<key>mean</key>
 			<string>ho</string>
 			<key>pronunciation</key>
-			<string>'kɔfiη</string>
+			<string>&apos;kɔfiη</string>
 			<key>word</key>
 			<string>coughing</string>
 		</dict>
@@ -6810,7 +6810,7 @@
 			<key>mean</key>
 			<string>miền quê, miền nông thôn</string>
 			<key>pronunciation</key>
-			<string>'kʌntri'said</string>
+			<string>&apos;kʌntri&apos;said</string>
 			<key>word</key>
 			<string>countryside</string>
 		</dict>
@@ -6900,7 +6900,7 @@
 			<key>mean</key>
 			<string>sự bao bọc, sự che phủ, cái bao, bọc</string>
 			<key>pronunciation</key>
-			<string>'kʌvəriη</string>
+			<string>&apos;kʌvəriη</string>
 			<key>word</key>
 			<string>covering</string>
 		</dict>
@@ -7070,7 +7070,7 @@
 			<key>mean</key>
 			<string>sự phê bình, sự phê phán, lời phê bình, lời phê phán</string>
 			<key>pronunciation</key>
-			<string>'kriti¸sizəm</string>
+			<string>&apos;kriti¸sizəm</string>
 			<key>word</key>
 			<string>criticism</string>
 		</dict>
@@ -7140,7 +7140,7 @@
 			<key>mean</key>
 			<string>quyết định, cốt yếu, chủ yếu</string>
 			<key>pronunciation</key>
-			<string>'kru:ʃəl</string>
+			<string>&apos;kru:ʃəl</string>
 			<key>word</key>
 			<string>crucial</string>
 		</dict>
@@ -7270,7 +7270,7 @@
 			<key>mean</key>
 			<string>quăn, xoắn</string>
 			<key>pronunciation</key>
-			<string>'kə:li</string>
+			<string>&apos;kə:li</string>
 			<key>word</key>
 			<string>curly</string>
 		</dict>
@@ -7340,7 +7340,7 @@
 			<key>mean</key>
 			<string>khách hàng</string>
 			<key>pronunciation</key>
-			<string>'kʌstəmə</string>
+			<string>&apos;kʌstəmə</string>
 			<key>word</key>
 			<string>customer</string>
 		</dict>
@@ -7350,7 +7350,7 @@
 			<key>mean</key>
 			<string>thuế nhập khẩu, hải quan36</string>
 			<key>pronunciation</key>
-			<string>'kʌstəmz</string>
+			<string>&apos;kʌstəmz</string>
 			<key>word</key>
 			<string>customs</string>
 		</dict>
@@ -7470,7 +7470,7 @@
 			<key>mean</key>
 			<string>nguy hiểm</string>
 			<key>pronunciation</key>
-			<string>'deindʒərəs</string>
+			<string>&apos;deindʒərəs</string>
 			<key>word</key>
 			<string>dangerous</string>
 		</dict>
@@ -7500,7 +7500,7 @@
 			<key>mean</key>
 			<string>số liệu, dữ liệu</string>
 			<key>pronunciation</key>
-			<string>'deitə</string>
+			<string>&apos;deitə</string>
 			<key>word</key>
 			<string>data</string>
 		</dict>
@@ -7680,7 +7680,7 @@
 			<key>mean</key>
 			<string>trang hoàng, trang trí</string>
 			<key>pronunciation</key>
-			<string>'dekə¸reit</string>
+			<string>&apos;dekə¸reit</string>
 			<key>word</key>
 			<string>decorate</string>
 		</dict>
@@ -7690,7 +7690,7 @@
 			<key>mean</key>
 			<string>sự trang hoàng, đồ trang hoàng, trang trí</string>
 			<key>pronunciation</key>
-			<string>dekə'reiʃən</string>
+			<string>dekə&apos;reiʃən</string>
 			<key>word</key>
 			<string>decoration</string>
 		</dict>
@@ -7700,7 +7700,7 @@
 			<key>mean</key>
 			<string>để trang hoàng, để trang trí, để làm cảnh</string>
 			<key>pronunciation</key>
-			<string>'dekərətiv</string>
+			<string>&apos;dekərətiv</string>
 			<key>word</key>
 			<string>decorative</string>
 		</dict>
@@ -7730,7 +7730,7 @@
 			<key>mean</key>
 			<string>sâu, sâu xa, sâu sắc</string>
 			<key>pronunciation</key>
-			<string>'di:pli</string>
+			<string>&apos;di:pli</string>
 			<key>word</key>
 			<string>deeply</string>
 		</dict>
@@ -7830,7 +7830,7 @@
 			<key>mean</key>
 			<string>thận trọng, có suy nghĩ cân nhắc</string>
 			<key>pronunciation</key>
-			<string>di'libəritli</string>
+			<string>di&apos;libəritli</string>
 			<key>word</key>
 			<string>deliberately</string>
 		</dict>
@@ -7960,7 +7960,7 @@
 			<key>mean</key>
 			<string>làm chán nản, làm phiền muộn, làm suy giảm</string>
 			<key>pronunciation</key>
-			<string>di'pres</string>
+			<string>di&apos;pres</string>
 			<key>word</key>
 			<string>depress</string>
 		</dict>
@@ -8000,7 +8000,7 @@
 			<key>mean</key>
 			<string>nhận được từ, lay được từ, xuat phát từ, bắt nguồn</string>
 			<key>pronunciation</key>
-			<string>di'raiv</string>
+			<string>di&apos;raiv</string>
 			<key>word</key>
 			<string>derive</string>
 		</dict>
@@ -8060,7 +8060,7 @@
 			<key>mean</key>
 			<string>sự thiết kế, kế hoạch, đề cương phác thảo, phác họa,</string>
 			<key>pronunciation</key>
-			<string>di'zain</string>
+			<string>di&apos;zain</string>
 			<key>word</key>
 			<string>design</string>
 		</dict>
@@ -8180,7 +8180,7 @@
 			<key>mean</key>
 			<string>đã được xác định, đã được xác định rõ</string>
 			<key>pronunciation</key>
-			<string>di'tə:mind</string>
+			<string>di&apos;tə:mind</string>
 			<key>word</key>
 			<string>determined</string>
 		</dict>
@@ -8230,7 +8230,7 @@
 			<key>mean</key>
 			<string>hiến cho, dâng cho, dành cho, hết lòng, nhiệt tình</string>
 			<key>pronunciation</key>
-			<string>di'voutid</string>
+			<string>di&apos;voutid</string>
 			<key>word</key>
 			<string>devoted</string>
 		</dict>
@@ -8250,7 +8250,7 @@
 			<key>mean</key>
 			<string>kim cương</string>
 			<key>pronunciation</key>
-			<string>'daiəmənd</string>
+			<string>&apos;daiəmənd</string>
 			<key>word</key>
 			<string>diamond</string>
 		</dict>
@@ -8390,7 +8390,7 @@
 			<key>mean</key>
 			<string>trực tiếp, thẳng</string>
 			<key>pronunciation</key>
-			<string>dai'rektli</string>
+			<string>dai&apos;rektli</string>
 			<key>word</key>
 			<string>directly</string>
 		</dict>
@@ -8430,7 +8430,7 @@
 			<key>mean</key>
 			<string>bẩn thỉu, dơ bẩn</string>
 			<key>pronunciation</key>
-			<string>'də:ti</string>
+			<string>&apos;də:ti</string>
 			<key>word</key>
 			<string>dirty</string>
 		</dict>
@@ -8440,7 +8440,7 @@
 			<key>mean</key>
 			<string>bat lực, không có khă năng</string>
 			<key>pronunciation</key>
-			<string>dis'eibld</string>
+			<string>dis&apos;eibld</string>
 			<key>word</key>
 			<string>disabled</string>
 		</dict>
@@ -8460,7 +8460,7 @@
 			<key>mean</key>
 			<string>bat đồng, không đồng ý, khác, không giống, không hợp</string>
 			<key>pronunciation</key>
-			<string>disə'gri:</string>
+			<string>disə&apos;gri:</string>
 			<key>word</key>
 			<string>disagree</string>
 		</dict>
@@ -8470,7 +8470,7 @@
 			<key>mean</key>
 			<string>sự bat đồng, sự không đồng ý, sự khác nhau</string>
 			<key>pronunciation</key>
-			<string>disəg'ri:mənt</string>
+			<string>disəg&apos;ri:mənt</string>
 			<key>word</key>
 			<string>disagreement</string>
 		</dict>
@@ -8500,7 +8500,7 @@
 			<key>mean</key>
 			<string>làm chán ngán, làm thất vọng</string>
 			<key>pronunciation</key>
-			<string>disə'pɔintiη</string>
+			<string>disə&apos;pɔintiη</string>
 			<key>word</key>
 			<string>disappointing</string>
 		</dict>
@@ -8520,7 +8520,7 @@
 			<key>mean</key>
 			<string>sự chán ngán, sự thất vọng</string>
 			<key>pronunciation</key>
-			<string>disə'pɔintmənt</string>
+			<string>disə&apos;pɔintmənt</string>
 			<key>word</key>
 			<string>disappointment</string>
 		</dict>
@@ -8530,7 +8530,7 @@
 			<key>mean</key>
 			<string>sự phản đổi, sự không tán thành</string>
 			<key>pronunciation</key>
-			<string>disə'pru:vl</string>
+			<string>disə&apos;pru:vl</string>
 			<key>word</key>
 			<string>disapproval</string>
 		</dict>
@@ -8540,7 +8540,7 @@
 			<key>mean</key>
 			<string>không tán thành, phản đối, chê</string>
 			<key>pronunciation</key>
-			<string>disə'pru:v</string>
+			<string>disə&apos;pru:v</string>
 			<key>word</key>
 			<string>disapprove</string>
 		</dict>
@@ -8550,7 +8550,7 @@
 			<key>mean</key>
 			<string>phản đối</string>
 			<key>pronunciation</key>
-			<string>disə'pru:viη</string>
+			<string>disə&apos;pru:viη</string>
 			<key>word</key>
 			<string>disapproving</string>
 		</dict>
@@ -8650,7 +8650,7 @@
 			<key>mean</key>
 			<string>làm ghê tởm, làm kinh tởm, làm phẫn nộ</string>
 			<key>pronunciation</key>
-			<string>dis'gʌst</string>
+			<string>dis&apos;gʌst</string>
 			<key>word</key>
 			<string>disgust</string>
 		</dict>
@@ -8660,7 +8660,7 @@
 			<key>mean</key>
 			<string>làm ghê tởm, kinh tởm</string>
 			<key>pronunciation</key>
-			<string>dis'gʌstiη</string>
+			<string>dis&apos;gʌstiη</string>
 			<key>word</key>
 			<string>disgusting</string>
 		</dict>
@@ -8670,7 +8670,7 @@
 			<key>mean</key>
 			<string>chán ghét, phẫn nộ</string>
 			<key>pronunciation</key>
-			<string>dis'gʌstid</string>
+			<string>dis&apos;gʌstid</string>
 			<key>word</key>
 			<string>disgusted</string>
 		</dict>
@@ -8690,7 +8690,7 @@
 			<key>mean</key>
 			<string>bất lương, không thành thật</string>
 			<key>pronunciation</key>
-			<string>dis'ɔnist</string>
+			<string>dis&apos;ɔnist</string>
 			<key>word</key>
 			<string>dishonest</string>
 		</dict>
@@ -8770,7 +8770,7 @@
 			<key>mean</key>
 			<string>phân biệt, nhận ra, nghe ra</string>
 			<key>pronunciation</key>
-			<string>dis'tiηgwiʃ</string>
+			<string>dis&apos;tiηgwiʃ</string>
 			<key>word</key>
 			<string>distinguish</string>
 		</dict>
@@ -8810,7 +8810,7 @@
 			<key>mean</key>
 			<string>làm mất yên tĩnh, làm náo động, quấy rầy</string>
 			<key>pronunciation</key>
-			<string>dis'tə:b</string>
+			<string>dis&apos;tə:b</string>
 			<key>word</key>
 			<string>disturb</string>
 		</dict>
@@ -8820,7 +8820,7 @@
 			<key>mean</key>
 			<string>xáo trộn</string>
 			<key>pronunciation</key>
-			<string>dis'tə:biη</string>
+			<string>dis&apos;tə:biη</string>
 			<key>word</key>
 			<string>disturbing</string>
 		</dict>
@@ -8850,7 +8850,7 @@
 			<key>mean</key>
 			<string>sự ly dị</string>
 			<key>pronunciation</key>
-			<string>di'vɔ:s</string>
+			<string>di&apos;vɔ:s</string>
 			<key>word</key>
 			<string>divorce</string>
 		</dict>
@@ -8880,7 +8880,7 @@
 			<key>mean</key>
 			<string>tháo, gỡ, xóa bỏ, hủy bỏ</string>
 			<key>pronunciation</key>
-			<string>ʌn'du:</string>
+			<string>ʌn&apos;du:</string>
 			<key>word</key>
 			<string>undo</string>
 		</dict>
@@ -8920,7 +8920,7 @@
 			<key>mean</key>
 			<string>đô la Mỹ</string>
 			<key>pronunciation</key>
-			<string>'dɔlə</string>
+			<string>&apos;dɔlə</string>
 			<key>word</key>
 			<string>dollar</string>
 		</dict>
@@ -9010,7 +9010,7 @@
 			<key>mean</key>
 			<string>xuống</string>
 			<key>pronunciation</key>
-			<string>'daunwədz</string>
+			<string>&apos;daunwədz</string>
 			<key>word</key>
 			<string>downwards</string>
 		</dict>
@@ -9020,7 +9020,7 @@
 			<key>mean</key>
 			<string>xuống, đi xuống</string>
 			<key>pronunciation</key>
-			<string>'daunwəd</string>
+			<string>&apos;daunwəd</string>
 			<key>word</key>
 			<string>downward</string>
 		</dict>
@@ -9070,7 +9070,7 @@
 			<key>mean</key>
 			<string>kịch, đóng kịch, thích hợp với sân khấu</string>
 			<key>pronunciation</key>
-			<string>drə'mætik</string>
+			<string>drə&apos;mætik</string>
 			<key>word</key>
 			<string>dramatic</string>
 		</dict>
@@ -9110,7 +9110,7 @@
 			<key>mean</key>
 			<string>người vẽ, người kéo</string>
 			<key>pronunciation</key>
-			<string>'drɔ:ə</string>
+			<string>&apos;drɔ:ə</string>
 			<key>word</key>
 			<string>drawer</string>
 		</dict>
@@ -9330,7 +9330,7 @@
 			<key>mean</key>
 			<string>sớm</string>
 			<key>pronunciation</key>
-			<string>'ə:li</string>
+			<string>&apos;ə:li</string>
 			<key>word</key>
 			<string>early</string>
 		</dict>
@@ -9420,7 +9420,7 @@
 			<key>mean</key>
 			<string>(thuộcKinh tế</string>
 			<key>pronunciation</key>
-			<string>i:kə'nɔmik</string>
+			<string>i:kə&apos;nɔmik</string>
 			<key>word</key>
 			<string>economic</string>
 		</dict>
@@ -9460,7 +9460,7 @@
 			<key>mean</key>
 			<string>người thu thập và xuất bản, chủ bút</string>
 			<key>pronunciation</key>
-			<string>'editə</string>
+			<string>&apos;editə</string>
 			<key>word</key>
 			<string>editor</string>
 		</dict>
@@ -9550,7 +9550,7 @@
 			<key>mean</key>
 			<string>sự cố gắng, sự nỗ lực</string>
 			<key>pronunciation</key>
-			<string>'efə:t</string>
+			<string>&apos;efə:t</string>
 			<key>word</key>
 			<string>effort</string>
 		</dict>
@@ -9570,7 +9570,7 @@
 			<key>mean</key>
 			<string>mỗi, một, cũng phải thế</string>
 			<key>pronunciation</key>
-			<string>'aiðə</string>
+			<string>&apos;aiðə</string>
 			<key>word</key>
 			<string>either</string>
 		</dict>
@@ -9590,7 +9590,7 @@
 			<key>mean</key>
 			<string>có tuổi, cao tuổi</string>
 			<key>pronunciation</key>
-			<string>'eldəli</string>
+			<string>&apos;eldəli</string>
 			<key>word</key>
 			<string>elderly</string>
 		</dict>
@@ -9600,7 +9600,7 @@
 			<key>mean</key>
 			<string>bầu, quyết định</string>
 			<key>pronunciation</key>
-			<string>i'lekt</string>
+			<string>i&apos;lekt</string>
 			<key>word</key>
 			<string>elect</string>
 		</dict>
@@ -9610,7 +9610,7 @@
 			<key>mean</key>
 			<string>sự bầu cử, cuộc tuyển cử</string>
 			<key>pronunciation</key>
-			<string>i'lekʃən</string>
+			<string>i&apos;lekʃən</string>
 			<key>word</key>
 			<string>election</string>
 		</dict>
@@ -9660,7 +9660,7 @@
 			<key>mean</key>
 			<string>thanh lịch, tao nhã</string>
 			<key>pronunciation</key>
-			<string>'eligənt</string>
+			<string>&apos;eligənt</string>
 			<key>word</key>
 			<string>elegant</string>
 		</dict>
@@ -9700,7 +9700,7 @@
 			<key>mean</key>
 			<string>ở một nơi nào khác</string>
 			<key>pronunciation</key>
-			<string>els'wɛə</string>
+			<string>els&apos;wɛə</string>
 			<key>word</key>
 			<string>elsewhere</string>
 		</dict>
@@ -9720,7 +9720,7 @@
 			<key>mean</key>
 			<string>lúng túng, làm ngượng nghịu, làm rắc rối, gây khó khăn</string>
 			<key>pronunciation</key>
-			<string>im'bærəs</string>
+			<string>im&apos;bærəs</string>
 			<key>word</key>
 			<string>embarrass</string>
 		</dict>
@@ -9730,7 +9730,7 @@
 			<key>mean</key>
 			<string>làm lúng túng, ngăn trở</string>
 			<key>pronunciation</key>
-			<string>im'bærəsiη</string>
+			<string>im&apos;bærəsiη</string>
 			<key>word</key>
 			<string>embarrassing</string>
 		</dict>
@@ -9740,7 +9740,7 @@
 			<key>mean</key>
 			<string>lúng túng, bối rối, ngượng, mang nợ</string>
 			<key>pronunciation</key>
-			<string>im'bærəst</string>
+			<string>im&apos;bærəst</string>
 			<key>word</key>
 			<string>embarrassed</string>
 		</dict>
@@ -9750,7 +9750,7 @@
 			<key>mean</key>
 			<string>sự lúng túng, sự bối rối</string>
 			<key>pronunciation</key>
-			<string>im'bærəsmənt</string>
+			<string>im&apos;bærəsmənt</string>
 			<key>word</key>
 			<string>embarrassment</string>
 		</dict>
@@ -9760,7 +9760,7 @@
 			<key>mean</key>
 			<string>nổi lên, hiện ra, nổi bật lên</string>
 			<key>pronunciation</key>
-			<string>i'mə:dʒ</string>
+			<string>i&apos;mə:dʒ</string>
 			<key>word</key>
 			<string>emerge</string>
 		</dict>
@@ -9790,7 +9790,7 @@
 			<key>mean</key>
 			<string>cảm động, xúc động, xúc cảm, dễ cảm động, dễ xúc cảm</string>
 			<key>pronunciation</key>
-			<string>i'mouʃənəl</string>
+			<string>i&apos;mouʃənəl</string>
 			<key>word</key>
 			<string>emotional</string>
 		</dict>
@@ -9800,7 +9800,7 @@
 			<key>mean</key>
 			<string>xúc động</string>
 			<key>pronunciation</key>
-			<string>i'mouʃənəli</string>
+			<string>i&apos;mouʃənəli</string>
 			<key>word</key>
 			<string>emotionally</string>
 		</dict>
@@ -9810,7 +9810,7 @@
 			<key>mean</key>
 			<string>sự nhấn mạnh, tầm quan trọng</string>
 			<key>pronunciation</key>
-			<string>'emfəsis</string>
+			<string>&apos;emfəsis</string>
 			<key>word</key>
 			<string>emphasis</string>
 		</dict>
@@ -9850,7 +9850,7 @@
 			<key>mean</key>
 			<string>thất nghiệp, không dùng, không sử dụng được</string>
 			<key>pronunciation</key>
-			<string>ʌnim'plɔid</string>
+			<string>ʌnim&apos;plɔid</string>
 			<key>word</key>
 			<string>unemployed</string>
 		</dict>
@@ -9870,7 +9870,7 @@
 			<key>mean</key>
 			<string>chủ, người sử dụng lao động</string>
 			<key>pronunciation</key>
-			<string>em'plɔiə</string>
+			<string>em&apos;plɔiə</string>
 			<key>word</key>
 			<string>employer</string>
 		</dict>
@@ -9940,7 +9940,7 @@
 			<key>mean</key>
 			<string>niềm cổ vũ, động viên, khuyến khích</string>
 			<key>pronunciation</key>
-			<string>in'kʌridʒmənt</string>
+			<string>in&apos;kʌridʒmənt</string>
 			<key>word</key>
 			<string>encouragement</string>
 		</dict>
@@ -9960,7 +9960,7 @@
 			<key>mean</key>
 			<string>sự kết thúc, sự chấm dứt, phần cuối, kết cục</string>
 			<key>pronunciation</key>
-			<string>'endiη</string>
+			<string>&apos;endiη</string>
 			<key>word</key>
 			<string>ending</string>
 		</dict>
@@ -10000,7 +10000,7 @@
 			<key>mean</key>
 			<string>đã đính ước, đã hứa hôn, đã có người</string>
 			<key>pronunciation</key>
-			<string>in'geidʒd</string>
+			<string>in&apos;geidʒd</string>
 			<key>word</key>
 			<string>engaged</string>
 		</dict>
@@ -10050,7 +10050,7 @@
 			<key>mean</key>
 			<string>thú vị, thích thú</string>
 			<key>pronunciation</key>
-			<string>in'dʒɔiəbl</string>
+			<string>in&apos;dʒɔiəbl</string>
 			<key>word</key>
 			<string>enjoyable</string>
 		</dict>
@@ -10060,7 +10060,7 @@
 			<key>mean</key>
 			<string>sự thích thú, sự có được, được hưởng</string>
 			<key>pronunciation</key>
-			<string>in'dʒɔimənt</string>
+			<string>in&apos;dʒɔimənt</string>
 			<key>word</key>
 			<string>enjoyment</string>
 		</dict>
@@ -10110,7 +10110,7 @@
 			<key>mean</key>
 			<string>đi vào, gia nhập</string>
 			<key>pronunciation</key>
-			<string>'entə</string>
+			<string>&apos;entə</string>
 			<key>word</key>
 			<string>enter</string>
 		</dict>
@@ -10140,7 +10140,7 @@
 			<key>mean</key>
 			<string>người quản trò, người tiếp đãi, chiêu đãi</string>
 			<key>pronunciation</key>
-			<string>entə'teinə</string>
+			<string>entə&apos;teinə</string>
 			<key>word</key>
 			<string>entertainer</string>
 		</dict>
@@ -10190,7 +10190,7 @@
 			<key>mean</key>
 			<string>toàn vẹn, trọn vẹn, toàn bộ</string>
 			<key>pronunciation</key>
-			<string>in'taiəli</string>
+			<string>in&apos;taiəli</string>
 			<key>word</key>
 			<string>entirely</string>
 		</dict>
@@ -10260,7 +10260,7 @@
 			<key>mean</key>
 			<string>ngang, bằng, người ngang hàng, ngang tài, sức, bằng,</string>
 			<key>pronunciation</key>
-			<string>'i:kwəl</string>
+			<string>&apos;i:kwəl</string>
 			<key>word</key>
 			<string>equal</string>
 		</dict>
@@ -10290,7 +10290,7 @@
 			<key>mean</key>
 			<string>tương đương, từ, vật tương đương</string>
 			<key>pronunciation</key>
-			<string>i'kwivələnt</string>
+			<string>i&apos;kwivələnt</string>
 			<key>word</key>
 			<string>equivalent</string>
 		</dict>
@@ -10350,7 +10350,7 @@
 			<key>mean</key>
 			<string>về bản chất, về cơ bản</string>
 			<key>pronunciation</key>
-			<string>esenʃi'əli</string>
+			<string>esenʃi&apos;əli</string>
 			<key>word</key>
 			<string>essentially</string>
 		</dict>
@@ -10400,7 +10400,7 @@
 			<key>mean</key>
 			<string>đơn vị tiền tệ của liên minh châu Âu</string>
 			<key>pronunciation</key>
-			<string>'ju:rou</string>
+			<string>&apos;ju:rou</string>
 			<key>word</key>
 			<string>euro</string>
 		</dict>
@@ -10440,7 +10440,7 @@
 			<key>mean</key>
 			<string>cuối cùng</string>
 			<key>pronunciation</key>
-			<string>i'ventjuəli</string>
+			<string>i&apos;ventjuəli</string>
 			<key>word</key>
 			<string>eventually</string>
 		</dict>
@@ -10470,7 +10470,7 @@
 			<key>mean</key>
 			<string>mọi người</string>
 			<key>pronunciation</key>
-			<string>'evriwʌn</string>
+			<string>&apos;evriwʌn</string>
 			<key>word</key>
 			<string>everyone</string>
 		</dict>
@@ -10490,7 +10490,7 @@
 			<key>mean</key>
 			<string>mọi nơi</string>
 			<key>pronunciation</key>
-			<string>'evriweə</string>
+			<string>&apos;evriweə</string>
 			<key>word</key>
 			<string>everywhere</string>
 		</dict>
@@ -10520,7 +10520,7 @@
 			<key>mean</key>
 			<string>chính xác, đúng</string>
 			<key>pronunciation</key>
-			<string>ig'zækt</string>
+			<string>ig&apos;zækt</string>
 			<key>word</key>
 			<string>exact</string>
 		</dict>
@@ -10530,7 +10530,7 @@
 			<key>mean</key>
 			<string>chính xác, đúng đắn</string>
 			<key>pronunciation</key>
-			<string>ig'zæktli</string>
+			<string>ig&apos;zæktli</string>
 			<key>word</key>
 			<string>exactly</string>
 		</dict>
@@ -10540,7 +10540,7 @@
 			<key>mean</key>
 			<string>cường điệu, phóng đại</string>
 			<key>pronunciation</key>
-			<string>ig'zædʒəreit</string>
+			<string>ig&apos;zædʒəreit</string>
 			<key>word</key>
 			<string>exaggerate</string>
 		</dict>
@@ -10560,7 +10560,7 @@
 			<key>mean</key>
 			<string>viết tắt của Examination</string>
 			<key>pronunciation</key>
-			<string>ig'zæm</string>
+			<string>ig&apos;zæm</string>
 			<key>word</key>
 			<string>exam</string>
 		</dict>
@@ -10570,7 +10570,7 @@
 			<key>mean</key>
 			<string>sự thi cử, kỳ thi</string>
 			<key>pronunciation</key>
-			<string>igzæmi'neiʃən</string>
+			<string>igzæmi&apos;neiʃən</string>
 			<key>word</key>
 			<string>examination</string>
 		</dict>
@@ -10590,7 +10590,7 @@
 			<key>mean</key>
 			<string>thí dụ, ví dụ</string>
 			<key>pronunciation</key>
-			<string>ig'za:mpəl</string>
+			<string>ig&apos;za:mpəl</string>
 			<key>word</key>
 			<string>example</string>
 		</dict>
@@ -10630,7 +10630,7 @@
 			<key>mean</key>
 			<string>trao đổi, sự trao đổi, in exchange for: trong việc trao đổi về</string>
 			<key>pronunciation</key>
-			<string>iks'tʃeindʒ</string>
+			<string>iks&apos;tʃeindʒ</string>
 			<key>word</key>
 			<string>exchange</string>
 		</dict>
@@ -10650,7 +10650,7 @@
 			<key>mean</key>
 			<string>hứng thú, thú vị</string>
 			<key>pronunciation</key>
-			<string>ik'saitiη</string>
+			<string>ik&apos;saitiη</string>
 			<key>word</key>
 			<string>exciting</string>
 		</dict>
@@ -10670,7 +10670,7 @@
 			<key>mean</key>
 			<string>sự kích thích, sự kích động</string>
 			<key>pronunciation</key>
-			<string>ik'saitmənt</string>
+			<string>ik&apos;saitmənt</string>
 			<key>word</key>
 			<string>excitement</string>
 		</dict>
@@ -10680,7 +10680,7 @@
 			<key>mean</key>
 			<string>ngăn chạn, loại trừ</string>
 			<key>pronunciation</key>
-			<string>iks'klu:d</string>
+			<string>iks&apos;klu:d</string>
 			<key>word</key>
 			<string>exclude</string>
 		</dict>
@@ -10690,7 +10690,7 @@
 			<key>mean</key>
 			<string>ngoài ra, trừ ra</string>
 			<key>pronunciation</key>
-			<string>iks'klu:diη</string>
+			<string>iks&apos;klu:diη</string>
 			<key>word</key>
 			<string>excluding</string>
 		</dict>
@@ -10700,7 +10700,7 @@
 			<key>mean</key>
 			<string>lời xin lỗi, bào chữa, xin lỗi, tha thứ, tha lỗi</string>
 			<key>pronunciation</key>
-			<string>iks'kju:z</string>
+			<string>iks&apos;kju:z</string>
 			<key>word</key>
 			<string>excuse</string>
 		</dict>
@@ -10770,7 +10770,7 @@
 			<key>mean</key>
 			<string>lỗi ra, sự đi ra, thoát ra</string>
 			<key>pronunciation</key>
-			<string>'egzit</string>
+			<string>&apos;egzit</string>
 			<key>word</key>
 			<string>exit</string>
 		</dict>
@@ -10800,7 +10800,7 @@
 			<key>mean</key>
 			<string>được chờ đợi, được hy vọng</string>
 			<key>pronunciation</key>
-			<string>iks'pektid</string>
+			<string>iks&apos;pektid</string>
 			<key>word</key>
 			<string>expected</string>
 		</dict>
@@ -10810,7 +10810,7 @@
 			<key>mean</key>
 			<string>bất ngờ, gây ngạc nhiên</string>
 			<key>pronunciation</key>
-			<string>ʌniks'pektid</string>
+			<string>ʌniks&apos;pektid</string>
 			<key>word</key>
 			<string>unexpected</string>
 		</dict>
@@ -10870,7 +10870,7 @@
 			<key>mean</key>
 			<string>có kinh nghiệm, từng trải, giàu kinh nghiệm</string>
 			<key>pronunciation</key>
-			<string>eks'piəriənst</string>
+			<string>eks&apos;piəriənst</string>
 			<key>word</key>
 			<string>experienced</string>
 		</dict>
@@ -10930,7 +10930,7 @@
 			<key>mean</key>
 			<string>thăm dò, thám hiểm</string>
 			<key>pronunciation</key>
-			<string>iks'plɔ:</string>
+			<string>iks&apos;plɔ:</string>
 			<key>word</key>
 			<string>explore</string>
 		</dict>
@@ -10950,7 +10950,7 @@
 			<key>mean</key>
 			<string>xuất khẩu, hàng xuất khẩu, sự xuất khẩu</string>
 			<key>pronunciation</key>
-			<string>iks'pɔ:t</string>
+			<string>iks&apos;pɔ:t</string>
 			<key>word</key>
 			<string>export</string>
 		</dict>
@@ -11010,7 +11010,7 @@
 			<key>mean</key>
 			<string>rộng rãi, bao quát</string>
 			<key>pronunciation</key>
-			<string>iks'tensiv</string>
+			<string>iks&apos;tensiv</string>
 			<key>word</key>
 			<string>extensive</string>
 		</dict>
@@ -11060,7 +11060,7 @@
 			<key>mean</key>
 			<string>vô cùng, cực độ</string>
 			<key>pronunciation</key>
-			<string>iks'tri:mli</string>
+			<string>iks&apos;tri:mli</string>
 			<key>word</key>
 			<string>extremely</string>
 		</dict>
@@ -11190,7 +11190,7 @@
 			<key>mean</key>
 			<string>gian lận, không công bằng, bất lợi</string>
 			<key>pronunciation</key>
-			<string>ʌn'fɛə</string>
+			<string>ʌn&apos;fɛə</string>
 			<key>word</key>
 			<string>unfair</string>
 		</dict>
@@ -11200,7 +11200,7 @@
 			<key>mean</key>
 			<string>gian lận, không công bằng, bất lợi</string>
 			<key>pronunciation</key>
-			<string>ʌn'fɛəli</string>
+			<string>ʌn&apos;fɛəli</string>
 			<key>word</key>
 			<string>unfairly</string>
 		</dict>
@@ -11500,7 +11500,7 @@
 			<key>mean</key>
 			<string>tháng 2</string>
 			<key>pronunciation</key>
-			<string>'februəri</string>
+			<string>&apos;februəri</string>
 			<key>word</key>
 			<string>february</string>
 		</dict>
@@ -11570,7 +11570,7 @@
 			<key>mean</key>
 			<string>thuộc giống cái, giống cái</string>
 			<key>pronunciation</key>
-			<string>'fi:meil</string>
+			<string>&apos;fi:meil</string>
 			<key>word</key>
 			<string>female</string>
 		</dict>
@@ -11650,7 +11650,7 @@
 			<key>mean</key>
 			<string>sự chiến đấu, sự đấu tranh</string>
 			<key>pronunciation</key>
-			<string>'faitiη</string>
+			<string>&apos;faitiη</string>
 			<key>word</key>
 			<string>fighting</string>
 		</dict>
@@ -11710,7 +11710,7 @@
 			<key>mean</key>
 			<string>cuối cùng, sau cùng</string>
 			<key>pronunciation</key>
-			<string>'fainəli</string>
+			<string>&apos;fainəli</string>
 			<key>word</key>
 			<string>finally</string>
 		</dict>
@@ -11760,7 +11760,7 @@
 			<key>mean</key>
 			<string>đẹp đẽ, tế nhị, cao thượng</string>
 			<key>pronunciation</key>
-			<string>'fainli</string>
+			<string>&apos;fainli</string>
 			<key>word</key>
 			<string>finely</string>
 		</dict>
@@ -11820,7 +11820,7 @@
 			<key>mean</key>
 			<string>vững chắc, kiên quyết</string>
 			<key>pronunciation</key>
-			<string>'fə:mli</string>
+			<string>&apos;fə:mli</string>
 			<key>word</key>
 			<string>firmly</string>
 		</dict>
@@ -11850,7 +11850,7 @@
 			<key>mean</key>
 			<string>sự câu cá, sự đánh cá</string>
 			<key>pronunciation</key>
-			<string>'fiʃiη</string>
+			<string>&apos;fiʃiη</string>
 			<key>word</key>
 			<string>fishing</string>
 		</dict>
@@ -11990,7 +11990,7 @@
 			<key>mean</key>
 			<string>bột, bột mỳ</string>
 			<key>pronunciation</key>
-			<string>'flauə</string>
+			<string>&apos;flauə</string>
 			<key>word</key>
 			<string>flour</string>
 		</dict>
@@ -12040,7 +12040,7 @@
 			<key>mean</key>
 			<string>biết bay, sự bay, chuyến bay</string>
 			<key>pronunciation</key>
-			<string>'flaiiη</string>
+			<string>&apos;flaiiη</string>
 			<key>word</key>
 			<string>flying</string>
 		</dict>
@@ -12070,7 +12070,7 @@
 			<key>mean</key>
 			<string>gấp lại được</string>
 			<key>pronunciation</key>
-			<string>'fouldiη</string>
+			<string>&apos;fouldiη</string>
 			<key>word</key>
 			<string>folding</string>
 		</dict>
@@ -12090,7 +12090,7 @@
 			<key>mean</key>
 			<string>tiếp theo, theo sau, sau đây, sau, tiếp theo</string>
 			<key>pronunciation</key>
-			<string>'fɔlouiη</string>
+			<string>&apos;fɔlouiη</string>
 			<key>word</key>
 			<string>following</string>
 		</dict>
@@ -12250,7 +12250,7 @@
 			<key>mean</key>
 			<string>trước, cũ, xưa, nguyên</string>
 			<key>pronunciation</key>
-			<string>'fɔ:mə</string>
+			<string>&apos;fɔ:mə</string>
 			<key>word</key>
 			<string>former</string>
 		</dict>
@@ -12260,7 +12260,7 @@
 			<key>mean</key>
 			<string>trước đây, thuở xưa</string>
 			<key>pronunciation</key>
-			<string>'fɔ:məli</string>
+			<string>&apos;fɔ:məli</string>
 			<key>word</key>
 			<string>formerly</string>
 		</dict>
@@ -12350,7 +12350,7 @@
 			<key>mean</key>
 			<string>tự do, thoải mái</string>
 			<key>pronunciation</key>
-			<string>'fri:li</string>
+			<string>&apos;fri:li</string>
 			<key>word</key>
 			<string>freely</string>
 		</dict>
@@ -12400,7 +12400,7 @@
 			<key>mean</key>
 			<string>thường xuyên</string>
 			<key>pronunciation</key>
-			<string>'fri:kwəntli</string>
+			<string>&apos;fri:kwəntli</string>
 			<key>word</key>
 			<string>frequently</string>
 		</dict>
@@ -12420,7 +12420,7 @@
 			<key>mean</key>
 			<string>tươi mát, khỏe khoắn</string>
 			<key>pronunciation</key>
-			<string>'freʃli</string>
+			<string>&apos;freʃli</string>
 			<key>word</key>
 			<string>freshly</string>
 		</dict>
@@ -12430,7 +12430,7 @@
 			<key>mean</key>
 			<string>thứ Sáu</string>
 			<key>pronunciation</key>
-			<string>'fraidi</string>
+			<string>&apos;fraidi</string>
 			<key>word</key>
 			<string>friday</string>
 		</dict>
@@ -12460,7 +12460,7 @@
 			<key>mean</key>
 			<string>thân thiện, thân mật</string>
 			<key>pronunciation</key>
-			<string>'frendli</string>
+			<string>&apos;frendli</string>
 			<key>word</key>
 			<string>friendly</string>
 		</dict>
@@ -12470,7 +12470,7 @@
 			<key>mean</key>
 			<string>không thân thiện, không có thiện cảm</string>
 			<key>pronunciation</key>
-			<string>ʌn'frendli</string>
+			<string>ʌn&apos;frendli</string>
 			<key>word</key>
 			<string>unfriendly</string>
 		</dict>
@@ -12500,7 +12500,7 @@
 			<key>mean</key>
 			<string>kinh khủng, khủng khiếp</string>
 			<key>pronunciation</key>
-			<string>'fraiəniη</string>
+			<string>&apos;fraiəniη</string>
 			<key>word</key>
 			<string>frightening</string>
 		</dict>
@@ -12590,7 +12590,7 @@
 			<key>mean</key>
 			<string>đầy đủ, hoàn toàn</string>
 			<key>pronunciation</key>
-			<string>'fuli</string>
+			<string>&apos;fuli</string>
 			<key>word</key>
 			<string>fully</string>
 		</dict>
@@ -12650,7 +12650,7 @@
 			<key>mean</key>
 			<string>buồn cười, khôi hài</string>
 			<key>pronunciation</key>
-			<string>'fʌni</string>
+			<string>&apos;fʌni</string>
 			<key>word</key>
 			<string>funny</string>
 		</dict>
@@ -12750,7 +12750,7 @@
 			<key>mean</key>
 			<string>nhà để ô tô</string>
 			<key>pronunciation</key>
-			<string>'gæra:ʒ</string>
+			<string>&apos;gæra:ʒ</string>
 			<key>word</key>
 			<string>garage</string>
 		</dict>
@@ -12870,7 +12870,7 @@
 			<key>mean</key>
 			<string>rộng lượng, khoan hồng, hào phóng</string>
 			<key>pronunciation</key>
-			<string>'dʒenərəs</string>
+			<string>&apos;dʒenərəs</string>
 			<key>word</key>
 			<string>generous</string>
 		</dict>
@@ -12920,7 +12920,7 @@
 			<key>mean</key>
 			<string>thành thật, chân thật, xác thực</string>
 			<key>pronunciation</key>
-			<string>'dʒenjuin</string>
+			<string>&apos;dʒenjuin</string>
 			<key>word</key>
 			<string>genuine</string>
 		</dict>
@@ -12930,7 +12930,7 @@
 			<key>mean</key>
 			<string>thành thật, chân thật</string>
 			<key>pronunciation</key>
-			<string>'dʒenjuinli</string>
+			<string>&apos;dʒenjuinli</string>
 			<key>word</key>
 			<string>genuinely</string>
 		</dict>
@@ -12940,7 +12940,7 @@
 			<key>mean</key>
 			<string>địa lý, khoa địa lý</string>
 			<key>pronunciation</key>
-			<string>dʒi'ɔgrəfi</string>
+			<string>dʒi&apos;ɔgrəfi</string>
 			<key>word</key>
 			<string>geography</string>
 		</dict>
@@ -13040,7 +13040,7 @@
 			<key>mean</key>
 			<string>toàn cầu, toàn thể, toàn bộ</string>
 			<key>pronunciation</key>
-			<string>'gloubl</string>
+			<string>&apos;gloubl</string>
 			<key>word</key>
 			<string>global</string>
 		</dict>
@@ -13130,7 +13130,7 @@
 			<key>mean</key>
 			<string>tạm biệt, lời chào tạm biệt</string>
 			<key>pronunciation</key>
-			<string>gud'bai</string>
+			<string>gud&apos;bai</string>
 			<key>word</key>
 			<string>goodbye</string>
 		</dict>
@@ -13150,7 +13150,7 @@
 			<key>mean</key>
 			<string>cai trị, thống trị, cầm quyền</string>
 			<key>pronunciation</key>
-			<string>'gʌvən</string>
+			<string>&apos;gʌvən</string>
 			<key>word</key>
 			<string>govern</string>
 		</dict>
@@ -13170,7 +13170,7 @@
 			<key>mean</key>
 			<string>thủ lĩnh, chủ, kẻ thống trị</string>
 			<key>pronunciation</key>
-			<string>'gʌvənə</string>
+			<string>&apos;gʌvənə</string>
 			<key>word</key>
 			<string>governor</string>
 		</dict>
@@ -13200,7 +13200,7 @@
 			<key>mean</key>
 			<string>dần dần, từng bước một</string>
 			<key>pronunciation</key>
-			<string>'grædjuəl</string>
+			<string>&apos;grædjuəl</string>
 			<key>word</key>
 			<string>gradual</string>
 		</dict>
@@ -13260,7 +13260,7 @@
 			<key>mean</key>
 			<string>cháu (của ông bà)</string>
 			<key>pronunciation</key>
-			<string>'græn¸tʃaild</string>
+			<string>&apos;græn¸tʃaild</string>
 			<key>word</key>
 			<string>grandchild</string>
 		</dict>
@@ -13280,7 +13280,7 @@
 			<key>mean</key>
 			<string>ông</string>
 			<key>pronunciation</key>
-			<string>'græn¸fa:ðə</string>
+			<string>&apos;græn¸fa:ðə</string>
 			<key>word</key>
 			<string>grandfather</string>
 		</dict>
@@ -13300,7 +13300,7 @@
 			<key>mean</key>
 			<string>ông bà</string>
 			<key>pronunciation</key>
-			<string>'græn¸pɛərənts</string>
+			<string>&apos;græn¸pɛərənts</string>
 			<key>word</key>
 			<string>grandparent</string>
 		</dict>
@@ -13310,7 +13310,7 @@
 			<key>mean</key>
 			<string>cháu trai</string>
 			<key>pronunciation</key>
-			<string>'grænsʌn</string>
+			<string>&apos;grænsʌn</string>
 			<key>word</key>
 			<string>grandson</string>
 		</dict>
@@ -13340,7 +13340,7 @@
 			<key>mean</key>
 			<string>biết ơn, dễ chịu, khoan khoái</string>
 			<key>pronunciation</key>
-			<string>'greitful</string>
+			<string>&apos;greitful</string>
 			<key>word</key>
 			<string>grateful</string>
 		</dict>
@@ -13380,7 +13380,7 @@
 			<key>mean</key>
 			<string>rat, lắm, cao thượng, cao cả</string>
 			<key>pronunciation</key>
-			<string>'greitli</string>
+			<string>&apos;greitli</string>
 			<key>word</key>
 			<string>greatly</string>
 		</dict>
@@ -13410,7 +13410,7 @@
 			<key>mean</key>
 			<string>cửa hàng tạp phẩm</string>
 			<key>pronunciation</key>
-			<string>'grousəri</string>
+			<string>&apos;grousəri</string>
 			<key>word</key>
 			<string>grocery</string>
 		</dict>
@@ -13550,7 +13550,7 @@
 			<key>mean</key>
 			<string>thói quen, tập quán</string>
 			<key>pronunciation</key>
-			<string>'hæbit</string>
+			<string>&apos;hæbit</string>
 			<key>word</key>
 			<string>habit</string>
 		</dict>
@@ -13660,7 +13660,7 @@
 			<key>mean</key>
 			<string>nỗi buồn, sự bat hạnh</string>
 			<key>pronunciation</key>
-			<string>ʌn'hæpinis</string>
+			<string>ʌn&apos;hæpinis</string>
 			<key>word</key>
 			<string>unhappiness</string>
 		</dict>
@@ -13690,7 +13690,7 @@
 			<key>mean</key>
 			<string>buồn rầu, khốn khổ6</string>
 			<key>pronunciation</key>
-			<string>ʌn'hæpi</string>
+			<string>ʌn&apos;hæpi</string>
 			<key>word</key>
 			<string>unhappy</string>
 		</dict>
@@ -13710,7 +13710,7 @@
 			<key>mean</key>
 			<string>khắc nghiệt, nghiêm khắc, tàn tệ, khó khăn</string>
 			<key>pronunciation</key>
-			<string>'ha:dli</string>
+			<string>&apos;ha:dli</string>
 			<key>word</key>
 			<string>hardly</string>
 		</dict>
@@ -13730,7 +13730,7 @@
 			<key>mean</key>
 			<string>gây tai hại, có hại</string>
 			<key>pronunciation</key>
-			<string>'ha:mful</string>
+			<string>&apos;ha:mful</string>
 			<key>word</key>
 			<string>harmful</string>
 		</dict>
@@ -13740,7 +13740,7 @@
 			<key>mean</key>
 			<string>không có hại</string>
 			<key>pronunciation</key>
-			<string>'ha:mlis</string>
+			<string>&apos;ha:mlis</string>
 			<key>word</key>
 			<string>harmless</string>
 		</dict>
@@ -13920,7 +13920,7 @@
 			<key>mean</key>
 			<string>nặng, nặng nề</string>
 			<key>pronunciation</key>
-			<string>'hevili</string>
+			<string>&apos;hevili</string>
 			<key>word</key>
 			<string>heavily</string>
 		</dict>
@@ -13980,7 +13980,7 @@
 			<key>mean</key>
 			<string>có ích, giúp đỡ</string>
 			<key>pronunciation</key>
-			<string>'helpful</string>
+			<string>&apos;helpful</string>
 			<key>word</key>
 			<string>helpful</string>
 		</dict>
@@ -14040,7 +14040,7 @@
 			<key>mean</key>
 			<string>chính nó, chính cô ta, chính chị ta, chính bà ta</string>
 			<key>pronunciation</key>
-			<string>hə:'self</string>
+			<string>hə:&apos;self</string>
 			<key>word</key>
 			<string>herself</string>
 		</dict>
@@ -14090,7 +14090,7 @@
 			<key>mean</key>
 			<string>tốt, cao, hết sức, ở mức độ cao</string>
 			<key>pronunciation</key>
-			<string>'haili</string>
+			<string>&apos;haili</string>
 			<key>word</key>
 			<string>highly</string>
 		</dict>
@@ -14110,7 +14110,7 @@
 			<key>mean</key>
 			<string>đường quốc lộ</string>
 			<key>pronunciation</key>
-			<string>'haiwei</string>
+			<string>&apos;haiwei</string>
 			<key>word</key>
 			<string>highway</string>
 		</dict>
@@ -14140,7 +14140,7 @@
 			<key>mean</key>
 			<string>chính nó, chính hắn, chính ông ta, chính anh ta68</string>
 			<key>pronunciation</key>
-			<string>him'self</string>
+			<string>him&apos;self</string>
 			<key>word</key>
 			<string>himself</string>
 		</dict>
@@ -14190,7 +14190,7 @@
 			<key>mean</key>
 			<string>lịch sử, sử học</string>
 			<key>pronunciation</key>
-			<string>'histəri</string>
+			<string>&apos;histəri</string>
 			<key>word</key>
 			<string>history</string>
 		</dict>
@@ -14280,7 +14280,7 @@
 			<key>mean</key>
 			<string>bài tập về nhà (học sinh), công việc làm ở nhà</string>
 			<key>pronunciation</key>
-			<string>'houm¸wə:k</string>
+			<string>&apos;houm¸wə:k</string>
 			<key>word</key>
 			<string>homework</string>
 		</dict>
@@ -14360,7 +14360,7 @@
 			<key>mean</key>
 			<string>điều kinh khủng, sự ghê rợn</string>
 			<key>pronunciation</key>
-			<string>'hɔrə</string>
+			<string>&apos;hɔrə</string>
 			<key>word</key>
 			<string>horror</string>
 		</dict>
@@ -14410,7 +14410,7 @@
 			<key>mean</key>
 			<string>khách sạn</string>
 			<key>pronunciation</key>
-			<string>hou'tel</string>
+			<string>hou&apos;tel</string>
 			<key>word</key>
 			<string>hotel</string>
 		</dict>
@@ -14440,7 +14440,7 @@
 			<key>mean</key>
 			<string>nơi ăn chốn ở</string>
 			<key>pronunciation</key>
-			<string>'hauziη</string>
+			<string>&apos;hauziη</string>
 			<key>word</key>
 			<string>housing</string>
 		</dict>
@@ -14450,7 +14450,7 @@
 			<key>mean</key>
 			<string>hộ, gia đình, (thuộcgia đình</string>
 			<key>pronunciation</key>
-			<string>'haushould</string>
+			<string>&apos;haushould</string>
 			<key>word</key>
 			<string>household</string>
 		</dict>
@@ -14470,7 +14470,7 @@
 			<key>mean</key>
 			<string>tuy nhiên, tuy vậy, dù thế nào</string>
 			<key>pronunciation</key>
-			<string>hau'evə</string>
+			<string>hau&apos;evə</string>
 			<key>word</key>
 			<string>however</string>
 		</dict>
@@ -14500,7 +14500,7 @@
 			<key>mean</key>
 			<string>hài hước, hóm hỉnh</string>
 			<key>pronunciation</key>
-			<string>'hju:mərəs</string>
+			<string>&apos;hju:mərəs</string>
 			<key>word</key>
 			<string>humorous</string>
 		</dict>
@@ -14510,7 +14510,7 @@
 			<key>mean</key>
 			<string>sự hài hước, sự hóm hỉnh</string>
 			<key>pronunciation</key>
-			<string>'hju:mə</string>
+			<string>&apos;hju:mə</string>
 			<key>word</key>
 			<string>humour</string>
 		</dict>
@@ -14570,7 +14570,7 @@
 			<key>mean</key>
 			<string>người chồng</string>
 			<key>pronunciation</key>
-			<string>'hʌzbənd</string>
+			<string>&apos;hʌzbənd</string>
 			<key>word</key>
 			<string>husband</string>
 		</dict>
@@ -14680,7 +14680,7 @@
 			<key>mean</key>
 			<string>trái luật, bat hợp pháp</string>
 			<key>pronunciation</key>
-			<string>i'li:gl</string>
+			<string>i&apos;li:gl</string>
 			<key>word</key>
 			<string>illegal</string>
 		</dict>
@@ -14690,7 +14690,7 @@
 			<key>mean</key>
 			<string>trái luật, bat hợp pháp</string>
 			<key>pronunciation</key>
-			<string>i'li:gəli</string>
+			<string>i&apos;li:gəli</string>
 			<key>word</key>
 			<string>illegally</string>
 		</dict>
@@ -14700,7 +14700,7 @@
 			<key>mean</key>
 			<string>sự đau yếu, ốm, bệnh tật</string>
 			<key>pronunciation</key>
-			<string>'ilnis</string>
+			<string>&apos;ilnis</string>
 			<key>word</key>
 			<string>illness</string>
 		</dict>
@@ -14710,7 +14710,7 @@
 			<key>mean</key>
 			<string>minh họa, làm rõ ý</string>
 			<key>pronunciation</key>
-			<string>'ilə¸streit</string>
+			<string>&apos;ilə¸streit</string>
 			<key>word</key>
 			<string>illustrate</string>
 		</dict>
@@ -14720,7 +14720,7 @@
 			<key>mean</key>
 			<string>ảnh, hình ảnh</string>
 			<key>pronunciation</key>
-			<string>'imidʒ</string>
+			<string>&apos;imidʒ</string>
 			<key>word</key>
 			<string>image</string>
 		</dict>
@@ -14730,7 +14730,7 @@
 			<key>mean</key>
 			<string>tưởng tượng, ảo</string>
 			<key>pronunciation</key>
-			<string>i'mædʒinəri</string>
+			<string>i&apos;mædʒinəri</string>
 			<key>word</key>
 			<string>imaginary</string>
 		</dict>
@@ -14780,7 +14780,7 @@
 			<key>mean</key>
 			<string>trái đạo đức, luân lý, xau xa</string>
 			<key>pronunciation</key>
-			<string>i'mɔrəl</string>
+			<string>i&apos;mɔrəl</string>
 			<key>word</key>
 			<string>immoral</string>
 		</dict>
@@ -14820,7 +14820,7 @@
 			<key>mean</key>
 			<string>sự lôi kéo, sự liên can, điều gợi ý</string>
 			<key>pronunciation</key>
-			<string>impli'keiʃən</string>
+			<string>impli&apos;keiʃən</string>
 			<key>word</key>
 			<string>implication</string>
 		</dict>
@@ -14850,7 +14850,7 @@
 			<key>mean</key>
 			<string>sự quan trọng, tầm quan trọng</string>
 			<key>pronunciation</key>
-			<string>im'pɔ:təns</string>
+			<string>im&apos;pɔ:təns</string>
 			<key>word</key>
 			<string>importance</string>
 		</dict>
@@ -14880,7 +14880,7 @@
 			<key>mean</key>
 			<string>không quan trọng, không trọng đại</string>
 			<key>pronunciation</key>
-			<string>ʌnim'pɔ:tənt</string>
+			<string>ʌnim&apos;pɔ:tənt</string>
 			<key>word</key>
 			<string>unimportant</string>
 		</dict>
@@ -14970,7 +14970,7 @@
 			<key>mean</key>
 			<string>sự bất lực, bất tài</string>
 			<key>pronunciation</key>
-			<string>inə'biliti</string>
+			<string>inə&apos;biliti</string>
 			<key>word</key>
 			<string>inability</string>
 		</dict>
@@ -14990,7 +14990,7 @@
 			<key>mean</key>
 			<string>việc xảy ra, việc có liên quan</string>
 			<key>pronunciation</key>
-			<string>'insidənt</string>
+			<string>&apos;insidənt</string>
 			<key>word</key>
 			<string>incident</string>
 		</dict>
@@ -15010,7 +15010,7 @@
 			<key>mean</key>
 			<string>bao gồm, kể cả</string>
 			<key>pronunciation</key>
-			<string>in'klu:diη</string>
+			<string>in&apos;klu:diη</string>
 			<key>word</key>
 			<string>including</string>
 		</dict>
@@ -15040,7 +15040,7 @@
 			<key>mean</key>
 			<string>tăng thêm</string>
 			<key>pronunciation</key>
-			<string>in'kri:siηli</string>
+			<string>in&apos;kri:siηli</string>
 			<key>word</key>
 			<string>increasingly</string>
 		</dict>
@@ -15100,7 +15100,7 @@
 			<key>mean</key>
 			<string>chỉ, cho biết, biểu thị, trình bày ngắn gọn</string>
 			<key>pronunciation</key>
-			<string>'indikeit</string>
+			<string>&apos;indikeit</string>
 			<key>word</key>
 			<string>indicate</string>
 		</dict>
@@ -15120,7 +15120,7 @@
 			<key>mean</key>
 			<string>gián tiếp</string>
 			<key>pronunciation</key>
-			<string>indi'rekt</string>
+			<string>indi&apos;rekt</string>
 			<key>word</key>
 			<string>indirect</string>
 		</dict>
@@ -15150,7 +15150,7 @@
 			<key>mean</key>
 			<string>ở trong nhà</string>
 			<key>pronunciation</key>
-			<string>in'dɔ:z</string>
+			<string>in&apos;dɔ:z</string>
 			<key>word</key>
 			<string>indoors</string>
 		</dict>
@@ -15160,7 +15160,7 @@
 			<key>mean</key>
 			<string>trong nhà</string>
 			<key>pronunciation</key>
-			<string>'indɔ:</string>
+			<string>&apos;indɔ:</string>
 			<key>word</key>
 			<string>indoor</string>
 		</dict>
@@ -15170,7 +15170,7 @@
 			<key>mean</key>
 			<string>(thuộccông nghiệp, kỹ nghệ</string>
 			<key>pronunciation</key>
-			<string>in'dʌstriəl</string>
+			<string>in&apos;dʌstriəl</string>
 			<key>word</key>
 			<string>industrial</string>
 		</dict>
@@ -15190,7 +15190,7 @@
 			<key>mean</key>
 			<string>không thể tránh được, chắc chắn xảy ra, vẫn thường thay,</string>
 			<key>pronunciation</key>
-			<string>in'evitəbl</string>
+			<string>in&apos;evitəbl</string>
 			<key>word</key>
 			<string>inevitable</string>
 		</dict>
@@ -15210,7 +15210,7 @@
 			<key>mean</key>
 			<string>nhiễm, tiêm nhiễm, đầu độc, lan truyền</string>
 			<key>pronunciation</key>
-			<string>in'fekt</string>
+			<string>in&apos;fekt</string>
 			<key>word</key>
 			<string>infect</string>
 		</dict>
@@ -15220,7 +15220,7 @@
 			<key>mean</key>
 			<string> bị nhiễm, bị đầu độc</string>
 			<key>pronunciation</key>
-			<string>in'fektid</string>
+			<string>in&apos;fektid</string>
 			<key>word</key>
 			<string>infected</string>
 		</dict>
@@ -15240,7 +15240,7 @@
 			<key>mean</key>
 			<string>lây, nhiễm</string>
 			<key>pronunciation</key>
-			<string>in'fekʃəs</string>
+			<string>in&apos;fekʃəs</string>
 			<key>word</key>
 			<string>infectious</string>
 		</dict>
@@ -15270,7 +15270,7 @@
 			<key>mean</key>
 			<string>không chính thức, không nghi thức</string>
 			<key>pronunciation</key>
-			<string>in'fɔ:məl</string>
+			<string>in&apos;fɔ:məl</string>
 			<key>word</key>
 			<string>informal</string>
 		</dict>
@@ -15310,7 +15310,7 @@
 			<key>mean</key>
 			<string>vào lúc ban đầu, ban đầu</string>
 			<key>pronunciation</key>
-			<string>i'niʃəli</string>
+			<string>i&apos;niʃəli</string>
 			<key>word</key>
 			<string>initially</string>
 		</dict>
@@ -15340,7 +15340,7 @@
 			<key>mean</key>
 			<string>bị tổn thương, bị xúc phạm</string>
 			<key>pronunciation</key>
-			<string>'indʒə:d</string>
+			<string>&apos;indʒə:d</string>
 			<key>word</key>
 			<string>injured</string>
 		</dict>
@@ -15460,7 +15460,7 @@
 			<key>mean</key>
 			<string>viện, học viện</string>
 			<key>pronunciation</key>
-			<string>ˈ'institju:t</string>
+			<string>ˈ&apos;institju:t</string>
 			<key>word</key>
 			<string>institute</string>
 		</dict>
@@ -15510,7 +15510,7 @@
 			<key>mean</key>
 			<string>lăng mạ, xỉ nhục</string>
 			<key>pronunciation</key>
-			<string>in'sʌltiη</string>
+			<string>in&apos;sʌltiη</string>
 			<key>word</key>
 			<string>insulting</string>
 		</dict>
@@ -15560,7 +15560,7 @@
 			<key>mean</key>
 			<string>có ý định, có dụng ý</string>
 			<key>pronunciation</key>
-			<string>in'tendid</string>
+			<string>in&apos;tendid</string>
 			<key>word</key>
 			<string>intended</string>
 		</dict>
@@ -15710,7 +15710,7 @@
 			<key>mean</key>
 			<string>vào, vào trong</string>
 			<key>pronunciation</key>
-			<string>'intu hoặc ’intə</string>
+			<string>&apos;intu hoặc ’intə</string>
 			<key>word</key>
 			<string>into</string>
 		</dict>
@@ -15730,7 +15730,7 @@
 			<key>mean</key>
 			<string>sự giới thiệu, lời giới thiệu</string>
 			<key>pronunciation</key>
-			<string>intrə'dʌkʃən</string>
+			<string>intrə&apos;dʌkʃən</string>
 			<key>word</key>
 			<string>introduction</string>
 		</dict>
@@ -15780,7 +15780,7 @@
 			<key>mean</key>
 			<string>sự điều tra, nghiên cứu</string>
 			<key>pronunciation</key>
-			<string>investi'geiʃən</string>
+			<string>investi&apos;geiʃən</string>
 			<key>word</key>
 			<string>investigation</string>
 		</dict>
@@ -15850,7 +15850,7 @@
 			<key>mean</key>
 			<string>làm phát cáu, chọc tức</string>
 			<key>pronunciation</key>
-			<string>'iriteit</string>
+			<string>&apos;iriteit</string>
 			<key>word</key>
 			<string>irritate</string>
 		</dict>
@@ -15860,7 +15860,7 @@
 			<key>mean</key>
 			<string>làm phát cáu, chọc tức</string>
 			<key>pronunciation</key>
-			<string>'iriteitiη</string>
+			<string>&apos;iriteitiη</string>
 			<key>word</key>
 			<string>irritating</string>
 		</dict>
@@ -15880,7 +15880,7 @@
 			<key>mean</key>
 			<string>hòn đảo</string>
 			<key>pronunciation</key>
-			<string>'ailənd</string>
+			<string>&apos;ailənd</string>
 			<key>word</key>
 			<string>island</string>
 		</dict>
@@ -15930,7 +15930,7 @@
 			<key>mean</key>
 			<string>chính cái đó, chính điều đó, chính con vật đó</string>
 			<key>pronunciation</key>
-			<string>it'self</string>
+			<string>it&apos;self</string>
 			<key>word</key>
 			<string>itself</string>
 		</dict>
@@ -15990,7 +15990,7 @@
 			<key>mean</key>
 			<string>thạch</string>
 			<key>pronunciation</key>
-			<string>'dʒeli</string>
+			<string>&apos;dʒeli</string>
 			<key>word</key>
 			<string>jelly</string>
 		</dict>
@@ -16060,7 +16060,7 @@
 			<key>mean</key>
 			<string>nhà báo</string>
 			<key>pronunciation</key>
-			<string>'dʒə:nəlist</string>
+			<string>&apos;dʒə:nəlist</string>
 			<key>word</key>
 			<string>journalist</string>
 		</dict>
@@ -16120,7 +16120,7 @@
 			<key>mean</key>
 			<string>tháng 7</string>
 			<key>pronunciation</key>
-			<string>dʒu'lai</string>
+			<string>dʒu&apos;lai</string>
 			<key>word</key>
 			<string>july</string>
 		</dict>
@@ -16150,7 +16150,7 @@
 			<key>mean</key>
 			<string>trẻ hơn, ít tuổi hơn, người ít tuổi hơn</string>
 			<key>pronunciation</key>
-			<string>'dʒu:niə</string>
+			<string>&apos;dʒu:niə</string>
 			<key>word</key>
 			<string>ju</string>
 		</dict>
@@ -16180,7 +16180,7 @@
 			<key>mean</key>
 			<string>bào chữa, biện hộ</string>
 			<key>pronunciation</key>
-			<string>'dʒʌsti¸fai</string>
+			<string>&apos;dʒʌsti¸fai</string>
 			<key>word</key>
 			<string>justify</string>
 		</dict>
@@ -16270,7 +16270,7 @@
 			<key>mean</key>
 			<string>sự giết chóc, sự tàn sát</string>
 			<key>pronunciation</key>
-			<string>'kiliη</string>
+			<string>&apos;kiliη</string>
 			<key>word</key>
 			<string>killing</string>
 		</dict>
@@ -16280,7 +16280,7 @@
 			<key>mean</key>
 			<string>Kilôgam</string>
 			<key>pronunciation</key>
-			<string>'kilou¸græm</string>
+			<string>&apos;kilou¸græm</string>
 			<key>word</key>
 			<string>kilogram</string>
 		</dict>
@@ -16290,7 +16290,7 @@
 			<key>mean</key>
 			<string>Kilômet</string>
 			<key>pronunciation</key>
-			<string>'kilə¸mi:tə</string>
+			<string>&apos;kilə¸mi:tə</string>
 			<key>word</key>
 			<string>kilometre</string>
 		</dict>
@@ -16310,7 +16310,7 @@
 			<key>mean</key>
 			<string>tử tế, tốt bụng</string>
 			<key>pronunciation</key>
-			<string>'kaindli</string>
+			<string>&apos;kaindli</string>
 			<key>word</key>
 			<string>kindly</string>
 		</dict>
@@ -16320,7 +16320,7 @@
 			<key>mean</key>
 			<string>độc ác, tàn nhẫn</string>
 			<key>pronunciation</key>
-			<string>ʌn'kaind</string>
+			<string>ʌn&apos;kaind</string>
 			<key>word</key>
 			<string>unkind</string>
 		</dict>
@@ -16360,7 +16360,7 @@
 			<key>mean</key>
 			<string>bếp</string>
 			<key>pronunciation</key>
-			<string>'kitʃin</string>
+			<string>&apos;kitʃin</string>
 			<key>word</key>
 			<string>kitchen</string>
 		</dict>
@@ -16370,7 +16370,7 @@
 			<key>mean</key>
 			<string>Kilômet</string>
 			<key>pronunciation</key>
-			<string>'kilə¸mi:tə</string>
+			<string>&apos;kilə¸mi:tə</string>
 			<key>word</key>
 			<string>kilometre</string>
 		</dict>
@@ -16420,7 +16420,7 @@
 			<key>mean</key>
 			<string>việc đan, hàng dệt kim</string>
 			<key>pronunciation</key>
-			<string>'nitiη</string>
+			<string>&apos;nitiη</string>
 			<key>word</key>
 			<string>knitting</string>
 		</dict>
@@ -16470,7 +16470,7 @@
 			<key>mean</key>
 			<string>nổi tiếng, được nhiều người biết đến</string>
 			<key>pronunciation</key>
-			<string>'wel'noun</string>
+			<string>&apos;wel&apos;noun</string>
 			<key>word</key>
 			<string>well</string>
 		</dict>
@@ -16490,7 +16490,7 @@
 			<key>mean</key>
 			<string>lít</string>
 			<key>pronunciation</key>
-			<string>'li:tə</string>
+			<string>&apos;li:tə</string>
 			<key>word</key>
 			<string>litre</string>
 		</dict>
@@ -16630,7 +16630,7 @@
 			<key>mean</key>
 			<string>phong phú, ở mức độ lớn</string>
 			<key>pronunciation</key>
-			<string>'la:dʒli</string>
+			<string>&apos;la:dʒli</string>
 			<key>word</key>
 			<string>largely</string>
 		</dict>
@@ -16680,7 +16680,7 @@
 			<key>mean</key>
 			<string>sau cùng, gần đây, mới đây</string>
 			<key>pronunciation</key>
-			<string>'lætə</string>
+			<string>&apos;lætə</string>
 			<key>word</key>
 			<string>latter</string>
 		</dict>
@@ -16770,7 +16770,7 @@
 			<key>mean</key>
 			<string>lãnh đạo, dẫn đầu</string>
 			<key>pronunciation</key>
-			<string>'li:diη</string>
+			<string>&apos;li:diη</string>
 			<key>word</key>
 			<string>leading</string>
 		</dict>
@@ -16780,7 +16780,7 @@
 			<key>mean</key>
 			<string>người lãnh đạo, lãnh tụ</string>
 			<key>pronunciation</key>
-			<string>'li:də</string>
+			<string>&apos;li:də</string>
 			<key>word</key>
 			<string>leader</string>
 		</dict>
@@ -16880,7 +16880,7 @@
 			<key>mean</key>
 			<string>chân (người, thú, bà(n))</string>
 			<key>pronunciation</key>
-			<string>'leg</string>
+			<string>&apos;leg</string>
 			<key>word</key>
 			<string>leg</string>
 		</dict>
@@ -16910,7 +16910,7 @@
 			<key>mean</key>
 			<string>quả chanh</string>
 			<key>pronunciation</key>
-			<string>'lemən</string>
+			<string>&apos;lemən</string>
 			<key>word</key>
 			<string>lemon</string>
 		</dict>
@@ -17070,7 +17070,7 @@
 			<key>mean</key>
 			<string>nhẹ nhàng</string>
 			<key>pronunciation</key>
-			<string>'laitli</string>
+			<string>&apos;laitli</string>
 			<key>word</key>
 			<string>lightly</string>
 		</dict>
@@ -17090,7 +17090,7 @@
 			<key>mean</key>
 			<string>khác, không giống</string>
 			<key>pronunciation</key>
-			<string>ʌn'laik</string>
+			<string>ʌn&apos;laik</string>
 			<key>word</key>
 			<string>unlike</string>
 		</dict>
@@ -17100,7 +17100,7 @@
 			<key>mean</key>
 			<string>có thể đúng, có thể xảy ra, có khả năng, có thể, chắc vậy</string>
 			<key>pronunciation</key>
-			<string>'laikli</string>
+			<string>&apos;laikli</string>
 			<key>word</key>
 			<string>likely</string>
 		</dict>
@@ -17210,7 +17210,7 @@
 			<key>mean</key>
 			<string>lít</string>
 			<key>pronunciation</key>
-			<string>'li:tə</string>
+			<string>&apos;li:tə</string>
 			<key>word</key>
 			<string>litre</string>
 		</dict>
@@ -17280,7 +17280,7 @@
 			<key>mean</key>
 			<string>cất gánh nặng, dỡ hàng</string>
 			<key>pronunciation</key>
-			<string>ʌn'loud</string>
+			<string>ʌn&apos;loud</string>
 			<key>word</key>
 			<string>unload</string>
 		</dict>
@@ -17340,7 +17340,7 @@
 			<key>mean</key>
 			<string>vị trí, sự định vị</string>
 			<key>pronunciation</key>
-			<string>louk'eiʃən</string>
+			<string>louk&apos;eiʃən</string>
 			<key>word</key>
 			<string>location</string>
 		</dict>
@@ -17380,7 +17380,7 @@
 			<key>mean</key>
 			<string>cô đơn, bơ vơ</string>
 			<key>pronunciation</key>
-			<string>'lounli</string>
+			<string>&apos;lounli</string>
 			<key>word</key>
 			<string>lonely</string>
 		</dict>
@@ -17420,7 +17420,7 @@
 			<key>mean</key>
 			<string>lỏng lẻo</string>
 			<key>pronunciation</key>
-			<string>'lu:sli</string>
+			<string>&apos;lu:sli</string>
 			<key>word</key>
 			<string>loosely</string>
 		</dict>
@@ -17440,7 +17440,7 @@
 			<key>mean</key>
 			<string>xe tải</string>
 			<key>pronunciation</key>
-			<string>'lɔ:ri</string>
+			<string>&apos;lɔ:ri</string>
 			<key>word</key>
 			<string>lorry</string>
 		</dict>
@@ -17530,7 +17530,7 @@
 			<key>mean</key>
 			<string>người yêu, người tình</string>
 			<key>pronunciation</key>
-			<string>'lʌvə</string>
+			<string>&apos;lʌvə</string>
 			<key>word</key>
 			<string>lover</string>
 		</dict>
@@ -17580,7 +17580,7 @@
 			<key>mean</key>
 			<string>không gặp may, bất hạnh</string>
 			<key>pronunciation</key>
-			<string>ʌn'lʌki</string>
+			<string>ʌn&apos;lʌki</string>
 			<key>word</key>
 			<string>unlucky</string>
 		</dict>
@@ -17700,7 +17700,7 @@
 			<key>mean</key>
 			<string>chính, chủ yếu, phần lớn</string>
 			<key>pronunciation</key>
-			<string>'meinli</string>
+			<string>&apos;meinli</string>
 			<key>word</key>
 			<string>mainly</string>
 		</dict>
@@ -17710,7 +17710,7 @@
 			<key>mean</key>
 			<string>giữ gìn, duy trì, bảo vệ</string>
 			<key>pronunciation</key>
-			<string>mein'tein</string>
+			<string>mein&apos;tein</string>
 			<key>word</key>
 			<string>maintain</string>
 		</dict>
@@ -17750,7 +17750,7 @@
 			<key>mean</key>
 			<string>đồ hóa trang, son phấn</string>
 			<key>pronunciation</key>
-			<string>'meik¸ʌp</string>
+			<string>&apos;meik¸ʌp</string>
 			<key>word</key>
 			<string>make-up</string>
 		</dict>
@@ -17840,7 +17840,7 @@
 			<key>mean</key>
 			<string>sự sản xuất, sự chế tạo</string>
 			<key>pronunciation</key>
-			<string>¸mænju'fæktʃəriη</string>
+			<string>¸mænju&apos;fæktʃəriη</string>
 			<key>word</key>
 			<string>manufacturing</string>
 		</dict>
@@ -17850,7 +17850,7 @@
 			<key>mean</key>
 			<string>người chế tạo, người sản xuất</string>
 			<key>pronunciation</key>
-			<string>¸mæni'fæktʃərə</string>
+			<string>¸mæni&apos;fæktʃərə</string>
 			<key>word</key>
 			<string>manufacturer</string>
 		</dict>
@@ -17950,7 +17950,7 @@
 			<key>mean</key>
 			<string>cưới, kết hôn</string>
 			<key>pronunciation</key>
-			<string>'mærid</string>
+			<string>&apos;mærid</string>
 			<key>word</key>
 			<string>married</string>
 		</dict>
@@ -18000,7 +18000,7 @@
 			<key>mean</key>
 			<string>tính địch thù, thi đấu</string>
 			<key>pronunciation</key>
-			<string>'mætʃiη</string>
+			<string>&apos;mætʃiη</string>
 			<key>word</key>
 			<string>matching</string>
 		</dict>
@@ -18020,7 +18020,7 @@
 			<key>mean</key>
 			<string>nguyên vật liệu, vật chất, hữu hình</string>
 			<key>pronunciation</key>
-			<string>mə'tiəriəl</string>
+			<string>mə&apos;tiəriəl</string>
 			<key>word</key>
 			<string>material</string>
 		</dict>
@@ -18050,7 +18050,7 @@
 			<key>mean</key>
 			<string>cực độ, tối đa, trị số cực đại, lượng cực đại, cực độ</string>
 			<key>pronunciation</key>
-			<string>'mæksiməm</string>
+			<string>&apos;mæksiməm</string>
 			<key>word</key>
 			<string>maximum</string>
 		</dict>
@@ -18080,7 +18080,7 @@
 			<key>mean</key>
 			<string>có thể, có lẽ</string>
 			<key>pronunciation</key>
-			<string>'mei¸bi:</string>
+			<string>&apos;mei¸bi:</string>
 			<key>word</key>
 			<string>maybe</string>
 		</dict>
@@ -18190,7 +18190,7 @@
 			<key>mean</key>
 			<string>phương tiện truyền thông đại chúng</string>
 			<key>pronunciation</key>
-			<string>'mi:diə</string>
+			<string>&apos;mi:diə</string>
 			<key>word</key>
 			<string>media</string>
 		</dict>
@@ -18300,7 +18300,7 @@
 			<key>mean</key>
 			<string>về mặt tinh thần</string>
 			<key>pronunciation</key>
-			<string>'mentəli</string>
+			<string>&apos;mentəli</string>
 			<key>word</key>
 			<string>mentally</string>
 		</dict>
@@ -18390,7 +18390,7 @@
 			<key>mean</key>
 			<string>mét</string>
 			<key>pronunciation</key>
-			<string>'mi:tə</string>
+			<string>&apos;mi:tə</string>
 			<key>word</key>
 			<string>metre</string>
 		</dict>
@@ -18400,7 +18400,7 @@
 			<key>mean</key>
 			<string>trưa, buổi trưa</string>
 			<key>pronunciation</key>
-			<string>'mid'dei</string>
+			<string>&apos;mid&apos;dei</string>
 			<key>word</key>
 			<string>midday</string>
 		</dict>
@@ -18480,7 +18480,7 @@
 			<key>mean</key>
 			<string>mi-li-gam</string>
 			<key>pronunciation</key>
-			<string>'mili¸græm</string>
+			<string>&apos;mili¸græm</string>
 			<key>word</key>
 			<string>milligram</string>
 		</dict>
@@ -18490,7 +18490,7 @@
 			<key>mean</key>
 			<string>mi-li-met</string>
 			<key>pronunciation</key>
-			<string>'mili¸mi:tə</string>
+			<string>&apos;mili¸mi:tə</string>
 			<key>word</key>
 			<string>millimetre</string>
 		</dict>
@@ -18540,7 +18540,7 @@
 			<key>mean</key>
 			<string>bộ trưởng</string>
 			<key>pronunciation</key>
-			<string>'ministə</string>
+			<string>&apos;ministə</string>
 			<key>word</key>
 			<string>minister</string>
 		</dict>
@@ -18550,7 +18550,7 @@
 			<key>mean</key>
 			<string>bộ</string>
 			<key>pronunciation</key>
-			<string>'ministri</string>
+			<string>&apos;ministri</string>
 			<key>word</key>
 			<string>ministry</string>
 		</dict>
@@ -18560,7 +18560,7 @@
 			<key>mean</key>
 			<string>nhỏ hơn, thứ yếu, không quan trọng</string>
 			<key>pronunciation</key>
-			<string>'mainə</string>
+			<string>&apos;mainə</string>
 			<key>word</key>
 			<string>minor</string>
 		</dict>
@@ -18570,7 +18570,7 @@
 			<key>mean</key>
 			<string>phần ít, thiểu số</string>
 			<key>pronunciation</key>
-			<string>mai'nɔriti</string>
+			<string>mai&apos;nɔriti</string>
 			<key>word</key>
 			<string>minority</string>
 		</dict>
@@ -18620,7 +18620,7 @@
 			<key>mean</key>
 			<string>vắng, thiếu, thất lạc</string>
 			<key>pronunciation</key>
-			<string>'misiη</string>
+			<string>&apos;misiη</string>
 			<key>word</key>
 			<string>missing</string>
 		</dict>
@@ -18640,7 +18640,7 @@
 			<key>mean</key>
 			<string>sai lầm, hiểu lầm </string>
 			<key>pronunciation</key>
-			<string>mis'teiken</string>
+			<string>mis&apos;teiken</string>
 			<key>word</key>
 			<string>mistaken</string>
 		</dict>
@@ -18820,7 +18820,7 @@
 			<key>mean</key>
 			<string>hơn nữa, ngoài ra, vả lại</string>
 			<key>pronunciation</key>
-			<string>mɔ:'rouvə</string>
+			<string>mɔ:&apos;rouvə</string>
 			<key>word</key>
 			<string>moreover</string>
 		</dict>
@@ -18850,7 +18850,7 @@
 			<key>mean</key>
 			<string>hầu hết, chủ yếu là</string>
 			<key>pronunciation</key>
-			<string>'moustli</string>
+			<string>&apos;moustli</string>
 			<key>word</key>
 			<string>mostly</string>
 		</dict>
@@ -18870,7 +18870,7 @@
 			<key>mean</key>
 			<string>sự chuyển động, sụ di động</string>
 			<key>pronunciation</key>
-			<string>'mouʃən</string>
+			<string>&apos;mouʃən</string>
 			<key>word</key>
 			<string>motion</string>
 		</dict>
@@ -18880,7 +18880,7 @@
 			<key>mean</key>
 			<string>động cơ mô tô</string>
 			<key>pronunciation</key>
-			<string>'moutə</string>
+			<string>&apos;moutə</string>
 			<key>word</key>
 			<string>motor</string>
 		</dict>
@@ -18970,7 +18970,7 @@
 			<key>mean</key>
 			<string>phim xi nê, movie theater: rạp chiếu phim</string>
 			<key>pronunciation</key>
-			<string>'mu:vi</string>
+			<string>&apos;mu:vi</string>
 			<key>word</key>
 			<string>movie</string>
 		</dict>
@@ -19070,7 +19070,7 @@
 			<key>mean</key>
 			<string>bảo tàng</string>
 			<key>pronunciation</key>
-			<string>mju:'ziəm</string>
+			<string>mju:&apos;ziəm</string>
 			<key>word</key>
 			<string>museum</string>
 		</dict>
@@ -19270,7 +19270,7 @@
 			<key>mean</key>
 			<string>gần</string>
 			<key>pronunciation</key>
-			<string>'niə¸bai</string>
+			<string>&apos;niə¸bai</string>
 			<key>word</key>
 			<string>nearby</string>
 		</dict>
@@ -19280,7 +19280,7 @@
 			<key>mean</key>
 			<string>gần, sắp, suýt</string>
 			<key>pronunciation</key>
-			<string>'niəli</string>
+			<string>&apos;niəli</string>
 			<key>word</key>
 			<string>nearly</string>
 		</dict>
@@ -19320,7 +19320,7 @@
 			<key>mean</key>
 			<string>tất yếu, nhất thiết</string>
 			<key>pronunciation</key>
-			<string>'nesisərili</string>
+			<string>&apos;nesisərili</string>
 			<key>word</key>
 			<string>necessarily</string>
 		</dict>
@@ -19360,7 +19360,7 @@
 			<key>mean</key>
 			<string>cái kim, mũi nhọn</string>
 			<key>pronunciation</key>
-			<string>'ni:dl</string>
+			<string>&apos;ni:dl</string>
 			<key>word</key>
 			<string>needle</string>
 		</dict>
@@ -19370,7 +19370,7 @@
 			<key>mean</key>
 			<string>phủ định</string>
 			<key>pronunciation</key>
-			<string>'negətiv</string>
+			<string>&apos;negətiv</string>
 			<key>word</key>
 			<string>negative</string>
 		</dict>
@@ -19390,7 +19390,7 @@
 			<key>mean</key>
 			<string>hàng xóm, làng giềng</string>
 			<key>pronunciation</key>
-			<string>'neibəhud</string>
+			<string>&apos;neibəhud</string>
 			<key>word</key>
 			<string>neighbourhood</string>
 		</dict>
@@ -19410,7 +19410,7 @@
 			<key>mean</key>
 			<string>cháu trai (con anh, chị, em)</string>
 			<key>pronunciation</key>
-			<string>'nevju:</string>
+			<string>&apos;nevju:</string>
 			<key>word</key>
 			<string>nephew</string>
 		</dict>
@@ -19510,7 +19510,7 @@
 			<key>mean</key>
 			<string>mới</string>
 			<key>pronunciation</key>
-			<string>'nju:li</string>
+			<string>&apos;nju:li</string>
 			<key>word</key>
 			<string>newly</string>
 		</dict>
@@ -19560,7 +19560,7 @@
 			<key>mean</key>
 			<string>thú vị, dễ chịu</string>
 			<key>pronunciation</key>
-			<string>'naisli</string>
+			<string>&apos;naisli</string>
 			<key>word</key>
 			<string>nicely</string>
 		</dict>
@@ -19620,7 +19620,7 @@
 			<key>mean</key>
 			<string>ồn ào, huyên náo</string>
 			<key>pronunciation</key>
-			<string>'nɔizi</string>
+			<string>&apos;nɔizi</string>
 			<key>word</key>
 			<string>noisy</string>
 		</dict>
@@ -19630,7 +19630,7 @@
 			<key>mean</key>
 			<string>ồn ào, huyên náo non- prefix</string>
 			<key>pronunciation</key>
-			<string>'nɔizili</string>
+			<string>&apos;nɔizili</string>
 			<key>word</key>
 			<string>noisily</string>
 		</dict>
@@ -19650,7 +19650,7 @@
 			<key>mean</key>
 			<string>lời nói vô lý, vô nghĩa</string>
 			<key>pronunciation</key>
-			<string>'nɔnsəns</string>
+			<string>&apos;nɔnsəns</string>
 			<key>word</key>
 			<string>nonsense</string>
 		</dict>
@@ -19780,7 +19780,7 @@
 			<key>mean</key>
 			<string>tháng 11</string>
 			<key>pronunciation</key>
-			<string>nou'vembə</string>
+			<string>nou&apos;vembə</string>
 			<key>word</key>
 			<string>november</string>
 		</dict>
@@ -19800,7 +19800,7 @@
 			<key>mean</key>
 			<string>không nơi nào, không ở đâu</string>
 			<key>pronunciation</key>
-			<string>'nou¸wɛə</string>
+			<string>&apos;nou¸wɛə</string>
 			<key>word</key>
 			<string>nowhere</string>
 		</dict>
@@ -19820,7 +19820,7 @@
 			<key>mean</key>
 			<string>số</string>
 			<key>pronunciation</key>
-			<string>'nʌmbə</string>
+			<string>&apos;nʌmbə</string>
 			<key>word</key>
 			<string>number</string>
 		</dict>
@@ -19870,7 +19870,7 @@
 			<key>mean</key>
 			<string>mục tiêu, mục đích, (thuộcmục tiêu, khách quan</string>
 			<key>pronunciation</key>
-			<string>əb'dʒektiv</string>
+			<string>əb&apos;dʒektiv</string>
 			<key>word</key>
 			<string>objective</string>
 		</dict>
@@ -19990,7 +19990,7 @@
 			<key>mean</key>
 			<string>tháng 10</string>
 			<key>pronunciation</key>
-			<string>ɔk'toubə</string>
+			<string>ɔk&apos;toubə</string>
 			<key>word</key>
 			<string>october</string>
 		</dict>
@@ -20010,7 +20010,7 @@
 			<key>mean</key>
 			<string>kỳ quặc, kỳ cục, lẻ (số)</string>
 			<key>pronunciation</key>
-			<string>'ɔdli</string>
+			<string>&apos;ɔdli</string>
 			<key>word</key>
 			<string>oddly</string>
 		</dict>
@@ -20050,7 +20050,7 @@
 			<key>mean</key>
 			<string>xúc phạm, làm bực mình, làm khó chịu</string>
 			<key>pronunciation</key>
-			<string>ə'fend</string>
+			<string>ə&apos;fend</string>
 			<key>word</key>
 			<string>offend</string>
 		</dict>
@@ -20060,7 +20060,7 @@
 			<key>mean</key>
 			<string>sự tấn công, cuộc tấn công</string>
 			<key>pronunciation</key>
-			<string>ə'fensiv</string>
+			<string>ə&apos;fensiv</string>
 			<key>word</key>
 			<string>offensive</string>
 		</dict>
@@ -20070,7 +20070,7 @@
 			<key>mean</key>
 			<string>biếu, tặng, cho, sự trả giá</string>
 			<key>pronunciation</key>
-			<string>'ɔfə</string>
+			<string>&apos;ɔfə</string>
 			<key>word</key>
 			<string>offer</string>
 		</dict>
@@ -20090,7 +20090,7 @@
 			<key>mean</key>
 			<string>viên chức, cảnh sát, sĩ quan</string>
 			<key>pronunciation</key>
-			<string>'ɔfisə</string>
+			<string>&apos;ɔfisə</string>
 			<key>word</key>
 			<string>officer</string>
 		</dict>
@@ -20220,7 +20220,7 @@
 			<key>mean</key>
 			<string>về phía trên, lên trên</string>
 			<key>pronunciation</key>
-			<string>'ɔntu</string>
+			<string>&apos;ɔntu</string>
 			<key>word</key>
 			<string>onto</string>
 		</dict>
@@ -20240,7 +20240,7 @@
 			<key>mean</key>
 			<string>công khai, thẳng thắn</string>
 			<key>pronunciation</key>
-			<string>'oupənli</string>
+			<string>&apos;oupənli</string>
 			<key>word</key>
 			<string>openly</string>
 		</dict>
@@ -20250,7 +20250,7 @@
 			<key>mean</key>
 			<string>khe hở, lỗ, sự bắt đầu, sự khai mạc, lễ khánh thành</string>
 			<key>pronunciation</key>
-			<string>'oupniη</string>
+			<string>&apos;oupniη</string>
 			<key>word</key>
 			<string>opening</string>
 		</dict>
@@ -20330,7 +20330,7 @@
 			<key>mean</key>
 			<string>chống lại, phản đối</string>
 			<key>pronunciation</key>
-			<string>ə'pouzd</string>
+			<string>ə&apos;pouzd</string>
 			<key>word</key>
 			<string>opposed</string>
 		</dict>
@@ -20350,7 +20350,7 @@
 			<key>mean</key>
 			<string>sự đối lập, sự đối nhau, sự chống lại, sự phản đối, phe đối lập</string>
 			<key>pronunciation</key>
-			<string>¸ɔpə'ziʃən</string>
+			<string>¸ɔpə&apos;ziʃən</string>
 			<key>word</key>
 			<string>opposition</string>
 		</dict>
@@ -20420,7 +20420,7 @@
 			<key>mean</key>
 			<string>tổ chức, thiết lập</string>
 			<key>pronunciation</key>
-			<string>'ɔ:gə¸naiz</string>
+			<string>&apos;ɔ:gə¸naiz</string>
 			<key>word</key>
 			<string>organize</string>
 		</dict>
@@ -20480,7 +20480,7 @@
 			<key>mean</key>
 			<string>khác, cách khác, nếu không thì, mặt khác</string>
 			<key>pronunciation</key>
-			<string>'ʌðə¸waiz</string>
+			<string>&apos;ʌðə¸waiz</string>
 			<key>word</key>
 			<string>otherwise</string>
 		</dict>
@@ -20520,7 +20520,7 @@
 			<key>mean</key>
 			<string>bản thân chúng ta, bản thân chúng tôi, bản thân chúng mình, tự chúng mình</string>
 			<key>pronunciation</key>
-			<string>'awə'selvz</string>
+			<string>&apos;awə&apos;selvz</string>
 			<key>word</key>
 			<string>ourselves</string>
 		</dict>
@@ -20540,7 +20540,7 @@
 			<key>mean</key>
 			<string>ở ngoài trời, ở ngoài nhà</string>
 			<key>pronunciation</key>
-			<string>¸aut'dɔ:z</string>
+			<string>¸aut&apos;dɔ:z</string>
 			<key>word</key>
 			<string>outdoors</string>
 		</dict>
@@ -20570,7 +20570,7 @@
 			<key>mean</key>
 			<string>vẽ, phác tảo, đường nét, hình dáng, nét ngoài</string>
 			<key>pronunciation</key>
-			<string>'aut¸lain</string>
+			<string>&apos;aut¸lain</string>
 			<key>word</key>
 			<string>outline</string>
 		</dict>
@@ -20600,7 +20600,7 @@
 			<key>mean</key>
 			<string>nổi bật, đáng chú ý, còn tồn lại</string>
 			<key>pronunciation</key>
-			<string>¸aut'stændiη</string>
+			<string>¸aut&apos;stændiη</string>
 			<key>word</key>
 			<string>outstanding</string>
 		</dict>
@@ -20670,7 +20670,7 @@
 			<key>mean</key>
 			<string>người chủ, chủ nhân</string>
 			<key>pronunciation</key>
-			<string>'ounə</string>
+			<string>&apos;ounə</string>
 			<key>word</key>
 			<string>owner</string>
 		</dict>
@@ -20710,7 +20710,7 @@
 			<key>mean</key>
 			<string>bao bì</string>
 			<key>pronunciation</key>
-			<string>"pækidzŋ</string>
+			<string>&quot;pækidzŋ</string>
 			<key>word</key>
 			<string>packaging</string>
 		</dict>
@@ -20850,7 +20850,7 @@
 			<key>mean</key>
 			<string>giấy</string>
 			<key>pronunciation</key>
-			<string>'peipə</string>
+			<string>&apos;peipə</string>
 			<key>word</key>
 			<string>paper</string>
 		</dict>
@@ -20910,7 +20910,7 @@
 			<key>mean</key>
 			<string>riêng biệt, cá biệt</string>
 			<key>pronunciation</key>
-			<string>pə'tikjulə</string>
+			<string>pə&apos;tikjulə</string>
 			<key>word</key>
 			<string>particular</string>
 		</dict>
@@ -20920,7 +20920,7 @@
 			<key>mean</key>
 			<string>một cách đặc biệt, cá biệt, riêng biệt</string>
 			<key>pronunciation</key>
-			<string>pə'tikjuləli</string>
+			<string>pə&apos;tikjuləli</string>
 			<key>word</key>
 			<string>particularly</string>
 		</dict>
@@ -20930,7 +20930,7 @@
 			<key>mean</key>
 			<string>đến chừng mực nào đó, phần nào đó</string>
 			<key>pronunciation</key>
-			<string>'pa:tli</string>
+			<string>&apos;pa:tli</string>
 			<key>word</key>
 			<string>partly</string>
 		</dict>
@@ -20950,7 +20950,7 @@
 			<key>mean</key>
 			<string>sự chung phần, sự cộng tác</string>
 			<key>pronunciation</key>
-			<string>'pa:tnəʃip</string>
+			<string>&apos;pa:tnəʃip</string>
 			<key>word</key>
 			<string>partnership</string>
 		</dict>
@@ -20970,7 +20970,7 @@
 			<key>mean</key>
 			<string>qua, vượt qua, ngang qua</string>
 			<key>pronunciation</key>
-			<string>'pa:s</string>
+			<string>&apos;pa:s</string>
 			<key>word</key>
 			<string>pass</string>
 		</dict>
@@ -20980,7 +20980,7 @@
 			<key>mean</key>
 			<string>sự đi qua, sự trôi qua, thoáng qua, ngắn ngủi</string>
 			<key>pronunciation</key>
-			<string>'pa:siη</string>
+			<string>&apos;pa:siη</string>
 			<key>word</key>
 			<string>passing</string>
 		</dict>
@@ -21010,7 +21010,7 @@
 			<key>mean</key>
 			<string>hộ chiếu</string>
 			<key>pronunciation</key>
-			<string>'pa:spɔ:t</string>
+			<string>&apos;pa:spɔ:t</string>
 			<key>word</key>
 			<string>passport</string>
 		</dict>
@@ -21040,7 +21040,7 @@
 			<key>mean</key>
 			<string>tính kiên nhẫn, nhẫn nại, kiên trì, sự c hịu đựng</string>
 			<key>pronunciation</key>
-			<string>'peiʃəns</string>
+			<string>&apos;peiʃəns</string>
 			<key>word</key>
 			<string>patience</string>
 		</dict>
@@ -21146,11 +21146,11 @@
 		</dict>
 		<dict>
 			<key>category</key>
-			<string>'n</string>
+			<string>&apos;n</string>
 			<key>mean</key>
 			<string>đồng xu</string>
 			<key>pronunciation</key>
-			<string>'peni</string>
+			<string>&apos;peni</string>
 			<key>word</key>
 			<string>penny</string>
 		</dict>
@@ -21160,7 +21160,7 @@
 			<key>mean</key>
 			<string>bút chì</string>
 			<key>pronunciation</key>
-			<string>'pensil</string>
+			<string>&apos;pensil</string>
 			<key>word</key>
 			<string>pencil</string>
 		</dict>
@@ -21170,7 +21170,7 @@
 			<key>mean</key>
 			<string>số tiền</string>
 			<key>pronunciation</key>
-			<string>'peni</string>
+			<string>&apos;peni</string>
 			<key>word</key>
 			<string>penny</string>
 		</dict>
@@ -21200,7 +21200,7 @@
 			<key>mean</key>
 			<string>hạt tiêu, cây ớt</string>
 			<key>pronunciation</key>
-			<string>'pepə</string>
+			<string>&apos;pepə</string>
 			<key>word</key>
 			<string>pepper</string>
 		</dict>
@@ -21220,7 +21220,7 @@
 			<key>mean</key>
 			<string> phần trăm</string>
 			<key>pronunciation</key>
-			<string>pə'sent</string>
+			<string>pə&apos;sent</string>
 			<key>word</key>
 			<string>percent</string>
 		</dict>
@@ -21240,7 +21240,7 @@
 			<key>mean</key>
 			<string>một cách hoàn hảo</string>
 			<key>pronunciation</key>
-			<string>'pə:fiktli</string>
+			<string>&apos;pə:fiktli</string>
 			<key>word</key>
 			<string>perfectly</string>
 		</dict>
@@ -21250,7 +21250,7 @@
 			<key>mean</key>
 			<string>biểu diễn, làm, thực hiện, sự thực hiện, sự thi hành, sự biểu diễn</string>
 			<key>pronunciation</key>
-			<string>pə'fɔ:m</string>
+			<string>pə&apos;fɔ:m</string>
 			<key>word</key>
 			<string>perform</string>
 		</dict>
@@ -21260,7 +21260,7 @@
 			<key>mean</key>
 			<string>người biểu diễn, người trình diễn</string>
 			<key>pronunciation</key>
-			<string>pə'fɔ:mə</string>
+			<string>pə&apos;fɔ:mə</string>
 			<key>word</key>
 			<string>performer</string>
 		</dict>
@@ -21350,7 +21350,7 @@
 			<key>mean</key>
 			<string>đích thân, bản thân, về phần rôi, đối với tôi</string>
 			<key>pronunciation</key>
-			<string>'pə:sənəli</string>
+			<string>&apos;pə:sənəli</string>
 			<key>word</key>
 			<string>personally</string>
 		</dict>
@@ -21420,7 +21420,7 @@
 			<key>mean</key>
 			<string>bản sao chụp, sao chụp</string>
 			<key>pronunciation</key>
-			<string>'foutə¸kɔpi</string>
+			<string>&apos;foutə¸kɔpi</string>
 			<key>word</key>
 			<string>photocopy</string>
 		</dict>
@@ -21430,7 +21430,7 @@
 			<key>mean</key>
 			<string>ảnh, bức ảnh, chụp ảnh</string>
 			<key>pronunciation</key>
-			<string>'foutə¸gra:f</string>
+			<string>&apos;foutə¸gra:f</string>
 			<key>word</key>
 			<string>photograph</string>
 		</dict>
@@ -21440,7 +21440,7 @@
 			<key>mean</key>
 			<string>thợ chụp ảnh, nhà nhiếp ảnh</string>
 			<key>pronunciation</key>
-			<string>fə'tɔgrəfə</string>
+			<string>fə&apos;tɔgrəfə</string>
 			<key>word</key>
 			<string>photographer</string>
 		</dict>
@@ -21450,7 +21450,7 @@
 			<key>mean</key>
 			<string>thuật chụp ảnh, nghề nhiếp ảnh</string>
 			<key>pronunciation</key>
-			<string>fə'tɔgrəfi</string>
+			<string>fə&apos;tɔgrəfi</string>
 			<key>word</key>
 			<string>photography</string>
 		</dict>
@@ -21470,7 +21470,7 @@
 			<key>mean</key>
 			<string>vật chất, (thuộccơ thể, thân thể</string>
 			<key>pronunciation</key>
-			<string>'fizikl</string>
+			<string>&apos;fizikl</string>
 			<key>word</key>
 			<string>physical</string>
 		</dict>
@@ -21480,7 +21480,7 @@
 			<key>mean</key>
 			<string>về thân thể, theo luật tự nhiên</string>
 			<key>pronunciation</key>
-			<string>'fizikli</string>
+			<string>&apos;fizikli</string>
 			<key>word</key>
 			<string>physically</string>
 		</dict>
@@ -21560,7 +21560,7 @@
 			<key>mean</key>
 			<string>viên thuốc </string>
 			<key>pronunciation</key>
-			<string>'pil</string>
+			<string>&apos;pil</string>
 			<key>word</key>
 			<string>pill</string>
 		</dict>
@@ -21570,7 +21570,7 @@
 			<key>mean</key>
 			<string>phi công</string>
 			<key>pronunciation</key>
-			<string>'paiələt</string>
+			<string>&apos;paiələt</string>
 			<key>word</key>
 			<string>pilot</string>
 		</dict>
@@ -21630,7 +21630,7 @@
 			<key>mean</key>
 			<string>lòng thương hại, điều đáng tiếc, đáng thương</string>
 			<key>pronunciation</key>
-			<string>'piti</string>
+			<string>&apos;piti</string>
 			<key>word</key>
 			<string>pity</string>
 		</dict>
@@ -21690,7 +21690,7 @@
 			<key>mean</key>
 			<string>hành tinh</string>
 			<key>pronunciation</key>
-			<string>'plænit</string>
+			<string>&apos;plænit</string>
 			<key>word</key>
 			<string>planet</string>
 		</dict>
@@ -21800,7 +21800,7 @@
 			<key>mean</key>
 			<string>mang lại niềm vui thích, dễ chịu</string>
 			<key>pronunciation</key>
-			<string>'pli:siη</string>
+			<string>&apos;pli:siη</string>
 			<key>word</key>
 			<string>pleasing</string>
 		</dict>
@@ -21920,7 +21920,7 @@
 			<key>mean</key>
 			<string>nhọn, có đầu nhọn</string>
 			<key>pronunciation</key>
-			<string>'pɔintid</string>
+			<string>&apos;pɔintid</string>
 			<key>word</key>
 			<string>pointed</string>
 		</dict>
@@ -22030,7 +22030,7 @@
 			<key>mean</key>
 			<string>nhà chính trị, chính khách</string>
 			<key>pronunciation</key>
-			<string>¸pɔli'tiʃən</string>
+			<string>¸pɔli&apos;tiʃən</string>
 			<key>word</key>
 			<string>politician</string>
 		</dict>
@@ -22090,7 +22090,7 @@
 			<key>mean</key>
 			<string>có tính đại chúng, (thuộcnhân dân, được nhiều người ưa chuộng</string>
 			<key>pronunciation</key>
-			<string>'pɔpjulə</string>
+			<string>&apos;pɔpjulə</string>
 			<key>word</key>
 			<string>popular</string>
 		</dict>
@@ -22170,7 +22170,7 @@
 			<key>mean</key>
 			<string>khă năng, triển vọng</string>
 			<key>pronunciation</key>
-			<string>¸pɔsi'biliti</string>
+			<string>¸pɔsi&apos;biliti</string>
 			<key>word</key>
 			<string>possibility</string>
 		</dict>
@@ -22190,7 +22190,7 @@
 			<key>mean</key>
 			<string>có lẽ, có thể, có thể chấp nhận được</string>
 			<key>pronunciation</key>
-			<string>'pɔsibli</string>
+			<string>&apos;pɔsibli</string>
 			<key>word</key>
 			<string>possibly</string>
 		</dict>
@@ -22300,7 +22300,7 @@
 			<key>mean</key>
 			<string>hùng mạnh, hùng cường</string>
 			<key>pronunciation</key>
-			<string>'pauəful</string>
+			<string>&apos;pauəful</string>
 			<key>word</key>
 			<string>powerful</string>
 		</dict>
@@ -22320,7 +22320,7 @@
 			<key>mean</key>
 			<string>về mặt thực hành, thực tế</string>
 			<key>pronunciation</key>
-			<string>'præktikəli</string>
+			<string>&apos;præktikəli</string>
 			<key>word</key>
 			<string>practically</string>
 		</dict>
@@ -22330,7 +22330,7 @@
 			<key>mean</key>
 			<string>thực hành, thực tiễn</string>
 			<key>pronunciation</key>
-			<string>'præktis</string>
+			<string>&apos;præktis</string>
 			<key>word</key>
 			<string>practice</string>
 		</dict>
@@ -22340,7 +22340,7 @@
 			<key>mean</key>
 			<string>thực hành, tập luyện</string>
 			<key>pronunciation</key>
-			<string>'præktis</string>
+			<string>&apos;præktis</string>
 			<key>word</key>
 			<string>practise</string>
 		</dict>
@@ -22370,7 +22370,7 @@
 			<key>mean</key>
 			<string>rõ ràng, chính xác, tỉ mỉ, kỹ tính</string>
 			<key>pronunciation</key>
-			<string>pri'sais</string>
+			<string>pri&apos;sais</string>
 			<key>word</key>
 			<string>precise</string>
 		</dict>
@@ -22380,7 +22380,7 @@
 			<key>mean</key>
 			<string>đúng, chính xác, cần thận</string>
 			<key>pronunciation</key>
-			<string>pri'saisli</string>
+			<string>pri&apos;saisli</string>
 			<key>word</key>
 			<string>precisely</string>
 		</dict>
@@ -22440,7 +22440,7 @@
 			<key>mean</key>
 			<string>sự sửa soạn, sự chuẩn bị</string>
 			<key>pronunciation</key>
-			<string>¸prepə'reiʃən</string>
+			<string>¸prepə&apos;reiʃən</string>
 			<key>word</key>
 			<string>preparation</string>
 		</dict>
@@ -22450,7 +22450,7 @@
 			<key>mean</key>
 			<string>sửa soạn, chuẩn bị</string>
 			<key>pronunciation</key>
-			<string>pri'peə</string>
+			<string>pri&apos;peə</string>
 			<key>word</key>
 			<string>prepare</string>
 		</dict>
@@ -22510,7 +22510,7 @@
 			<key>mean</key>
 			<string>hiệu trưởng, chủ tịnh, tổng thống</string>
 			<key>pronunciation</key>
-			<string>'prezidənt</string>
+			<string>&apos;prezidənt</string>
 			<key>word</key>
 			<string>president</string>
 		</dict>
@@ -22590,7 +22590,7 @@
 			<key>mean</key>
 			<string>trước, trước đây</string>
 			<key>pronunciation</key>
-			<string>'pri:viəsli</string>
+			<string>&apos;pri:viəsli</string>
 			<key>word</key>
 			<string>previously</string>
 		</dict>
@@ -22640,7 +22640,7 @@
 			<key>mean</key>
 			<string>trước hết, đầu tiên</string>
 			<key>pronunciation</key>
-			<string>'praimərili</string>
+			<string>&apos;praimərili</string>
 			<key>word</key>
 			<string>primarily</string>
 		</dict>
@@ -22650,7 +22650,7 @@
 			<key>mean</key>
 			<string>thủ tướng</string>
 			<key>pronunciation</key>
-			<string>'ministə</string>
+			<string>&apos;ministə</string>
 			<key>word</key>
 			<string>prime</string>
 		</dict>
@@ -22700,7 +22700,7 @@
 			<key>mean</key>
 			<string>sự in, thuật in, kỹ sảo in</string>
 			<key>pronunciation</key>
-			<string>'printiη</string>
+			<string>&apos;printiη</string>
 			<key>word</key>
 			<string>printing</string>
 		</dict>
@@ -22710,7 +22710,7 @@
 			<key>mean</key>
 			<string>máy in, thợ in</string>
 			<key>pronunciation</key>
-			<string>'printə</string>
+			<string>&apos;printə</string>
 			<key>word</key>
 			<string>printer</string>
 		</dict>
@@ -22730,7 +22730,7 @@
 			<key>mean</key>
 			<string>sự ưu tế, quyền ưu tiên</string>
 			<key>pronunciation</key>
-			<string>prai'ɔriti</string>
+			<string>prai&apos;ɔriti</string>
 			<key>word</key>
 			<string>priority</string>
 		</dict>
@@ -22790,7 +22790,7 @@
 			<key>mean</key>
 			<string>có thể, có khả năng</string>
 			<key>pronunciation</key>
-			<string>'prɔbəbl</string>
+			<string>&apos;prɔbəbl</string>
 			<key>word</key>
 			<string>probable</string>
 		</dict>
@@ -22800,7 +22800,7 @@
 			<key>mean</key>
 			<string>hầu như chắc chắn</string>
 			<key>pronunciation</key>
-			<string>'prɔbəbli</string>
+			<string>&apos;prɔbəbli</string>
 			<key>word</key>
 			<string>probably</string>
 		</dict>
@@ -22820,7 +22820,7 @@
 			<key>mean</key>
 			<string>thủ tục</string>
 			<key>pronunciation</key>
-			<string>prə'si:dʒə</string>
+			<string>prə&apos;si:dʒə</string>
 			<key>word</key>
 			<string>procedure</string>
 		</dict>
@@ -22860,7 +22860,7 @@
 			<key>mean</key>
 			<string>nhà sản xuất</string>
 			<key>pronunciation</key>
-			<string>prə'dju:sə</string>
+			<string>prə&apos;dju:sə</string>
 			<key>word</key>
 			<string>producer</string>
 		</dict>
@@ -22870,7 +22870,7 @@
 			<key>mean</key>
 			<string>sản phẩm</string>
 			<key>pronunciation</key>
-			<string>'prɔdʌkt</string>
+			<string>&apos;prɔdʌkt</string>
 			<key>word</key>
 			<string>product</string>
 		</dict>
@@ -22880,7 +22880,7 @@
 			<key>mean</key>
 			<string>sự sản xuất, chế tạo</string>
 			<key>pronunciation</key>
-			<string>prə'dʌkʃən</string>
+			<string>prə&apos;dʌkʃən</string>
 			<key>word</key>
 			<string>production</string>
 		</dict>
@@ -22890,7 +22890,7 @@
 			<key>mean</key>
 			<string>nghề, nghề nghiệp</string>
 			<key>pronunciation</key>
-			<string>prə'feʃ(ə)n</string>
+			<string>prə&apos;feʃ(ə)n</string>
 			<key>word</key>
 			<string>profession</string>
 		</dict>
@@ -22930,7 +22930,7 @@
 			<key>mean</key>
 			<string>chương trình, lên chương trình</string>
 			<key>pronunciation</key>
-			<string>'prougræm</string>
+			<string>&apos;prougræm</string>
 			<key>word</key>
 			<string>program</string>
 		</dict>
@@ -22940,7 +22940,7 @@
 			<key>mean</key>
 			<string>chương trình</string>
 			<key>pronunciation</key>
-			<string>'prougræm</string>
+			<string>&apos;prougræm</string>
 			<key>word</key>
 			<string>programme</string>
 		</dict>
@@ -23010,7 +23010,7 @@
 			<key>mean</key>
 			<string>mau lẹ, ngay lập tức</string>
 			<key>pronunciation</key>
-			<string>'prɔmptli</string>
+			<string>&apos;prɔmptli</string>
 			<key>word</key>
 			<string>promptly</string>
 		</dict>
@@ -23030,7 +23030,7 @@
 			<key>mean</key>
 			<string>sự phát âm</string>
 			<key>pronunciation</key>
-			<string>prə¸nʌnsi'eiʃən</string>
+			<string>prə¸nʌnsi&apos;eiʃən</string>
 			<key>word</key>
 			<string>pronunciation</string>
 		</dict>
@@ -23060,7 +23060,7 @@
 			<key>mean</key>
 			<string>một cách đúng đắn, một cách thích đáng</string>
 			<key>pronunciation</key>
-			<string>'prɔpəli</string>
+			<string>&apos;prɔpəli</string>
 			<key>word</key>
 			<string>properly</string>
 		</dict>
@@ -23110,7 +23110,7 @@
 			<key>mean</key>
 			<string>viễn cảnh, toàn cảnh, triển vọng, mong chờ</string>
 			<key>pronunciation</key>
-			<string>'prɔspekt</string>
+			<string>&apos;prɔspekt</string>
 			<key>word</key>
 			<string>prospect</string>
 		</dict>
@@ -23190,7 +23190,7 @@
 			<key>mean</key>
 			<string>với điều kiện là, miễn là</string>
 			<key>pronunciation</key>
-			<string>prə'vaidid</string>
+			<string>prə&apos;vaidid</string>
 			<key>word</key>
 			<string>provided</string>
 		</dict>
@@ -23270,7 +23270,7 @@
 			<key>mean</key>
 			<string>công việc, nghề xuất bản</string>
 			<key>pronunciation</key>
-			<string>'pʌbliʃiη</string>
+			<string>&apos;pʌbliʃiη</string>
 			<key>word</key>
 			<string>publishing</string>
 		</dict>
@@ -23350,7 +23350,7 @@
 			<key>mean</key>
 			<string>hoàn toàn, chỉ là</string>
 			<key>pronunciation</key>
-			<string>'pjuəli</string>
+			<string>&apos;pjuəli</string>
 			<key>word</key>
 			<string>purely</string>
 		</dict>
@@ -23420,7 +23420,7 @@
 			<key>mean</key>
 			<string>đủ khả năng, đủ tư cách, điều kiện</string>
 			<key>pronunciation</key>
-			<string>’'kwɔli¸fai</string>
+			<string>’&apos;kwɔli¸fai</string>
 			<key>word</key>
 			<string>qualify</string>
 		</dict>
@@ -23500,7 +23500,7 @@
 			<key>mean</key>
 			<string>nhanh</string>
 			<key>pronunciation</key>
-			<string>'kwikli</string>
+			<string>&apos;kwikli</string>
 			<key>word</key>
 			<string>quickly</string>
 		</dict>
@@ -23570,7 +23570,7 @@
 			<key>mean</key>
 			<string>cuộc đua</string>
 			<key>pronunciation</key>
-			<string>'reisiη</string>
+			<string>&apos;reisiη</string>
 			<key>word</key>
 			<string>racing</string>
 		</dict>
@@ -23580,7 +23580,7 @@
 			<key>mean</key>
 			<string>sóng vô tuyến, radio</string>
 			<key>pronunciation</key>
-			<string>'reidiou</string>
+			<string>&apos;reidiou</string>
 			<key>word</key>
 			<string>radio</string>
 		</dict>
@@ -23730,7 +23730,7 @@
 			<key>mean</key>
 			<string>tác động trở lại, phản ứng</string>
 			<key>pronunciation</key>
-			<string>ri'ækt</string>
+			<string>ri&apos;ækt</string>
 			<key>word</key>
 			<string>react</string>
 		</dict>
@@ -23760,7 +23760,7 @@
 			<key>mean</key>
 			<string>sự đọc</string>
 			<key>pronunciation</key>
-			<string>'ri:diη</string>
+			<string>&apos;ri:diη</string>
 			<key>word</key>
 			<string>reading</string>
 		</dict>
@@ -23770,7 +23770,7 @@
 			<key>mean</key>
 			<string>người đọc, độc giả</string>
 			<key>pronunciation</key>
-			<string>'ri:də</string>
+			<string>&apos;ri:də</string>
 			<key>word</key>
 			<string>reader</string>
 		</dict>
@@ -23860,7 +23860,7 @@
 			<key>mean</key>
 			<string>có lý, hợp lý</string>
 			<key>pronunciation</key>
-			<string>'ri:zənəbl</string>
+			<string>&apos;ri:zənəbl</string>
 			<key>word</key>
 			<string>reasonable</string>
 		</dict>
@@ -23870,7 +23870,7 @@
 			<key>mean</key>
 			<string>hợp lý</string>
 			<key>pronunciation</key>
-			<string>'ri:zənəblli</string>
+			<string>&apos;ri:zənəblli</string>
 			<key>word</key>
 			<string>reasonably</string>
 		</dict>
@@ -23890,7 +23890,7 @@
 			<key>mean</key>
 			<string>gọi về, triệu hồi, nhặc lại, gợi lại</string>
 			<key>pronunciation</key>
-			<string>ri'kɔ:l</string>
+			<string>ri&apos;kɔ:l</string>
 			<key>word</key>
 			<string>recall</string>
 		</dict>
@@ -23900,7 +23900,7 @@
 			<key>mean</key>
 			<string>công thức, đơn thuốc</string>
 			<key>pronunciation</key>
-			<string>ri'si:t</string>
+			<string>ri&apos;si:t</string>
 			<key>word</key>
 			<string>receipt</string>
 		</dict>
@@ -23920,7 +23920,7 @@
 			<key>mean</key>
 			<string>gần đây, mới đây</string>
 			<key>pronunciation</key>
-			<string>'ri:sənt</string>
+			<string>&apos;ri:sənt</string>
 			<key>word</key>
 			<string>recent</string>
 		</dict>
@@ -23930,7 +23930,7 @@
 			<key>mean</key>
 			<string>gần đây, mới đây</string>
 			<key>pronunciation</key>
-			<string>'ri:səntli</string>
+			<string>&apos;ri:səntli</string>
 			<key>word</key>
 			<string>recently</string>
 		</dict>
@@ -23990,7 +23990,7 @@
 			<key>mean</key>
 			<string>bản ghi, sự ghi, bản thu, sự thu, thu, ghi chép</string>
 			<key>pronunciation</key>
-			<string>'rekɔ:d</string>
+			<string>&apos;rekɔ:d</string>
 			<key>word</key>
 			<string>record</string>
 		</dict>
@@ -24000,7 +24000,7 @@
 			<key>mean</key>
 			<string>sự ghi, sự thu âm</string>
 			<key>pronunciation</key>
-			<string>ri'kɔ:diη</string>
+			<string>ri&apos;kɔ:diη</string>
 			<key>word</key>
 			<string>recording</string>
 		</dict>
@@ -24040,7 +24040,7 @@
 			<key>mean</key>
 			<string>sự giảm giá, sự hạ giá</string>
 			<key>pronunciation</key>
-			<string>ri'dʌkʃən</string>
+			<string>ri&apos;dʌkʃən</string>
 			<key>word</key>
 			<string>reduction</string>
 		</dict>
@@ -24070,7 +24070,7 @@
 			<key>mean</key>
 			<string>cải cách, cải thiện, cải tạo, sự cải cách, sự cải thiện, cải tạo</string>
 			<key>pronunciation</key>
-			<string>ri'fɔ:m</string>
+			<string>ri&apos;fɔ:m</string>
 			<key>word</key>
 			<string>reform</string>
 		</dict>
@@ -24090,7 +24090,7 @@
 			<key>mean</key>
 			<string>sự từ chối, sự khước từ</string>
 			<key>pronunciation</key>
-			<string>ri'fju:zl</string>
+			<string>ri&apos;fju:zl</string>
 			<key>word</key>
 			<string>refusal</string>
 		</dict>
@@ -24120,7 +24120,7 @@
 			<key>mean</key>
 			<string>về, về việc, đối với (vấn đề)</string>
 			<key>pronunciation</key>
-			<string>ri'ga:diη</string>
+			<string>ri&apos;ga:diη</string>
 			<key>word</key>
 			<string>regarding</string>
 		</dict>
@@ -24180,7 +24180,7 @@
 			<key>mean</key>
 			<string>đều đặn, thường xuyên</string>
 			<key>pronunciation</key>
-			<string>'regjuləli</string>
+			<string>&apos;regjuləli</string>
 			<key>word</key>
 			<string>regularly</string>
 		</dict>
@@ -24190,7 +24190,7 @@
 			<key>mean</key>
 			<string>sự điều chỉnh, điều lệ, quy tắc</string>
 			<key>pronunciation</key>
-			<string>¸regju'leiʃən</string>
+			<string>¸regju&apos;leiʃən</string>
 			<key>word</key>
 			<string>regulation</string>
 		</dict>
@@ -24270,7 +24270,7 @@
 			<key>mean</key>
 			<string>giải trí, nghỉ ngơi</string>
 			<key>pronunciation</key>
-			<string>ri'læks</string>
+			<string>ri&apos;læks</string>
 			<key>word</key>
 			<string>relax</string>
 		</dict>
@@ -24280,7 +24280,7 @@
 			<key>mean</key>
 			<string>thanh thản, thoải mái</string>
 			<key>pronunciation</key>
-			<string>ri'lækst</string>
+			<string>ri&apos;lækst</string>
 			<key>word</key>
 			<string>relaxed</string>
 		</dict>
@@ -24310,7 +24310,7 @@
 			<key>mean</key>
 			<string>thích hợp, có liên quan</string>
 			<key>pronunciation</key>
-			<string>'reləvənt</string>
+			<string>&apos;reləvənt</string>
 			<key>word</key>
 			<string>relevant</string>
 		</dict>
@@ -24350,7 +24350,7 @@
 			<key>mean</key>
 			<string>tin vào, tin cậy, tin tưởng vào</string>
 			<key>pronunciation</key>
-			<string>ri'lai</string>
+			<string>ri&apos;lai</string>
 			<key>word</key>
 			<string>rely</string>
 		</dict>
@@ -24370,7 +24370,7 @@
 			<key>mean</key>
 			<string>còn lại</string>
 			<key>pronunciation</key>
-			<string>ri'meiniη</string>
+			<string>ri&apos;meiniη</string>
 			<key>word</key>
 			<string>remaining</string>
 		</dict>
@@ -24510,7 +24510,7 @@
 			<key>mean</key>
 			<string>được nhắc lại, được lặp lại</string>
 			<key>pronunciation</key>
-			<string>ri'pi:tid</string>
+			<string>ri&apos;pi:tid</string>
 			<key>word</key>
 			<string>repeated</string>
 		</dict>
@@ -24520,7 +24520,7 @@
 			<key>mean</key>
 			<string>lặp đi lặp lại nhiều lần</string>
 			<key>pronunciation</key>
-			<string>ri'pi:tidli</string>
+			<string>ri&apos;pi:tidli</string>
 			<key>word</key>
 			<string>repeatedly</string>
 		</dict>
@@ -24630,7 +24630,7 @@
 			<key>mean</key>
 			<string>giải thoát, cứu nguy, sự giải thoát, sự cứu nguy</string>
 			<key>pronunciation</key>
-			<string>'reskju:</string>
+			<string>&apos;reskju:</string>
 			<key>word</key>
 			<string>rescue</string>
 		</dict>
@@ -24690,7 +24690,7 @@
 			<key>mean</key>
 			<string>sự chống lại, sự phản đối, sự kháng cự</string>
 			<key>pronunciation</key>
-			<string>ri'zistəns</string>
+			<string>ri&apos;zistəns</string>
 			<key>word</key>
 			<string>resistance</string>
 		</dict>
@@ -24710,7 +24710,7 @@
 			<key>mean</key>
 			<string>kế sách, phương kế</string>
 			<key>pronunciation</key>
-			<string>ri'zɔ:t</string>
+			<string>ri&apos;zɔ:t</string>
 			<key>word</key>
 			<string>resort</string>
 		</dict>
@@ -24790,7 +24790,7 @@
 			<key>mean</key>
 			<string>nhà hàng ăn, hiệu ăn</string>
 			<key>pronunciation</key>
-			<string>'restərɔn</string>
+			<string>&apos;restərɔn</string>
 			<key>word</key>
 			<string>restaurant</string>
 		</dict>
@@ -24800,7 +24800,7 @@
 			<key>mean</key>
 			<string>hoàn lại, trả lại, sửa chữa lại, phục hồi lại</string>
 			<key>pronunciation</key>
-			<string>ris'tɔ:</string>
+			<string>ris&apos;tɔ:</string>
 			<key>word</key>
 			<string>restore</string>
 		</dict>
@@ -24810,7 +24810,7 @@
 			<key>mean</key>
 			<string>hạn chế, giới hạn</string>
 			<key>pronunciation</key>
-			<string>ris'trikt</string>
+			<string>ris&apos;trikt</string>
 			<key>word</key>
 			<string>restrict</string>
 		</dict>
@@ -24820,7 +24820,7 @@
 			<key>mean</key>
 			<string>bị hạn chế, có giới hạn, vùng cấm</string>
 			<key>pronunciation</key>
-			<string>ris'triktid</string>
+			<string>ris&apos;triktid</string>
 			<key>word</key>
 			<string>restricted</string>
 		</dict>
@@ -24830,7 +24830,7 @@
 			<key>mean</key>
 			<string>sự hạn chế, sự giới hạn</string>
 			<key>pronunciation</key>
-			<string>ri'strik∫n</string>
+			<string>ri&apos;strik∫n</string>
 			<key>word</key>
 			<string>restriction</string>
 		</dict>
@@ -24860,7 +24860,7 @@
 			<key>mean</key>
 			<string>/rời bỏ, rút về, thôi, nghỉ việc, về hưu</string>
 			<key>pronunciation</key>
-			<string>ri'taiə</string>
+			<string>ri&apos;taiə</string>
 			<key>word</key>
 			<string>retire</string>
 		</dict>
@@ -24870,7 +24870,7 @@
 			<key>mean</key>
 			<string>ẩn dật, hẻo lánh, đã về hưu, đã nghỉ việc</string>
 			<key>pronunciation</key>
-			<string>ri'taiəd</string>
+			<string>ri&apos;taiəd</string>
 			<key>word</key>
 			<string>retired</string>
 		</dict>
@@ -24920,7 +24920,7 @@
 			<key>mean</key>
 			<string>sự xem lại, sự xét lại, làm lại, xem xét lại</string>
 			<key>pronunciation</key>
-			<string>ri'vju:</string>
+			<string>ri&apos;vju:</string>
 			<key>word</key>
 			<string>review</string>
 		</dict>
@@ -24940,7 +24940,7 @@
 			<key>mean</key>
 			<string>sự xem lại, sự đọc lại, sự sửa lại, sự ôn lại</string>
 			<key>pronunciation</key>
-			<string>ri'viʒən</string>
+			<string>ri&apos;viʒən</string>
 			<key>word</key>
 			<string>revision</string>
 		</dict>
@@ -24960,7 +24960,7 @@
 			<key>mean</key>
 			<string>sự thưởng, phần thưởng, thưởng, thưởng công</string>
 			<key>pronunciation</key>
-			<string>ri'wɔ:d</string>
+			<string>ri&apos;wɔ:d</string>
 			<key>word</key>
 			<string>reward</string>
 		</dict>
@@ -24970,7 +24970,7 @@
 			<key>mean</key>
 			<string>nhịp điệu</string>
 			<key>pronunciation</key>
-			<string>'riðm</string>
+			<string>&apos;riðm</string>
 			<key>word</key>
 			<string>rhythm</string>
 		</dict>
@@ -25020,7 +25020,7 @@
 			<key>mean</key>
 			<string>môn thể thao cưỡi ngựa, sự đi xe (bus, điện, xe đạp)</string>
 			<key>pronunciation</key>
-			<string>'raidiη</string>
+			<string>&apos;raidiη</string>
 			<key>word</key>
 			<string>riding</string>
 		</dict>
@@ -25030,7 +25030,7 @@
 			<key>mean</key>
 			<string>người cưỡi ngựa, người đi xe đạp</string>
 			<key>pronunciation</key>
-			<string>'raidə</string>
+			<string>&apos;raidə</string>
 			<key>word</key>
 			<string>rider</string>
 		</dict>
@@ -25060,7 +25060,7 @@
 			<key>mean</key>
 			<string>đúng, phải, có lý</string>
 			<key>pronunciation</key>
-			<string>'raitli</string>
+			<string>&apos;raitli</string>
 			<key>word</key>
 			<string>rightly</string>
 		</dict>
@@ -25110,7 +25110,7 @@
 			<key>mean</key>
 			<string>sông</string>
 			<key>pronunciation</key>
-			<string>'rivə</string>
+			<string>&apos;rivə</string>
 			<key>word</key>
 			<string>river</string>
 		</dict>
@@ -25230,7 +25230,7 @@
 			<key>mean</key>
 			<string>gồ ghề, lởm chởm</string>
 			<key>pronunciation</key>
-			<string>'rʌfli</string>
+			<string>&apos;rʌfli</string>
 			<key>word</key>
 			<string>roughly</string>
 		</dict>
@@ -25250,7 +25250,7 @@
 			<key>mean</key>
 			<string>bị làm thành tròn, phát triển đầy đủ</string>
 			<key>pronunciation</key>
-			<string>'raundid</string>
+			<string>&apos;raundid</string>
 			<key>word</key>
 			<string>rounded</string>
 		</dict>
@@ -25290,7 +25290,7 @@
 			<key>mean</key>
 			<string>(thuộcvua, nữ hoàng, hoàng gia</string>
 			<key>pronunciation</key>
-			<string>'rɔɪəl</string>
+			<string>&apos;rɔɪəl</string>
 			<key>word</key>
 			<string>royal</string>
 		</dict>
@@ -25310,7 +25310,7 @@
 			<key>mean</key>
 			<string>cao su</string>
 			<key>pronunciation</key>
-			<string>'rʌbə</string>
+			<string>&apos;rʌbə</string>
 			<key>word</key>
 			<string>rubber</string>
 		</dict>
@@ -25380,7 +25380,7 @@
 			<key>mean</key>
 			<string>người cai trị, người trị vì, thước kẻ</string>
 			<key>pronunciation</key>
-			<string>'ru:lə</string>
+			<string>&apos;ru:lə</string>
 			<key>word</key>
 			<string>ruler</string>
 		</dict>
@@ -25420,7 +25420,7 @@
 			<key>mean</key>
 			<string>người chạy</string>
 			<key>pronunciation</key>
-			<string>'rʌnə</string>
+			<string>&apos;rʌnə</string>
 			<key>word</key>
 			<string>runner</string>
 		</dict>
@@ -25430,7 +25430,7 @@
 			<key>mean</key>
 			<string>(thuộcnông thôn, vùng nông thôn</string>
 			<key>pronunciation</key>
-			<string>'ruərəl</string>
+			<string>&apos;ruərəl</string>
 			<key>word</key>
 			<string>rural</string>
 		</dict>
@@ -25590,7 +25590,7 @@
 			<key>mean</key>
 			<string>chứ vị muối, có muối, mặn</string>
 			<key>pronunciation</key>
-			<string>'sɔ:lti</string>
+			<string>&apos;sɔ:lti</string>
 			<key>word</key>
 			<string>salty</string>
 		</dict>
@@ -25610,7 +25610,7 @@
 			<key>mean</key>
 			<string>mẫu, hàng mẫu</string>
 			<key>pronunciation</key>
-			<string>'sa:mpl</string>
+			<string>&apos;sa:mpl</string>
 			<key>word</key>
 			<string>sample</string>
 		</dict>
@@ -25700,7 +25700,7 @@
 			<key>mean</key>
 			<string>sự cứu, sự tiết kiệm</string>
 			<key>pronunciation</key>
-			<string>'seiviη</string>
+			<string>&apos;seiviη</string>
 			<key>word</key>
 			<string>saving</string>
 		</dict>
@@ -25760,7 +25760,7 @@
 			<key>mean</key>
 			<string>kế hoạch làm việc, bản liệt kê, lên thời khóa biểu, lên kế hoạch</string>
 			<key>pronunciation</key>
-			<string>'ʃkedju:l</string>
+			<string>&apos;ʃkedju:l</string>
 			<key>word</key>
 			<string>schedule</string>
 		</dict>
@@ -25820,7 +25820,7 @@
 			<key>mean</key>
 			<string>cái kéo</string>
 			<key>pronunciation</key>
-			<string>'sizəz</string>
+			<string>&apos;sizəz</string>
 			<key>word</key>
 			<string>scissors</string>
 		</dict>
@@ -25910,7 +25910,7 @@
 			<key>mean</key>
 			<string>mùa</string>
 			<key>pronunciation</key>
-			<string>'si:zən</string>
+			<string>&apos;si:zən</string>
 			<key>word</key>
 			<string>season</string>
 		</dict>
@@ -25940,7 +25940,7 @@
 			<key>mean</key>
 			<string>trung học, thứ yếu</string>
 			<key>pronunciation</key>
-			<string>'sekəndəri</string>
+			<string>&apos;sekəndəri</string>
 			<key>word</key>
 			<string>secondary</string>
 		</dict>
@@ -26060,7 +26060,7 @@
 			<key>mean</key>
 			<string>chọn lựa, chọn lọc</string>
 			<key>pronunciation</key>
-			<string>si'lekt</string>
+			<string>si&apos;lekt</string>
 			<key>word</key>
 			<string>select</string>
 		</dict>
@@ -26100,7 +26100,7 @@
 			<key>mean</key>
 			<string>thượng nghi viện, ban giám hiệu</string>
 			<key>pronunciation</key>
-			<string>'senit</string>
+			<string>&apos;senit</string>
 			<key>word</key>
 			<string>senate</string>
 		</dict>
@@ -26210,7 +26210,7 @@
 			<key>mean</key>
 			<string>sự chia cắt, phân ly, sự chia tay, ly thân</string>
 			<key>pronunciation</key>
-			<string>¸sepə'reiʃən</string>
+			<string>¸sepə&apos;reiʃən</string>
 			<key>word</key>
 			<string>separation</string>
 		</dict>
@@ -26220,7 +26220,7 @@
 			<key>mean</key>
 			<string>tháng 9</string>
 			<key>pronunciation</key>
-			<string>sep'tembə</string>
+			<string>sep&apos;tembə</string>
 			<key>word</key>
 			<string>september</string>
 		</dict>
@@ -26340,7 +26340,7 @@
 			<key>mean</key>
 			<string>khắt khe, gay gắt (thái độ, cư xử), giản dị, mộc mạc (kiểu cách, trang phục, dung nhan)</string>
 			<key>pronunciation</key>
-			<string>sə'virli</string>
+			<string>sə&apos;virli</string>
 			<key>word</key>
 			<string>severely</string>
 		</dict>
@@ -26360,7 +26360,7 @@
 			<key>mean</key>
 			<string>sự khâu, sự may vá</string>
 			<key>pronunciation</key>
-			<string>'souiη</string>
+			<string>&apos;souiη</string>
 			<key>word</key>
 			<string>sewing</string>
 		</dict>
@@ -26640,7 +26640,7 @@
 			<key>mean</key>
 			<string>gây ra căm phẫn, tồi tệ, gây kích động</string>
 			<key>pronunciation</key>
-			<string>'ʃɔkiη</string>
+			<string>&apos;ʃɔkiη</string>
 			<key>word</key>
 			<string>shocking</string>
 		</dict>
@@ -26720,7 +26720,7 @@
 			<key>mean</key>
 			<string>trong thời gian ngắn, sớm</string>
 			<key>pronunciation</key>
-			<string>'ʃɔ:tli</string>
+			<string>&apos;ʃɔ:tli</string>
 			<key>word</key>
 			<string>shortly</string>
 		</dict>
@@ -26780,7 +26780,7 @@
 			<key>mean</key>
 			<string>vòi hoa sen, sự tắm vòi hoa sen</string>
 			<key>pronunciation</key>
-			<string>'ʃouə</string>
+			<string>&apos;ʃouə</string>
 			<key>word</key>
 			<string>shower</string>
 		</dict>
@@ -26830,7 +26830,7 @@
 			<key>mean</key>
 			<string>ngang, từ một bên, sang bên</string>
 			<key>pronunciation</key>
-			<string>'saidwə:dz</string>
+			<string>&apos;saidwə:dz</string>
 			<key>word</key>
 			<string>sideways</string>
 		</dict>
@@ -26930,7 +26930,7 @@
 			<key>mean</key>
 			<string>ngớ ngẩn, ngu ngốc, khờ dại</string>
 			<key>pronunciation</key>
-			<string>'sili</string>
+			<string>&apos;sili</string>
 			<key>word</key>
 			<string>silly</string>
 		</dict>
@@ -26950,7 +26950,7 @@
 			<key>mean</key>
 			<string>giống như, tương tự như</string>
 			<key>pronunciation</key>
-			<string>'similə</string>
+			<string>&apos;similə</string>
 			<key>word</key>
 			<string>similar</string>
 		</dict>
@@ -26960,7 +26960,7 @@
 			<key>mean</key>
 			<string>tương tự, giống nhau</string>
 			<key>pronunciation</key>
-			<string>'similəli</string>
+			<string>&apos;similəli</string>
 			<key>word</key>
 			<string>similarly</string>
 		</dict>
@@ -26980,7 +26980,7 @@
 			<key>mean</key>
 			<string>một cách dễ dàng, giản dị</string>
 			<key>pronunciation</key>
-			<string>'simpli</string>
+			<string>&apos;simpli</string>
 			<key>word</key>
 			<string>simply</string>
 		</dict>
@@ -27000,7 +27000,7 @@
 			<key>mean</key>
 			<string>thật thà, thẳng thắng, chân thành</string>
 			<key>pronunciation</key>
-			<string>sin'siə</string>
+			<string>sin&apos;siə</string>
 			<key>word</key>
 			<string>sincere</string>
 		</dict>
@@ -27030,7 +27030,7 @@
 			<key>mean</key>
 			<string>sự hát, tiếng hát</string>
 			<key>pronunciation</key>
-			<string>'siηiη</string>
+			<string>&apos;siηiη</string>
 			<key>word</key>
 			<string>singing</string>
 		</dict>
@@ -27040,7 +27040,7 @@
 			<key>mean</key>
 			<string>ca sĩ</string>
 			<key>pronunciation</key>
-			<string>'siηə</string>
+			<string>&apos;siηə</string>
 			<key>word</key>
 			<string>singer</string>
 		</dict>
@@ -27140,7 +27140,7 @@
 			<key>mean</key>
 			<string>tài giỏi, khéo tay</string>
 			<key>pronunciation</key>
-			<string>'skilful</string>
+			<string>&apos;skilful</string>
 			<key>word</key>
 			<string>skilful</string>
 		</dict>
@@ -27150,7 +27150,7 @@
 			<key>mean</key>
 			<string>tài giỏi, khéo tay</string>
 			<key>pronunciation</key>
-			<string>'skilfulli</string>
+			<string>&apos;skilfulli</string>
 			<key>word</key>
 			<string>skilfully</string>
 		</dict>
@@ -27450,7 +27450,7 @@
 			<key>mean</key>
 			<string>có tính xã hội</string>
 			<key>pronunciation</key>
-			<string>'souʃəli</string>
+			<string>&apos;souʃəli</string>
 			<key>word</key>
 			<string>socially</string>
 		</dict>
@@ -27580,7 +27580,7 @@
 			<key>mean</key>
 			<string>không biết làm sao, bằng cách này hay cách khác</string>
 			<key>pronunciation</key>
-			<string>'sʌm¸hau</string>
+			<string>&apos;sʌm¸hau</string>
 			<key>word</key>
 			<string>somehow</string>
 		</dict>
@@ -27600,7 +27600,7 @@
 			<key>mean</key>
 			<string>thỉnh thoảng, đôi khi</string>
 			<key>pronunciation</key>
-			<string>'sʌm¸taimz</string>
+			<string>&apos;sʌm¸taimz</string>
 			<key>word</key>
 			<string>sometimes</string>
 		</dict>
@@ -27610,7 +27610,7 @@
 			<key>mean</key>
 			<string>đến mức độ nào đó, hơi, một chút</string>
 			<key>pronunciation</key>
-			<string>'sʌm¸wɔt</string>
+			<string>&apos;sʌm¸wɔt</string>
 			<key>word</key>
 			<string>somewhat</string>
 		</dict>
@@ -27750,7 +27750,7 @@
 			<key>mean</key>
 			<string>thuộc phương Nam</string>
 			<key>pronunciation</key>
-			<string>'sʌðən</string>
+			<string>&apos;sʌðən</string>
 			<key>word</key>
 			<string>southern</string>
 		</dict>
@@ -27820,7 +27820,7 @@
 			<key>mean</key>
 			<string>đặc biệt, riêng biệt</string>
 			<key>pronunciation</key>
-			<string>'speʃəli</string>
+			<string>&apos;speʃəli</string>
 			<key>word</key>
 			<string>specially</string>
 		</dict>
@@ -27890,7 +27890,7 @@
 			<key>mean</key>
 			<string>sự viết chính tả</string>
 			<key>pronunciation</key>
-			<string>'speliη</string>
+			<string>&apos;speliη</string>
 			<key>word</key>
 			<string>spelling</string>
 		</dict>
@@ -27920,7 +27920,7 @@
 			<key>mean</key>
 			<string>có gia vị</string>
 			<key>pronunciation</key>
-			<string>'spaisi</string>
+			<string>&apos;spaisi</string>
 			<key>word</key>
 			<string>spicy</string>
 		</dict>
@@ -27930,7 +27930,7 @@
 			<key>mean</key>
 			<string>con nhện</string>
 			<key>pronunciation</key>
-			<string>'spaidə</string>
+			<string>&apos;spaidə</string>
 			<key>word</key>
 			<string>spider</string>
 		</dict>
@@ -28260,7 +28260,7 @@
 			<key>mean</key>
 			<string>không chắc, không ổn định</string>
 			<key>pronunciation</key>
-			<string>ʌn'stedi</string>
+			<string>ʌn&apos;stedi</string>
 			<key>word</key>
 			<string>unsteady</string>
 		</dict>
@@ -28750,7 +28750,7 @@
 			<key>mean</key>
 			<string>xưởng phim, trường quay, phòng thu</string>
 			<key>pronunciation</key>
-			<string>'stju:diou</string>
+			<string>&apos;stju:diou</string>
 			<key>word</key>
 			<string>studio</string>
 		</dict>
@@ -28820,7 +28820,7 @@
 			<key>mean</key>
 			<string>thực tế, đáng kể, quan trọng</string>
 			<key>pronunciation</key>
-			<string>səb'stænʃəl</string>
+			<string>səb&apos;stænʃəl</string>
 			<key>word</key>
 			<string>substantial</string>
 		</dict>
@@ -28830,7 +28830,7 @@
 			<key>mean</key>
 			<string>về thực chất, về căn bản</string>
 			<key>pronunciation</key>
-			<string>səb'stænʃəli</string>
+			<string>səb&apos;stænʃəli</string>
 			<key>word</key>
 			<string>substantially</string>
 		</dict>
@@ -28840,7 +28840,7 @@
 			<key>mean</key>
 			<string>người, vật thay thế, thay thế</string>
 			<key>pronunciation</key>
-			<string>'sʌbsti¸tju:t</string>
+			<string>&apos;sʌbsti¸tju:t</string>
 			<key>word</key>
 			<string>substitute</string>
 		</dict>
@@ -29010,7 +29010,7 @@
 			<key>mean</key>
 			<string>hợp, phù hợp, thích hợp với</string>
 			<key>pronunciation</key>
-			<string>'su:tid</string>
+			<string>&apos;su:tid</string>
 			<key>word</key>
 			<string>suited</string>
 		</dict>
@@ -29020,7 +29020,7 @@
 			<key>mean</key>
 			<string>hợp, phù hợp, thích hợp với</string>
 			<key>pronunciation</key>
-			<string>'su:təbl</string>
+			<string>&apos;su:təbl</string>
 			<key>word</key>
 			<string>suitable</string>
 		</dict>
@@ -29030,7 +29030,7 @@
 			<key>mean</key>
 			<string>va li</string>
 			<key>pronunciation</key>
-			<string>'su:t¸keis</string>
+			<string>&apos;su:t¸keis</string>
 			<key>word</key>
 			<string>suitcase</string>
 		</dict>
@@ -29080,7 +29080,7 @@
 			<key>mean</key>
 			<string>Chủ nhật</string>
 			<key>pronunciation</key>
-			<string>'sʌndi</string>
+			<string>&apos;sʌndi</string>
 			<key>word</key>
 			<string>sunday</string>
 		</dict>
@@ -29100,7 +29100,7 @@
 			<key>mean</key>
 			<string>siêu thị</string>
 			<key>pronunciation</key>
-			<string>'su:pə¸ma:kit</string>
+			<string>&apos;su:pə¸ma:kit</string>
 			<key>word</key>
 			<string>supermarket</string>
 		</dict>
@@ -29120,7 +29120,7 @@
 			<key>mean</key>
 			<string>sự chống đỡ, sự ủng hộ, chống đỡ, ủng hộ</string>
 			<key>pronunciation</key>
-			<string>sə'pɔ:t</string>
+			<string>sə&apos;pɔ:t</string>
 			<key>word</key>
 			<string>support</string>
 		</dict>
@@ -29130,7 +29130,7 @@
 			<key>mean</key>
 			<string>vật chống đỡ, người cổ vũ, người ủng hộ</string>
 			<key>pronunciation</key>
-			<string>sə'pɔ:tə</string>
+			<string>sə&apos;pɔ:tə</string>
 			<key>word</key>
 			<string>supporter</string>
 		</dict>
@@ -29160,7 +29160,7 @@
 			<key>mean</key>
 			<string>chắc chắn </string>
 			<key>pronunciation</key>
-			<string>'ʃuəli</string>
+			<string>&apos;ʃuəli</string>
 			<key>word</key>
 			<string>surely</string>
 		</dict>
@@ -29200,7 +29200,7 @@
 			<key>mean</key>
 			<string>làm ngạc nhiên, làm bất ngờ</string>
 			<key>pronunciation</key>
-			<string>sə:'praiziη</string>
+			<string>sə:&apos;praiziη</string>
 			<key>word</key>
 			<string>surprising</string>
 		</dict>
@@ -29220,7 +29220,7 @@
 			<key>mean</key>
 			<string>ngạc nhiên (+ at)</string>
 			<key>pronunciation</key>
-			<string>sə:'praizd</string>
+			<string>sə:&apos;praizd</string>
 			<key>word</key>
 			<string>surprised</string>
 		</dict>
@@ -29250,7 +29250,7 @@
 			<key>mean</key>
 			<string>vùng xung quanh, môi trường xung quanh</string>
 			<key>pronunciation</key>
-			<string>sə'raundiηz</string>
+			<string>sə&apos;raundiηz</string>
 			<key>word</key>
 			<string>surroundings</string>
 		</dict>
@@ -29280,7 +29280,7 @@
 			<key>mean</key>
 			<string>nghi ngờ, hoài nghi, người khả nghi, người bị tình nghi</string>
 			<key>pronunciation</key>
-			<string>səs'pekt</string>
+			<string>səs&apos;pekt</string>
 			<key>word</key>
 			<string>suspect</string>
 		</dict>
@@ -29300,7 +29300,7 @@
 			<key>mean</key>
 			<string>có sự nghi ngờ, tỏ ra nghi ngờ, khả nghi</string>
 			<key>pronunciation</key>
-			<string>səs'piʃəs</string>
+			<string>səs&apos;piʃəs</string>
 			<key>word</key>
 			<string>suspicious</string>
 		</dict>
@@ -29390,7 +29390,7 @@
 			<key>mean</key>
 			<string>sự sưng lên, sự phồng ra</string>
 			<key>pronunciation</key>
-			<string>'sweliη</string>
+			<string>&apos;sweliη</string>
 			<key>word</key>
 			<string>swelling</string>
 		</dict>
@@ -29400,7 +29400,7 @@
 			<key>mean</key>
 			<string>sưng phồng, phình căng</string>
 			<key>pronunciation</key>
-			<string>'swoulən</string>
+			<string>&apos;swoulən</string>
 			<key>word</key>
 			<string>swollen</string>
 		</dict>
@@ -29420,7 +29420,7 @@
 			<key>mean</key>
 			<string>sự bơi lội, swimming pool: (nbể nước</string>
 			<key>pronunciation</key>
-			<string>'swimiη</string>
+			<string>&apos;swimiη</string>
 			<key>word</key>
 			<string>swimming</string>
 		</dict>
@@ -29460,7 +29460,7 @@
 			<key>mean</key>
 			<string>đồng cảm, đáng mến, dễ thương</string>
 			<key>pronunciation</key>
-			<string>¸simpə'θetik</string>
+			<string>¸simpə&apos;θetik</string>
 			<key>word</key>
 			<string>sympathetic</string>
 		</dict>
@@ -29470,7 +29470,7 @@
 			<key>mean</key>
 			<string>sự đồng cảm, sự đồng ý</string>
 			<key>pronunciation</key>
-			<string>'simpəθi</string>
+			<string>&apos;simpəθi</string>
 			<key>word</key>
 			<string>sympathy</string>
 		</dict>
@@ -29730,7 +29730,7 @@
 			<key>mean</key>
 			<string>máy điện thoại, gọi điện thoại</string>
 			<key>pronunciation</key>
-			<string>'telefoun</string>
+			<string>&apos;telefoun</string>
 			<key>word</key>
 			<string>telephone</string>
 		</dict>
@@ -29740,7 +29740,7 @@
 			<key>mean</key>
 			<string>vô tuyến truyền hình</string>
 			<key>pronunciation</key>
-			<string>'televiʒn</string>
+			<string>&apos;televiʒn</string>
 			<key>word</key>
 			<string>television</string>
 		</dict>
@@ -29760,7 +29760,7 @@
 			<key>mean</key>
 			<string>nhiệt độ</string>
 			<key>pronunciation</key>
-			<string>'tempritʃə</string>
+			<string>&apos;tempritʃə</string>
 			<key>word</key>
 			<string>temperature</string>
 		</dict>
@@ -30060,7 +30060,7 @@
 			<key>mean</key>
 			<string>tính chất dày, độ dày, bề dày</string>
 			<key>pronunciation</key>
-			<string>'θiknis</string>
+			<string>&apos;θiknis</string>
 			<key>word</key>
 			<string>thickness</string>
 		</dict>
@@ -30120,7 +30120,7 @@
 			<key>mean</key>
 			<string>khát, cảm thấy khát</string>
 			<key>pronunciation</key>
-			<string>'θə:sti</string>
+			<string>&apos;θə:sti</string>
 			<key>word</key>
 			<string>thirsty</string>
 		</dict>
@@ -30210,7 +30210,7 @@
 			<key>mean</key>
 			<string>sự đe dọa, sự hăm dọa</string>
 			<key>pronunciation</key>
-			<string>'θretəniη</string>
+			<string>&apos;θretəniη</string>
 			<key>word</key>
 			<string>threatening</string>
 		</dict>
@@ -30270,7 +30270,7 @@
 			<key>mean</key>
 			<string>thứ 5</string>
 			<key>pronunciation</key>
-			<string>'θə:zdi</string>
+			<string>&apos;θə:zdi</string>
 			<key>word</key>
 			<string>thursday</string>
 		</dict>
@@ -30300,7 +30300,7 @@
 			<key>mean</key>
 			<string>sạch sẽ, ngăn nắp, gọn gàng, làm cho sạch sẽ, gọn gàng, ngăn nắp</string>
 			<key>pronunciation</key>
-			<string>'taidi</string>
+			<string>&apos;taidi</string>
 			<key>word</key>
 			<string>tidy</string>
 		</dict>
@@ -30310,7 +30310,7 @@
 			<key>mean</key>
 			<string>không gọn gàng, không ngăn nắp, lộn xộn</string>
 			<key>pronunciation</key>
-			<string>ʌn'taidi</string>
+			<string>ʌn&apos;taidi</string>
 			<key>word</key>
 			<string>untidy</string>
 		</dict>
@@ -30360,7 +30360,7 @@
 			<key>mean</key>
 			<string>kế hoạch làm việc, thời gian biểu</string>
 			<key>pronunciation</key>
-			<string>'taimteibl</string>
+			<string>&apos;taimteibl</string>
 			<key>word</key>
 			<string>timetable</string>
 		</dict>
@@ -30400,7 +30400,7 @@
 			<key>mean</key>
 			<string>làm mệt mỏi, trở nên mệt nhọc, lốp, vỏ xe</string>
 			<key>pronunciation</key>
-			<string>'taiə</string>
+			<string>&apos;taiə</string>
 			<key>word</key>
 			<string>tire</string>
 		</dict>
@@ -30410,7 +30410,7 @@
 			<key>mean</key>
 			<string>sự mệt mỏi, sự mệt nhọc</string>
 			<key>pronunciation</key>
-			<string>'taiəriη</string>
+			<string>&apos;taiəriη</string>
 			<key>word</key>
 			<string>tiring</string>
 		</dict>
@@ -30480,7 +30480,7 @@
 			<key>mean</key>
 			<string>nhà vệ sinh, sự trang điểm (rửa mặt, ăn mặc, chải tóc)</string>
 			<key>pronunciation</key>
-			<string>'tɔilit</string>
+			<string>&apos;tɔilit</string>
 			<key>word</key>
 			<string>toilet</string>
 		</dict>
@@ -30490,7 +30490,7 @@
 			<key>mean</key>
 			<string>cà chua</string>
 			<key>pronunciation</key>
-			<string>tə'ma:tou</string>
+			<string>tə&apos;ma:tou</string>
 			<key>word</key>
 			<string>tomato</string>
 		</dict>
@@ -30540,7 +30540,7 @@
 			<key>mean</key>
 			<string>vào đêm nay, vào tối nay, đêm nay, tối nay</string>
 			<key>pronunciation</key>
-			<string>tə'nait</string>
+			<string>tə&apos;nait</string>
 			<key>word</key>
 			<string>tonight</string>
 		</dict>
@@ -30670,7 +30670,7 @@
 			<key>mean</key>
 			<string>theo hướng, về hướng</string>
 			<key>pronunciation</key>
-			<string>tə'wɔ:dz</string>
+			<string>tə&apos;wɔ:dz</string>
 			<key>word</key>
 			<string>towards</string>
 		</dict>
@@ -30760,7 +30760,7 @@
 			<key>mean</key>
 			<string>truyền thống</string>
 			<key>pronunciation</key>
-			<string>trə'diʃən</string>
+			<string>trə&apos;diʃən</string>
 			<key>word</key>
 			<string>tradition</string>
 		</dict>
@@ -30770,7 +30770,7 @@
 			<key>mean</key>
 			<string>theo truyền thống, theo lối cổ</string>
 			<key>pronunciation</key>
-			<string>trə'diʃənəl</string>
+			<string>trə&apos;diʃənəl</string>
 			<key>word</key>
 			<string>traditional</string>
 		</dict>
@@ -30780,7 +30780,7 @@
 			<key>mean</key>
 			<string>(thuộctruyền thống, là truyền thống</string>
 			<key>pronunciation</key>
-			<string>trə'diʃənəlli</string>
+			<string>trə&apos;diʃənəlli</string>
 			<key>word</key>
 			<string>traditionally</string>
 		</dict>
@@ -30840,7 +30840,7 @@
 			<key>mean</key>
 			<string>dịch, biên dịch, phiên dịch</string>
 			<key>pronunciation</key>
-			<string>træns'leit</string>
+			<string>træns&apos;leit</string>
 			<key>word</key>
 			<string>translate</string>
 		</dict>
@@ -30860,7 +30860,7 @@
 			<key>mean</key>
 			<string>trong suốt, dễ hiểu, sáng sủa</string>
 			<key>pronunciation</key>
-			<string>træns'pærənt</string>
+			<string>træns&apos;pærənt</string>
 			<key>word</key>
 			<string>transparent</string>
 		</dict>
@@ -30970,7 +30970,7 @@
 			<key>mean</key>
 			<string>hình tam giác</string>
 			<key>pronunciation</key>
-			<string>'trai¸æηgl</string>
+			<string>&apos;trai¸æηgl</string>
 			<key>word</key>
 			<string>triangle</string>
 		</dict>
@@ -31000,7 +31000,7 @@
 			<key>mean</key>
 			<string>nhiệt đới</string>
 			<key>pronunciation</key>
-			<string>'trɔpikəl</string>
+			<string>&apos;trɔpikəl</string>
 			<key>word</key>
 			<string>tropical</string>
 		</dict>
@@ -31020,7 +31020,7 @@
 			<key>mean</key>
 			<string>quần</string>
 			<key>pronunciation</key>
-			<string>'trauzə:z</string>
+			<string>&apos;trauzə:z</string>
 			<key>word</key>
 			<string>trousers</string>
 		</dict>
@@ -31050,7 +31050,7 @@
 			<key>mean</key>
 			<string>đúng sự thật, đích thực, thực sự</string>
 			<key>pronunciation</key>
-			<string>'tru:li</string>
+			<string>&apos;tru:li</string>
 			<key>word</key>
 			<string>truly</string>
 		</dict>
@@ -31100,7 +31100,7 @@
 			<key>mean</key>
 			<string>thứ 3</string>
 			<key>pronunciation</key>
-			<string>'tju:zdi</string>
+			<string>&apos;tju:zdi</string>
 			<key>word</key>
 			<string>tuesday</string>
 		</dict>
@@ -31120,7 +31120,7 @@
 			<key>mean</key>
 			<string>đường hầm, hang</string>
 			<key>pronunciation</key>
-			<string>'tʌnl</string>
+			<string>&apos;tʌnl</string>
 			<key>word</key>
 			<string>tunnel</string>
 		</dict>
@@ -31190,7 +31190,7 @@
 			<key>mean</key>
 			<string>tiêu biểu, điển hình, đặc trưng</string>
 			<key>pronunciation</key>
-			<string>'tipikəl</string>
+			<string>&apos;tipikəl</string>
 			<key>word</key>
 			<string>typical</string>
 		</dict>
@@ -31200,7 +31200,7 @@
 			<key>mean</key>
 			<string>điển hình, tiêu biểu</string>
 			<key>pronunciation</key>
-			<string>'tipikəlli</string>
+			<string>&apos;tipikəlli</string>
 			<key>word</key>
 			<string>typically</string>
 		</dict>
@@ -31210,7 +31210,7 @@
 			<key>mean</key>
 			<string>lốp, vỏ xe</string>
 			<key>pronunciation</key>
-			<string>'taiз</string>
+			<string>&apos;taiз</string>
 			<key>word</key>
 			<string>tyre</string>
 		</dict>
@@ -31220,7 +31220,7 @@
 			<key>mean</key>
 			<string>xấu xí, xấu xa</string>
 			<key>pronunciation</key>
-			<string>'ʌgli</string>
+			<string>&apos;ʌgli</string>
 			<key>word</key>
 			<string>ugly</string>
 		</dict>
@@ -31230,7 +31230,7 @@
 			<key>mean</key>
 			<string>cuối cùng, sau cùng</string>
 			<key>pronunciation</key>
-			<string>'ʌltəmɪt</string>
+			<string>&apos;ʌltəmɪt</string>
 			<key>word</key>
 			<string>ultimate</string>
 		</dict>
@@ -31240,7 +31240,7 @@
 			<key>mean</key>
 			<string>cuối cùng, sau cùng</string>
 			<key>pronunciation</key>
-			<string>'ʌltimətli</string>
+			<string>&apos;ʌltimətli</string>
 			<key>word</key>
 			<string>ultimately</string>
 		</dict>
@@ -31280,7 +31280,7 @@
 			<key>mean</key>
 			<string>bất tiện, không tiện lợi</string>
 			<key>pronunciation</key>
-			<string>ʌη'kʌmfətəbl</string>
+			<string>ʌη&apos;kʌmfətəbl</string>
 			<key>word</key>
 			<string>uncomfortable</string>
 		</dict>
@@ -31310,7 +31310,7 @@
 			<key>mean</key>
 			<string>dưới, bên dưới</string>
 			<key>pronunciation</key>
-			<string>ʌndə'ni:θ</string>
+			<string>ʌndə&apos;ni:θ</string>
 			<key>word</key>
 			<string>underneath</string>
 		</dict>
@@ -31340,7 +31340,7 @@
 			<key>mean</key>
 			<string>ở dưới mặt nước, dưới mặt nước</string>
 			<key>pronunciation</key>
-			<string>'ʌndə¸wɔtə</string>
+			<string>&apos;ʌndə¸wɔtə</string>
 			<key>word</key>
 			<string>underwater</string>
 		</dict>
@@ -31360,7 +31360,7 @@
 			<key>mean</key>
 			<string>tháo, gỡ, xóa, hủy bỏ</string>
 			<key>pronunciation</key>
-			<string>ʌn'du:</string>
+			<string>ʌn&apos;du:</string>
 			<key>word</key>
 			<string>undo</string>
 		</dict>
@@ -31370,7 +31370,7 @@
 			<key>mean</key>
 			<string>không dùng, thất nghiệp</string>
 			<key>pronunciation</key>
-			<string>ʌnim'plɔid</string>
+			<string>ʌnim&apos;plɔid</string>
 			<key>word</key>
 			<string>unemployed</string>
 		</dict>
@@ -31400,7 +31400,7 @@
 			<key>mean</key>
 			<string>một cách đáng tiếc, một cách không may</string>
 			<key>pronunciation</key>
-			<string>ʌn'fɔ:tʃənətli</string>
+			<string>ʌn&apos;fɔ:tʃənətli</string>
 			<key>word</key>
 			<string>unfortunately</string>
 		</dict>
@@ -31410,7 +31410,7 @@
 			<key>mean</key>
 			<string>đối địch, không thân thiện</string>
 			<key>pronunciation</key>
-			<string>ʌn'frendli</string>
+			<string>ʌn&apos;frendli</string>
 			<key>word</key>
 			<string>unfriendly</string>
 		</dict>
@@ -31420,7 +31420,7 @@
 			<key>mean</key>
 			<string>sự buồn, nỗi buồn </string>
 			<key>pronunciation</key>
-			<string>ʌn'hæpinis</string>
+			<string>ʌn&apos;hæpinis</string>
 			<key>word</key>
 			<string>unhappiness</string>
 		</dict>
@@ -31430,7 +31430,7 @@
 			<key>mean</key>
 			<string>buồn rầu, khổ sở</string>
 			<key>pronunciation</key>
-			<string>ʌn'hæpi</string>
+			<string>ʌn&apos;hæpi</string>
 			<key>word</key>
 			<string>unhappy</string>
 		</dict>
@@ -31450,7 +31450,7 @@
 			<key>mean</key>
 			<string>không quan trọng</string>
 			<key>pronunciation</key>
-			<string>ʌnim'pɔ:tənt</string>
+			<string>ʌnim&apos;pɔ:tənt</string>
 			<key>word</key>
 			<string>unimportant</string>
 		</dict>
@@ -31470,7 +31470,7 @@
 			<key>mean</key>
 			<string>độc nhất vô nhị</string>
 			<key>pronunciation</key>
-			<string>ju:'ni:k</string>
+			<string>ju:&apos;ni:k</string>
 			<key>word</key>
 			<string>unique</string>
 		</dict>
@@ -31490,7 +31490,7 @@
 			<key>mean</key>
 			<string>liên kết, hợp nhất, hợp lại, kết thân</string>
 			<key>pronunciation</key>
-			<string>ju:'nait</string>
+			<string>ju:&apos;nait</string>
 			<key>word</key>
 			<string>unite</string>
 		</dict>
@@ -31520,7 +31520,7 @@
 			<key>mean</key>
 			<string>trường đại học</string>
 			<key>pronunciation</key>
-			<string>ju:ni'və:siti</string>
+			<string>ju:ni&apos;və:siti</string>
 			<key>word</key>
 			<string>university</string>
 		</dict>
@@ -31530,7 +31530,7 @@
 			<key>mean</key>
 			<string>không tử tế, không tốt, độc ác, tàn nhẫn, nghiệt ngã, không dễ chịu</string>
 			<key>pronunciation</key>
-			<string>ʌn'kaind</string>
+			<string>ʌn&apos;kaind</string>
 			<key>word</key>
 			<string>unkind</string>
 		</dict>
@@ -31540,7 +31540,7 @@
 			<key>mean</key>
 			<string>không biết, không được nhận ra</string>
 			<key>pronunciation</key>
-			<string>ʌn'noun</string>
+			<string>ʌn&apos;noun</string>
 			<key>word</key>
 			<string>unknown</string>
 		</dict>
@@ -31550,7 +31550,7 @@
 			<key>mean</key>
 			<string>trừ phi, trừ khi, nếu không</string>
 			<key>pronunciation</key>
-			<string>ʌn'les</string>
+			<string>ʌn&apos;les</string>
 			<key>word</key>
 			<string>unless</string>
 		</dict>
@@ -31560,7 +31560,7 @@
 			<key>mean</key>
 			<string>không giống, khác</string>
 			<key>pronunciation</key>
-			<string>ʌn'laik</string>
+			<string>ʌn&apos;laik</string>
 			<key>word</key>
 			<string>unlike</string>
 		</dict>
@@ -31580,7 +31580,7 @@
 			<key>mean</key>
 			<string>tháo dỡ</string>
 			<key>pronunciation</key>
-			<string>ʌn'loud</string>
+			<string>ʌn&apos;loud</string>
 			<key>word</key>
 			<string>unload</string>
 		</dict>
@@ -31590,7 +31590,7 @@
 			<key>mean</key>
 			<string>không gặp may, không may mắn</string>
 			<key>pronunciation</key>
-			<string>ʌn'lʌki</string>
+			<string>ʌn&apos;lʌki</string>
 			<key>word</key>
 			<string>unlucky</string>
 		</dict>
@@ -31600,7 +31600,7 @@
 			<key>mean</key>
 			<string>không cần thiết, không mong muốn</string>
 			<key>pronunciation</key>
-			<string>ʌn'nesisəri</string>
+			<string>ʌn&apos;nesisəri</string>
 			<key>word</key>
 			<string>unnecessary</string>
 		</dict>
@@ -31630,7 +31630,7 @@
 			<key>mean</key>
 			<string> không đúng mực, không vững, không chắc</string>
 			<key>pronunciation</key>
-			<string>ʌn'stedi</string>
+			<string>ʌn&apos;stedi</string>
 			<key>word</key>
 			<string>unsteady</string>
 		</dict>
@@ -31640,7 +31640,7 @@
 			<key>mean</key>
 			<string>không thành công, không thành đạt</string>
 			<key>pronunciation</key>
-			<string>,ʌnsək'sesful</string>
+			<string>,ʌnsək&apos;sesful</string>
 			<key>word</key>
 			<string>unsuccessful</string>
 		</dict>
@@ -31650,7 +31650,7 @@
 			<key>mean</key>
 			<string>không gọn gàng, không ngăn nắp, lộn xộn</string>
 			<key>pronunciation</key>
-			<string>ʌn'taidi</string>
+			<string>ʌn&apos;taidi</string>
 			<key>word</key>
 			<string>untidy</string>
 		</dict>
@@ -31660,7 +31660,7 @@
 			<key>mean</key>
 			<string>trước khi</string>
 			<key>pronunciation</key>
-			<string>ʌn'til</string>
+			<string>ʌn&apos;til</string>
 			<key>word</key>
 			<string>till</string>
 		</dict>
@@ -31670,7 +31670,7 @@
 			<key>mean</key>
 			<string>hiếm, khác thường</string>
 			<key>pronunciation</key>
-			<string>ʌn'ju:ʒuəl</string>
+			<string>ʌn&apos;ju:ʒuəl</string>
 			<key>word</key>
 			<string>unusual</string>
 		</dict>
@@ -31680,7 +31680,7 @@
 			<key>mean</key>
 			<string>không muốn, không có ý định, không sẵn sàng</string>
 			<key>pronunciation</key>
-			<string> ʌn'wiliη</string>
+			<string> ʌn&apos;wiliη</string>
 			<key>word</key>
 			<string>unwilling</string>
 		</dict>
@@ -31700,7 +31700,7 @@
 			<key>mean</key>
 			<string>trên, ở trên</string>
 			<key>pronunciation</key>
-			<string>ə'pɔn</string>
+			<string>ə&apos;pɔn</string>
 			<key>word</key>
 			<string>upon</string>
 		</dict>
@@ -31710,7 +31710,7 @@
 			<key>mean</key>
 			<string>cao hơn</string>
 			<key>pronunciation</key>
-			<string>'ʌpə</string>
+			<string>&apos;ʌpə</string>
 			<key>word</key>
 			<string>upper</string>
 		</dict>
@@ -31730,7 +31730,7 @@
 			<key>mean</key>
 			<string>tính đánh đổ, làm đổ</string>
 			<key>pronunciation</key>
-			<string>ʌp'setiη</string>
+			<string>ʌp&apos;setiη</string>
 			<key>word</key>
 			<string>upsetting</string>
 		</dict>
@@ -31740,7 +31740,7 @@
 			<key>mean</key>
 			<string>lộn ngược</string>
 			<key>pronunciation</key>
-			<string>'ʌp¸said</string>
+			<string>&apos;ʌp¸said</string>
 			<key>word</key>
 			<string>upside</string>
 		</dict>
@@ -31750,7 +31750,7 @@
 			<key>mean</key>
 			<string>ở tên gác, cư ngụ ở tầng gác, tầng trên, gác</string>
 			<key>pronunciation</key>
-			<string>'ʌp'stɛəz</string>
+			<string>&apos;ʌp&apos;stɛəz</string>
 			<key>word</key>
 			<string>upstairs</string>
 		</dict>
@@ -31830,7 +31830,7 @@
 			<key>mean</key>
 			<string>hữu ích, giúp ích</string>
 			<key>pronunciation</key>
-			<string>'ju:sful</string>
+			<string>&apos;ju:sful</string>
 			<key>word</key>
 			<string>useful</string>
 		</dict>
@@ -31850,7 +31850,7 @@
 			<key>mean</key>
 			<string>người dùng, người sử dụng</string>
 			<key>pronunciation</key>
-			<string>'ju:zə</string>
+			<string>&apos;ju:zə</string>
 			<key>word</key>
 			<string>user</string>
 		</dict>
@@ -31880,7 +31880,7 @@
 			<key>mean</key>
 			<string>hiếm, khác thường, đáng chú ý</string>
 			<key>pronunciation</key>
-			<string>ʌn'ju:ʒuəl</string>
+			<string>ʌn&apos;ju:ʒuəl</string>
 			<key>word</key>
 			<string>unusual</string>
 		</dict>
@@ -31890,7 +31890,7 @@
 			<key>mean</key>
 			<string>cực kỳ, khác thường</string>
 			<key>pronunciation</key>
-			<string>ʌn'ju:ʒuəlli</string>
+			<string>ʌn&apos;ju:ʒuəlli</string>
 			<key>word</key>
 			<string>unusually</string>
 		</dict>
@@ -31960,7 +31960,7 @@
 			<key>mean</key>
 			<string>sự biến đổi, sự thay đổi mức độ, sự khác nhau</string>
 			<key>pronunciation</key>
-			<string>’veəri'eiʃən</string>
+			<string>’veəri&apos;eiʃən</string>
 			<key>word</key>
 			<string>variation</string>
 		</dict>
@@ -32240,7 +32240,7 @@
 			<key>mean</key>
 			<string>từ vựng</string>
 			<key>pronunciation</key>
-			<string>və'kæbjuləri</string>
+			<string>və&apos;kæbjuləri</string>
 			<key>word</key>
 			<string>vocabulary</string>
 		</dict>
@@ -32260,7 +32260,7 @@
 			<key>mean</key>
 			<string>thế tích, quyển, tập</string>
 			<key>pronunciation</key>
-			<string>'vɔlju:m</string>
+			<string>&apos;vɔlju:m</string>
 			<key>word</key>
 			<string>volume</string>
 		</dict>
@@ -32530,7 +32530,7 @@
 			<key>mean</key>
 			<string>tình trạng yếu đuối, yếu ớt</string>
 			<key>pronunciation</key>
-			<string>'wi:knis</string>
+			<string>&apos;wi:knis</string>
 			<key>word</key>
 			<string>weakness</string>
 		</dict>
@@ -32610,7 +32610,7 @@
 			<key>mean</key>
 			<string>thứ 4</string>
 			<key>pronunciation</key>
-			<string>'wensdei</string>
+			<string>&apos;wensdei</string>
 			<key>word</key>
 			<string>wednesday</string>
 		</dict>
@@ -32630,7 +32630,7 @@
 			<key>mean</key>
 			<string>cuối tuần</string>
 			<key>pronunciation</key>
-			<string>¸wi:k'end</string>
+			<string>¸wi:k&apos;end</string>
 			<key>word</key>
 			<string>weekend</string>
 		</dict>
@@ -32640,7 +32640,7 @@
 			<key>mean</key>
 			<string>mỗi tuần một lần, hàng tuần</string>
 			<key>pronunciation</key>
-			<string>'wi:kli</string>
+			<string>&apos;wi:kli</string>
 			<key>word</key>
 			<string>weekly</string>
 		</dict>
@@ -32730,7 +32730,7 @@
 			<key>mean</key>
 			<string>bất cứ thứ gì, bất kể thứ gì</string>
 			<key>pronunciation</key>
-			<string>wɔt'evə</string>
+			<string>wɔt&apos;evə</string>
 			<key>word</key>
 			<string>whatever</string>
 		</dict>
@@ -32800,7 +32800,7 @@
 			<key>mean</key>
 			<string>cókhông, có chăng, không biết có không</string>
 			<key>pronunciation</key>
-			<string>'weðə</string>
+			<string>&apos;weðə</string>
 			<key>word</key>
 			<string>whether</string>
 		</dict>
@@ -32840,7 +32840,7 @@
 			<key>mean</key>
 			<string>nói thì thầm, xì xào, tiếng nói thì thầm, tiếng xì xào</string>
 			<key>pronunciation</key>
-			<string>'wispə</string>
+			<string>&apos;wispə</string>
 			<key>word</key>
 			<string>whisper</string>
 		</dict>
@@ -32940,7 +32940,7 @@
 			<key>mean</key>
 			<string>nhiều, xa, rộng rãi</string>
 			<key>pronunciation</key>
-			<string>'waidli</string>
+			<string>&apos;waidli</string>
 			<key>word</key>
 			<string>widely</string>
 		</dict>
@@ -33000,7 +33000,7 @@
 			<key>mean</key>
 			<string>bằng lòng, vui lòng, muốn</string>
 			<key>pronunciation</key>
-			<string>'wiliη</string>
+			<string>&apos;wiliη</string>
 			<key>word</key>
 			<string>willing</string>
 		</dict>
@@ -33020,7 +33020,7 @@
 			<key>mean</key>
 			<string>không sẵn lòng, miễn cưỡng</string>
 			<key>pronunciation</key>
-			<string>ʌn'wiliη</string>
+			<string>ʌn&apos;wiliη</string>
 			<key>word</key>
 			<string>unwilling</string>
 		</dict>
@@ -33030,7 +33030,7 @@
 			<key>mean</key>
 			<string>không sẵn lòng, miễn cưỡng</string>
 			<key>pronunciation</key>
-			<string>ʌn'wiliηgli</string>
+			<string>ʌn&apos;wiliηgli</string>
 			<key>word</key>
 			<string>unwillingly</string>
 		</dict>
@@ -33040,7 +33040,7 @@
 			<key>mean</key>
 			<string>sự bằng lòng, sự vui lòng </string>
 			<key>pronunciation</key>
-			<string>'wiliηnis</string>
+			<string>&apos;wiliηnis</string>
 			<key>word</key>
 			<string>willingness</string>
 		</dict>
@@ -33060,7 +33060,7 @@
 			<key>mean</key>
 			<string>đang dành thắng lợi, thắng cuộc</string>
 			<key>pronunciation</key>
-			<string>'winiη</string>
+			<string>&apos;winiη</string>
 			<key>word</key>
 			<string>winning</string>
 		</dict>
@@ -33190,7 +33190,7 @@
 			<key>mean</key>
 			<string>trong vong thời gian, trong khoảng thời gian</string>
 			<key>pronunciation</key>
-			<string>wið'in</string>
+			<string>wið&apos;in</string>
 			<key>word</key>
 			<string>within</string>
 		</dict>
@@ -33240,7 +33240,7 @@
 			<key>mean</key>
 			<string>phi thường, khác thường, kỳ diệu, tuyệt vời</string>
 			<key>pronunciation</key>
-			<string>'wʌndəful</string>
+			<string>&apos;wʌndəful</string>
 			<key>word</key>
 			<string>wonderful</string>
 		</dict>
@@ -33260,7 +33260,7 @@
 			<key>mean</key>
 			<string>làm bằng gỗ</string>
 			<key>pronunciation</key>
-			<string>'wudən</string>
+			<string>&apos;wudən</string>
 			<key>word</key>
 			<string>wooden</string>
 		</dict>
@@ -33300,7 +33300,7 @@
 			<key>mean</key>
 			<string>sự làm, sự làm việc</string>
 			<key>pronunciation</key>
-			<string>'wə:kiη</string>
+			<string>&apos;wə:kiη</string>
 			<key>word</key>
 			<string>working</string>
 		</dict>
@@ -33310,7 +33310,7 @@
 			<key>mean</key>
 			<string>người lao động</string>
 			<key>pronunciation</key>
-			<string>'wə:kə</string>
+			<string>&apos;wə:kə</string>
 			<key>word</key>
 			<string>worker</string>
 		</dict>
@@ -33330,7 +33330,7 @@
 			<key>mean</key>
 			<string>lo lắng, suy nghĩ, sự lo lắng, suy nghĩ</string>
 			<key>pronunciation</key>
-			<string>'wʌri</string>
+			<string>&apos;wʌri</string>
 			<key>word</key>
 			<string>worry</string>
 		</dict>
@@ -33340,7 +33340,7 @@
 			<key>mean</key>
 			<string>gấy lo lắng, gây lo nghĩ</string>
 			<key>pronunciation</key>
-			<string>'wʌriiη</string>
+			<string>&apos;wʌriiη</string>
 			<key>word</key>
 			<string>worrying</string>
 		</dict>
@@ -33350,7 +33350,7 @@
 			<key>mean</key>
 			<string>bồn chồn, lo nghĩ, tỏ ra lo lắng</string>
 			<key>pronunciation</key>
-			<string>'wʌrid</string>
+			<string>&apos;wʌrid</string>
 			<key>word</key>
 			<string>worried</string>
 		</dict>
@@ -33450,7 +33450,7 @@
 			<key>mean</key>
 			<string>sự viết</string>
 			<key>pronunciation</key>
-			<string>'raitiη</string>
+			<string>&apos;raitiη</string>
 			<key>word</key>
 			<string>writing</string>
 		</dict>
@@ -33490,7 +33490,7 @@
 			<key>mean</key>
 			<string>một cách bất công, không đúng</string>
 			<key>pronunciation</key>
-			<string>'rɔηgli</string>
+			<string>&apos;rɔηgli</string>
 			<key>word</key>
 			<string>wrongly</string>
 		</dict>
@@ -33540,7 +33540,7 @@
 			<key>mean</key>
 			<string>vàng, màu vàng</string>
 			<key>pronunciation</key>
-			<string>'jelou</string>
+			<string>&apos;jelou</string>
 			<key>word</key>
 			<string>yellow</string>
 		</dict>
@@ -33560,7 +33560,7 @@
 			<key>mean</key>
 			<string>hôm qua</string>
 			<key>pronunciation</key>
-			<string>'jestədei</string>
+			<string>&apos;jestədei</string>
 			<key>word</key>
 			<string>yesterday</string>
 		</dict>
@@ -33620,7 +33620,7 @@
 			<key>mean</key>
 			<string>tự anh, tự chị, chính anh, chính mày, tự mày, tự mình</string>
 			<key>pronunciation</key>
-			<string>jɔ:'self</string>
+			<string>jɔ:&apos;self</string>
 			<key>word</key>
 			<string>yourself</string>
 		</dict>
@@ -33640,7 +33640,7 @@
 			<key>mean</key>
 			<string>số không</string>
 			<key>pronunciation</key>
-			<string>'ziərou</string>
+			<string>&apos;ziərou</string>
 			<key>word</key>
 			<string>zero</string>
 		</dict>

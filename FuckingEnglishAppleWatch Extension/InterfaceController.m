@@ -11,6 +11,8 @@
 #import "DataManager.h"
 #import "VocabularyRow.h"
 #import <AVFoundation/AVFoundation.h>
+
+#define kDisableUI 1
 @interface InterfaceController ()
 @property (nonatomic, strong) NSArray<Vocabulary *> *vocabularies;
 @end
@@ -32,6 +34,10 @@
 }
 
 -(void) reloadTable {
+    if (kDisableUI) {
+        return;
+    }
+    
     self.vocabularies = [[DataManager shareInstanced] allVocabulary];
     [self.vocabularyTable setNumberOfRows:self.vocabularies.count withRowType:@"VocabularyRow"];
     for (int i = 0; i < self.vocabularies.count; i++) {

@@ -11,16 +11,9 @@
 @implementation ExtensionDelegate
 
 - (void)applicationDidFinishLaunching {
-    [DataManager shareInstanced];
-    [self sheduleTask];
-    // Perform any final initialization of your application.
+    
 }
 
--(void) sheduleTask {
-    [[WKExtension sharedExtension] scheduleBackgroundRefreshWithPreferredDate:[NSDate dateWithTimeIntervalSinceNow:30*60] userInfo:nil scheduledCompletion:^(NSError * _Nullable error) {
-        
-    }];
-}
 
 - (void)applicationDidBecomeActive {
     // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
@@ -29,14 +22,6 @@
 - (void)applicationWillResignActive {
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
     // Use this method to pause ongoing tasks, disable timers, etc.
-}
-
--(void) refresh {
-    NSLog(@"Force update");
-    CLKComplicationServer *server = [CLKComplicationServer sharedInstance];
-    for (CLKComplication *complication in server.activeComplications) {
-        [server reloadTimelineForComplication:complication];
-    }
 }
 
 - (void)handleBackgroundTasks:(NSSet<WKRefreshBackgroundTask *> *)backgroundTasks {
@@ -48,8 +33,6 @@
             // Be sure to complete the background task once you’re done.
             WKApplicationRefreshBackgroundTask *backgroundTask = (WKApplicationRefreshBackgroundTask*)task;
             [backgroundTask setTaskCompletedWithSnapshot:NO];
-            [self sheduleTask];
-            [self refresh];
         } else if ([task isKindOfClass:[WKSnapshotRefreshBackgroundTask class]]) {
             // Snapshot tasks have a unique completion call, make sure to set your expiration date
             WKSnapshotRefreshBackgroundTask *snapshotTask = (WKSnapshotRefreshBackgroundTask*)task;
