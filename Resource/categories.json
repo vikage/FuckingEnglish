@@ -1,0 +1,20 @@
+{
+	"categories":[
+		{
+			"name": "3k words",
+			"value": "words"
+		},
+		{
+			"name": "Hoa quả",
+			"value": "fruit"
+		},
+		{
+			"name": "Nghề nghiệp",
+			"value": "job"
+		},
+		{
+			"name": "Đồ ăn và dụng cụ",
+			"value": "food"
+		}
+	]
+}

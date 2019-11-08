@@ -23,17 +23,32 @@
 		04282D3C21919F3E00585781 /* ComplicationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04282D3B21919F3E00585781 /* ComplicationController.m */; };
 		04282D3E21919F3F00585781 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04282D3D21919F3F00585781 /* Assets.xcassets */; };
 		04282D4321919F3F00585781 /* FuckingEnglishAppleWatch.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 04282D2021919F3D00585781 /* FuckingEnglishAppleWatch.app */; };
-		0431CFAB2192845A00264F3C /* Vocabularies.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0431CFAA2192845A00264F3C /* Vocabularies.plist */; };
 		0431CFAE219286AD00264F3C /* Vocabulary.m in Sources */ = {isa = PBXBuildFile; fileRef = 0431CFAD219286AD00264F3C /* Vocabulary.m */; };
 		048756362193FD8200EC3C8B /* DataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0414BAA52192836E00D596A8 /* DataManager.m */; };
-		048756372193FD8200EC3C8B /* Vocabularies.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0431CFAA2192845A00264F3C /* Vocabularies.plist */; };
 		048756382193FD8200EC3C8B /* Vocabulary.m in Sources */ = {isa = PBXBuildFile; fileRef = 0431CFAD219286AD00264F3C /* Vocabulary.m */; };
 		0487563B2193FE5B00EC3C8B /* VocabularyCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0487563A2193FE5B00EC3C8B /* VocabularyCell.m */; };
 		04ED73A62193FF5C00046F62 /* DataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0414BAA52192836E00D596A8 /* DataManager.m */; };
 		04ED73A92194009A00046F62 /* Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 04ED73A82194009A00046F62 /* Utils.m */; };
 		04ED73AA2194009A00046F62 /* Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 04ED73A82194009A00046F62 /* Utils.m */; };
 		04ED73AD219401A100046F62 /* BaseNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04ED73AC219401A100046F62 /* BaseNavigationController.m */; };
-		04F099F42193C52E000D304B /* VocabularyRow.m in Sources */ = {isa = PBXBuildFile; fileRef = 0431CFE42192F91F00264F3C /* VocabularyRow.m */; };
+		2A1773E82373AEC3008E05E1 /* food.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E32373AEC3008E05E1 /* food.json */; };
+		2A1773E92373AEC3008E05E1 /* food.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E32373AEC3008E05E1 /* food.json */; };
+		2A1773EA2373AEC3008E05E1 /* food.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E32373AEC3008E05E1 /* food.json */; };
+		2A1773EB2373AEC3008E05E1 /* words.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E42373AEC3008E05E1 /* words.json */; };
+		2A1773EC2373AEC3008E05E1 /* words.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E42373AEC3008E05E1 /* words.json */; };
+		2A1773ED2373AEC3008E05E1 /* words.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E42373AEC3008E05E1 /* words.json */; };
+		2A1773EE2373AEC3008E05E1 /* categories.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E52373AEC3008E05E1 /* categories.json */; };
+		2A1773EF2373AEC3008E05E1 /* categories.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E52373AEC3008E05E1 /* categories.json */; };
+		2A1773F02373AEC3008E05E1 /* categories.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E52373AEC3008E05E1 /* categories.json */; };
+		2A1773F12373AEC3008E05E1 /* fruit.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E62373AEC3008E05E1 /* fruit.json */; };
+		2A1773F22373AEC3008E05E1 /* fruit.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E62373AEC3008E05E1 /* fruit.json */; };
+		2A1773F32373AEC3008E05E1 /* fruit.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E62373AEC3008E05E1 /* fruit.json */; };
+		2A1773F42373AEC3008E05E1 /* job.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E72373AEC3008E05E1 /* job.json */; };
+		2A1773F52373AEC3008E05E1 /* job.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E72373AEC3008E05E1 /* job.json */; };
+		2A1773F62373AEC3008E05E1 /* job.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E72373AEC3008E05E1 /* job.json */; };
+		2A1773FC2373F34B008E05E1 /* Category.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A1773FB2373F34B008E05E1 /* Category.m */; };
+		2A1773FD2373F34B008E05E1 /* Category.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A1773FB2373F34B008E05E1 /* Category.m */; };
+		2A1774022373F6B8008E05E1 /* CategoryRow.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A1773FF2373F419008E05E1 /* CategoryRow.m */; };
 		87D420988B54AF051456AB60 /* libPods-FuckingEnglishTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 808AF493329BCF4310056710 /* libPods-FuckingEnglishTests.a */; };
 		FD4FAD8FB20868A0F9F3140C /* libPods-FuckingEnglish.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 20CBE4771C7ADBA89C0C8DD2 /* libPods-FuckingEnglish.a */; };
 /* End PBXBuildFile section */
@@ -119,11 +134,8 @@
 		04282D3D21919F3F00585781 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04282D3F21919F3F00585781 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04282D4021919F3F00585781 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
-		0431CFAA2192845A00264F3C /* Vocabularies.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Vocabularies.plist; sourceTree = "<group>"; };
 		0431CFAC219286AD00264F3C /* Vocabulary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Vocabulary.h; sourceTree = "<group>"; };
 		0431CFAD219286AD00264F3C /* Vocabulary.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Vocabulary.m; sourceTree = "<group>"; };
-		0431CFE32192F91F00264F3C /* VocabularyRow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VocabularyRow.h; sourceTree = "<group>"; };
-		0431CFE42192F91F00264F3C /* VocabularyRow.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VocabularyRow.m; sourceTree = "<group>"; };
 		048756392193FE5B00EC3C8B /* VocabularyCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VocabularyCell.h; sourceTree = "<group>"; };
 		0487563A2193FE5B00EC3C8B /* VocabularyCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VocabularyCell.m; sourceTree = "<group>"; };
 		04ED73A72194009A00046F62 /* Utils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Utils.h; sourceTree = "<group>"; };
@@ -131,6 +143,18 @@
 		04ED73AB219401A100046F62 /* BaseNavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseNavigationController.h; sourceTree = "<group>"; };
 		04ED73AC219401A100046F62 /* BaseNavigationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaseNavigationController.m; sourceTree = "<group>"; };
 		20CBE4771C7ADBA89C0C8DD2 /* libPods-FuckingEnglish.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FuckingEnglish.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A1773E32373AEC3008E05E1 /* food.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = food.json; sourceTree = "<group>"; };
+		2A1773E42373AEC3008E05E1 /* words.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = words.json; sourceTree = "<group>"; };
+		2A1773E52373AEC3008E05E1 /* categories.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = categories.json; sourceTree = "<group>"; };
+		2A1773E62373AEC3008E05E1 /* fruit.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = fruit.json; sourceTree = "<group>"; };
+		2A1773E72373AEC3008E05E1 /* job.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = job.json; sourceTree = "<group>"; };
+		2A1773F72373B011008E05E1 /* FuckingEnglish.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FuckingEnglish.entitlements; sourceTree = "<group>"; };
+		2A1773F82373B031008E05E1 /* FuckingEnglishAppleWatch.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FuckingEnglishAppleWatch.entitlements; sourceTree = "<group>"; };
+		2A1773F92373B03B008E05E1 /* FuckingEnglishAppleWatch Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "FuckingEnglishAppleWatch Extension.entitlements"; sourceTree = "<group>"; };
+		2A1773FA2373F34B008E05E1 /* Category.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Category.h; sourceTree = "<group>"; };
+		2A1773FB2373F34B008E05E1 /* Category.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Category.m; sourceTree = "<group>"; };
+		2A1773FE2373F419008E05E1 /* CategoryRow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = CategoryRow.h; path = Assets.xcassets/CategoryRow.h; sourceTree = "<group>"; };
+		2A1773FF2373F419008E05E1 /* CategoryRow.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = CategoryRow.m; path = Assets.xcassets/CategoryRow.m; sourceTree = "<group>"; };
 		5CB4A395B1F9BE5CF888AB79 /* Pods-FuckingEnglish.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FuckingEnglish.release.xcconfig"; path = "Pods/Target Support Files/Pods-FuckingEnglish/Pods-FuckingEnglish.release.xcconfig"; sourceTree = "<group>"; };
 		808AF493329BCF4310056710 /* libPods-FuckingEnglishTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FuckingEnglishTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9970A9BD98466311F0F91C60 /* Pods-FuckingEnglish.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FuckingEnglish.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FuckingEnglish/Pods-FuckingEnglish.debug.xcconfig"; sourceTree = "<group>"; };
@@ -175,6 +199,7 @@
 		04282CEE21919E2D00585781 = {
 			isa = PBXGroup;
 			children = (
+				2A1773E22373AEA8008E05E1 /* Resource */,
 				048756352193FD6F00EC3C8B /* Common */,
 				04282CF921919E2D00585781 /* FuckingEnglish */,
 				04282D1221919E3000585781 /* FuckingEnglishTests */,
@@ -200,6 +225,7 @@
 		04282CF921919E2D00585781 /* FuckingEnglish */ = {
 			isa = PBXGroup;
 			children = (
+				2A1773F72373B011008E05E1 /* FuckingEnglish.entitlements */,
 				04282CFA21919E2D00585781 /* AppDelegate.h */,
 				04282CFB21919E2D00585781 /* AppDelegate.m */,
 				04282CFD21919E2D00585781 /* ViewController.h */,
@@ -229,11 +255,12 @@
 		04282D2121919F3D00585781 /* FuckingEnglishAppleWatch */ = {
 			isa = PBXGroup;
 			children = (
+				2A1773F82373B031008E05E1 /* FuckingEnglishAppleWatch.entitlements */,
 				04282D2221919F3D00585781 /* Interface.storyboard */,
 				04282D2521919F3E00585781 /* Assets.xcassets */,
 				04282D2721919F3E00585781 /* Info.plist */,
-				0431CFE32192F91F00264F3C /* VocabularyRow.h */,
-				0431CFE42192F91F00264F3C /* VocabularyRow.m */,
+				2A1773FE2373F419008E05E1 /* CategoryRow.h */,
+				2A1773FF2373F419008E05E1 /* CategoryRow.m */,
 			);
 			path = FuckingEnglishAppleWatch;
 			sourceTree = "<group>";
@@ -241,6 +268,7 @@
 		04282D3021919F3E00585781 /* FuckingEnglishAppleWatch Extension */ = {
 			isa = PBXGroup;
 			children = (
+				2A1773F92373B03B008E05E1 /* FuckingEnglishAppleWatch Extension.entitlements */,
 				04282D3121919F3E00585781 /* InterfaceController.h */,
 				04282D3221919F3E00585781 /* InterfaceController.m */,
 				04282D3421919F3E00585781 /* ExtensionDelegate.h */,
@@ -261,13 +289,26 @@
 			children = (
 				0414BAA42192836E00D596A8 /* DataManager.h */,
 				0414BAA52192836E00D596A8 /* DataManager.m */,
-				0431CFAA2192845A00264F3C /* Vocabularies.plist */,
 				0431CFAC219286AD00264F3C /* Vocabulary.h */,
 				0431CFAD219286AD00264F3C /* Vocabulary.m */,
 				04ED73A72194009A00046F62 /* Utils.h */,
 				04ED73A82194009A00046F62 /* Utils.m */,
+				2A1773FA2373F34B008E05E1 /* Category.h */,
+				2A1773FB2373F34B008E05E1 /* Category.m */,
 			);
 			path = Common;
+			sourceTree = "<group>";
+		};
+		2A1773E22373AEA8008E05E1 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				2A1773E52373AEC3008E05E1 /* categories.json */,
+				2A1773E32373AEC3008E05E1 /* food.json */,
+				2A1773E62373AEC3008E05E1 /* fruit.json */,
+				2A1773E72373AEC3008E05E1 /* job.json */,
+				2A1773E42373AEC3008E05E1 /* words.json */,
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 		9B1E18142979F35F2C26CF01 /* Pods */ = {
@@ -422,8 +463,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				048756372193FD8200EC3C8B /* Vocabularies.plist in Resources */,
+				2A1773EE2373AEC3008E05E1 /* categories.json in Resources */,
+				2A1773F42373AEC3008E05E1 /* job.json in Resources */,
 				04282D0721919E3000585781 /* LaunchScreen.storyboard in Resources */,
+				2A1773E82373AEC3008E05E1 /* food.json in Resources */,
+				2A1773F12373AEC3008E05E1 /* fruit.json in Resources */,
+				2A1773EB2373AEC3008E05E1 /* words.json in Resources */,
 				04282D0421919E3000585781 /* Assets.xcassets in Resources */,
 				04282D0221919E2D00585781 /* Main.storyboard in Resources */,
 			);
@@ -440,7 +485,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A1773E92373AEC3008E05E1 /* food.json in Resources */,
+				2A1773EC2373AEC3008E05E1 /* words.json in Resources */,
+				2A1773F22373AEC3008E05E1 /* fruit.json in Resources */,
 				04282D2621919F3E00585781 /* Assets.xcassets in Resources */,
+				2A1773F52373AEC3008E05E1 /* job.json in Resources */,
+				2A1773EF2373AEC3008E05E1 /* categories.json in Resources */,
 				04282D2421919F3D00585781 /* Interface.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -449,7 +499,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0431CFAB2192845A00264F3C /* Vocabularies.plist in Resources */,
+				2A1773EA2373AEC3008E05E1 /* food.json in Resources */,
+				2A1773ED2373AEC3008E05E1 /* words.json in Resources */,
+				2A1773F32373AEC3008E05E1 /* fruit.json in Resources */,
+				2A1773F62373AEC3008E05E1 /* job.json in Resources */,
+				2A1773F02373AEC3008E05E1 /* categories.json in Resources */,
 				04282D3E21919F3F00585781 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -509,6 +563,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04282CFF21919E2D00585781 /* ViewController.m in Sources */,
+				2A1773FC2373F34B008E05E1 /* Category.m in Sources */,
 				048756362193FD8200EC3C8B /* DataManager.m in Sources */,
 				04282D0A21919E3000585781 /* main.m in Sources */,
 				048756382193FD8200EC3C8B /* Vocabulary.m in Sources */,
@@ -532,13 +587,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				04282D3621919F3E00585781 /* ExtensionDelegate.m in Sources */,
+				2A1773FD2373F34B008E05E1 /* Category.m in Sources */,
 				0431CFAE219286AD00264F3C /* Vocabulary.m in Sources */,
 				04ED73A62193FF5C00046F62 /* DataManager.m in Sources */,
 				04ED73AA2194009A00046F62 /* Utils.m in Sources */,
 				04282D3C21919F3E00585781 /* ComplicationController.m in Sources */,
 				04282D3321919F3E00585781 /* InterfaceController.m in Sources */,
 				04282D3921919F3E00585781 /* NotificationController.m in Sources */,
-				04F099F42193C52E000D304B /* VocabularyRow.m in Sources */,
+				2A1774022373F6B8008E05E1 /* CategoryRow.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -707,6 +763,7 @@
 			baseConfigurationReference = 9970A9BD98466311F0F91C60 /* Pods-FuckingEnglish.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = FuckingEnglish/FuckingEnglish.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = FSZYJCFCJJ;
@@ -728,6 +785,7 @@
 			baseConfigurationReference = 5CB4A395B1F9BE5CF888AB79 /* Pods-FuckingEnglish.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = FuckingEnglish/FuckingEnglish.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = FSZYJCFCJJ;
@@ -786,6 +844,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = FuckingEnglishAppleWatch/FuckingEnglishAppleWatch.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = FSZYJCFCJJ;
 				IBSC_MODULE = FuckingEnglishAppleWatch_Extension;
@@ -803,6 +862,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = FuckingEnglishAppleWatch/FuckingEnglishAppleWatch.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = FSZYJCFCJJ;
 				IBSC_MODULE = FuckingEnglishAppleWatch_Extension;
@@ -820,6 +880,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				CODE_SIGN_ENTITLEMENTS = "FuckingEnglishAppleWatch Extension/FuckingEnglishAppleWatch Extension.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = FSZYJCFCJJ;
@@ -843,6 +904,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				CODE_SIGN_ENTITLEMENTS = "FuckingEnglishAppleWatch Extension/FuckingEnglishAppleWatch Extension.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = FSZYJCFCJJ;

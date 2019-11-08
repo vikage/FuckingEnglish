@@ -6,14 +6,17 @@
 //  Copyright © 2018 fuxsociety. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
-#import "Vocabulary.h"
+#import "Category.h"
 #import "Utils.h"
+#import "Vocabulary.h"
+#import <Foundation/Foundation.h>
 
 @interface DataManager : NSObject
-+(instancetype) shareInstanced;
++ (instancetype)shareInstanced;
 
--(Vocabulary *) getAnyVocabulary;
--(NSArray<Vocabulary *> *) allVocabulary;
+- (Vocabulary*)getAnyVocabulary;
+- (NSArray<Vocabulary*>*)allVocabulary;
+- (NSArray<Category*>*)categories;
+- (NSString*)getSelectedCategoryValue;
+- (void)setSelectedCategoryValue:(NSString*)value;
 @end
-
