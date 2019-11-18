@@ -2,4 +2,6 @@ FuckingEnglish.xcworkspace/xcuserdata/
 FuckingEnglish.xcodeproj/xcuserdata/
 Pods/
 *.DS_Store
-
+*.ipa
+*.zip
+fastlane/report.xml
