@@ -15,6 +15,26 @@
 		{
 			"name": "Đồ ăn và dụng cụ",
 			"value": "food"
-		}
+		},
+    {
+      "name": "Động vật",
+      "value": "animals"
+    },
+    {
+      "name": "Cơ thể",
+      "value": "body"
+    },
+    {
+      "name": "Gia đình",
+      "value": "family"
+    },
+    {
+      "name": "Sở thích",
+      "value": "hobbies"
+    },
+    {
+      "name": "Động từ",
+      "value": "verb"
+    }
 	]
 }

@@ -49,6 +49,21 @@
 		2A1773FC2373F34B008E05E1 /* Category.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A1773FB2373F34B008E05E1 /* Category.m */; };
 		2A1773FD2373F34B008E05E1 /* Category.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A1773FB2373F34B008E05E1 /* Category.m */; };
 		2A1774022373F6B8008E05E1 /* CategoryRow.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A1773FF2373F419008E05E1 /* CategoryRow.m */; };
+		2A94828B23828AA100680215 /* hobbies.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828623828AA000680215 /* hobbies.json */; };
+		2A94828C23828AA100680215 /* verb.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828723828AA000680215 /* verb.json */; };
+		2A94828D23828AA100680215 /* animals.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828823828AA000680215 /* animals.json */; };
+		2A94828E23828AA100680215 /* family.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828923828AA000680215 /* family.json */; };
+		2A94828F23828AA100680215 /* body.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828A23828AA100680215 /* body.json */; };
+		2A94829023828B7400680215 /* animals.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828823828AA000680215 /* animals.json */; };
+		2A94829123828B7400680215 /* body.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828A23828AA100680215 /* body.json */; };
+		2A94829223828B7400680215 /* family.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828923828AA000680215 /* family.json */; };
+		2A94829323828B7400680215 /* hobbies.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828623828AA000680215 /* hobbies.json */; };
+		2A94829423828B7400680215 /* verb.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828723828AA000680215 /* verb.json */; };
+		2A94829523828B8F00680215 /* animals.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828823828AA000680215 /* animals.json */; };
+		2A94829623828B9500680215 /* body.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828A23828AA100680215 /* body.json */; };
+		2A94829723828B9500680215 /* family.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828923828AA000680215 /* family.json */; };
+		2A94829823828B9500680215 /* hobbies.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828623828AA000680215 /* hobbies.json */; };
+		2A94829923828B9500680215 /* verb.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828723828AA000680215 /* verb.json */; };
 		87D420988B54AF051456AB60 /* libPods-FuckingEnglishTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 808AF493329BCF4310056710 /* libPods-FuckingEnglishTests.a */; };
 		FD4FAD8FB20868A0F9F3140C /* libPods-FuckingEnglish.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 20CBE4771C7ADBA89C0C8DD2 /* libPods-FuckingEnglish.a */; };
 /* End PBXBuildFile section */
@@ -155,6 +170,11 @@
 		2A1773FB2373F34B008E05E1 /* Category.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Category.m; sourceTree = "<group>"; };
 		2A1773FE2373F419008E05E1 /* CategoryRow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = CategoryRow.h; path = Assets.xcassets/CategoryRow.h; sourceTree = "<group>"; };
 		2A1773FF2373F419008E05E1 /* CategoryRow.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = CategoryRow.m; path = Assets.xcassets/CategoryRow.m; sourceTree = "<group>"; };
+		2A94828623828AA000680215 /* hobbies.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hobbies.json; sourceTree = "<group>"; };
+		2A94828723828AA000680215 /* verb.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = verb.json; sourceTree = "<group>"; };
+		2A94828823828AA000680215 /* animals.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = animals.json; sourceTree = "<group>"; };
+		2A94828923828AA000680215 /* family.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = family.json; sourceTree = "<group>"; };
+		2A94828A23828AA100680215 /* body.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = body.json; sourceTree = "<group>"; };
 		5CB4A395B1F9BE5CF888AB79 /* Pods-FuckingEnglish.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FuckingEnglish.release.xcconfig"; path = "Pods/Target Support Files/Pods-FuckingEnglish/Pods-FuckingEnglish.release.xcconfig"; sourceTree = "<group>"; };
 		808AF493329BCF4310056710 /* libPods-FuckingEnglishTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FuckingEnglishTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9970A9BD98466311F0F91C60 /* Pods-FuckingEnglish.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FuckingEnglish.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FuckingEnglish/Pods-FuckingEnglish.debug.xcconfig"; sourceTree = "<group>"; };
@@ -307,6 +327,11 @@
 				2A1773E62373AEC3008E05E1 /* fruit.json */,
 				2A1773E72373AEC3008E05E1 /* job.json */,
 				2A1773E42373AEC3008E05E1 /* words.json */,
+				2A94828823828AA000680215 /* animals.json */,
+				2A94828A23828AA100680215 /* body.json */,
+				2A94828923828AA000680215 /* family.json */,
+				2A94828623828AA000680215 /* hobbies.json */,
+				2A94828723828AA000680215 /* verb.json */,
 			);
 			path = Resource;
 			sourceTree = "<group>";
@@ -468,7 +493,12 @@
 				04282D0721919E3000585781 /* LaunchScreen.storyboard in Resources */,
 				2A1773E82373AEC3008E05E1 /* food.json in Resources */,
 				2A1773F12373AEC3008E05E1 /* fruit.json in Resources */,
+				2A94828B23828AA100680215 /* hobbies.json in Resources */,
+				2A94828F23828AA100680215 /* body.json in Resources */,
+				2A94828D23828AA100680215 /* animals.json in Resources */,
+				2A94828C23828AA100680215 /* verb.json in Resources */,
 				2A1773EB2373AEC3008E05E1 /* words.json in Resources */,
+				2A94828E23828AA100680215 /* family.json in Resources */,
 				04282D0421919E3000585781 /* Assets.xcassets in Resources */,
 				04282D0221919E2D00585781 /* Main.storyboard in Resources */,
 			);
@@ -485,13 +515,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A94829323828B7400680215 /* hobbies.json in Resources */,
 				2A1773E92373AEC3008E05E1 /* food.json in Resources */,
+				2A94829023828B7400680215 /* animals.json in Resources */,
+				2A94829123828B7400680215 /* body.json in Resources */,
+				2A94829423828B7400680215 /* verb.json in Resources */,
 				2A1773EC2373AEC3008E05E1 /* words.json in Resources */,
 				2A1773F22373AEC3008E05E1 /* fruit.json in Resources */,
 				04282D2621919F3E00585781 /* Assets.xcassets in Resources */,
 				2A1773F52373AEC3008E05E1 /* job.json in Resources */,
 				2A1773EF2373AEC3008E05E1 /* categories.json in Resources */,
 				04282D2421919F3D00585781 /* Interface.storyboard in Resources */,
+				2A94829223828B7400680215 /* family.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -499,12 +534,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A94829523828B8F00680215 /* animals.json in Resources */,
 				2A1773EA2373AEC3008E05E1 /* food.json in Resources */,
+				2A94829823828B9500680215 /* hobbies.json in Resources */,
 				2A1773ED2373AEC3008E05E1 /* words.json in Resources */,
+				2A94829723828B9500680215 /* family.json in Resources */,
 				2A1773F32373AEC3008E05E1 /* fruit.json in Resources */,
 				2A1773F62373AEC3008E05E1 /* job.json in Resources */,
 				2A1773F02373AEC3008E05E1 /* categories.json in Resources */,
+				2A94829923828B9500680215 /* verb.json in Resources */,
 				04282D3E21919F3F00585781 /* Assets.xcassets in Resources */,
+				2A94829623828B9500680215 /* body.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

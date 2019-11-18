@@ -1,0 +1,26 @@
+{
+	"words": [
+		{"word":"hobby","pronunciation":"/ˈhɑː.bi/","mean":"sở thích","category":"n"},
+		{"word":"watch TV","pronunciation":"/wɑːtʃ/","mean":"xem tivi","category":"v"},
+		{"word":"listen to music","pronunciation":"/ˈlɪs.ən tə ˈmjuː.zɪk/","mean":"nghe nhạc","category":"v"},
+		{"word":"read books","pronunciation":"/ri:d bʊks/","mean":"đọc sách","category":"v"},
+		{"word":"hang out with friends","pronunciation":"/hæŋ/","mean":"đi chơi với bạn","category":"v"},
+		{"word":"go to the pub","pronunciation":"/pʌb/","mean":"đi đến quán bia/ rượu nhỏ","category":"v"},
+		{"word":"travel","pronunciation":"/ˈtræv.əl/","mean":"đi du lịch","category":"v"},
+		{"word":"play sports","pronunciation":"","mean":"chơi thể thao","category":"v"},
+		{"word":"go for a walk","pronunciation":"/wɑːk/","mean":"đi dạo","category":"v"},
+		{"word":"go for a troll","pronunciation":"/troʊl/","mean":"đi dạo","category":"v"},
+		{"word":"gardening","pronunciation":"/ˈɡɑːr.dən/","mean":"làm vườn","category":"n"},
+		{"word":"go shopping","pronunciation":"/ˈʃɑː.pɪŋ/","mean":"đi mua sắm","category":"v"},
+		{"word":"go partying","pronunciation":"/ˈpɑːr.t̬iɪŋ/","mean":"đi dự tiệc","category":"v"},
+		{"word":"surf net","pronunciation":"/sɝːf/","mean":"lướt net","category":"v"},
+		{"word":"take photographs","pronunciation":"/teɪk ˈfəʊ.tə.ɡrɑːf/","mean":"chụp ảnh, nhiếp ảnh","category":"v"},
+		{"word":"go swimming","pronunciation":"/swɪmmɪŋ/","mean":"đi bơi","category":"v"},
+		{"word":"mountaineering","pronunciation":"/ˌmaʊn.tənˈɪr.ɪŋ/","mean":"leo núi","category":"n"},
+		{"word":"jogging","pronunciation":"/ˈdʒɑː.ɡɪŋ/","mean":"chạy bộ","category":"n"},
+		{"word":"go to gym","pronunciation":"/dʒɪm/","mean":"tập thể hình","category":"v"},
+		{"word":"sing","pronunciation":"/sɪŋ/","mean":"hát","category":"v"},
+		{"word":"dance","pronunciation":"/dæns/","mean":"nhảy","category":"v"},
+		{"word":"sleep","pronunciation":"/sli:p/","mean":"ngủ","category":"v"}
+	]
+}
