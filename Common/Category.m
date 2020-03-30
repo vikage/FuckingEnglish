@@ -18,4 +18,8 @@
     }
     return self;
 }
+
+- (BOOL)isEqual:(Category *)object {
+    return [self.value isEqualToString:object.value];
+}
 @end

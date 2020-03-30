@@ -9,12 +9,15 @@
 #import "DataManager.h"
 #define kSelectedCategoryKey @"kSelectedCategoryKey"
 #define kDefaultCategory @"words"
+NSNotificationName const SelectedCategoryDidChangeNotification = @"SelectedCategoryDidChangeNotification";
+
 @interface DataManager()
 @property (nonatomic, strong) NSArray *vocaburies;
 @end
 @implementation DataManager
 {
     NSString* currentCategory;
+    Category* _selectedCategory;
 }
 
 +(instancetype) shareInstanced
@@ -35,14 +38,42 @@
     return self;
 }
 
-- (void)reloadDataFromCategory:(NSString*)category
+- (void)reloadDataFromCategory:(Category*)category
 {
-    if (!category) {
-        category = kDefaultCategory;
-    }
+    self.vocaburies = [self getVocabularyInCategory:category];
+}
 
-    currentCategory = category;
-    NSString* filePath = [[NSBundle mainBundle] pathForResource:category ofType:@"json"];
+- (void)reloadSelectedCategoryIfNeed
+{
+    Category *selectedCategory = [DataManager.shareInstanced selectedCategory];
+    if (![currentCategory isEqualToString:selectedCategory.value]) {
+        [self reloadDataFromCategory:selectedCategory];
+    }
+}
+
+- (void)loadData
+{
+    Category *selectedCategory = [DataManager.shareInstanced selectedCategory];
+    [self reloadDataFromCategory:selectedCategory];
+}
+
+-(Vocabulary *)getAnyVocabulary
+{
+    [self reloadSelectedCategoryIfNeed];
+    int randomNumber = arc4random();
+    int index = randomNumber%self.vocaburies.count;
+    
+    return [self.vocaburies objectAtIndex:index];
+}
+
+-(NSArray<Vocabulary *> *)allVocabularyInSelectedCategory
+{
+    [self reloadSelectedCategoryIfNeed];
+    return self.vocaburies;
+}
+
+- (NSArray<Vocabulary *> *)getVocabularyInCategory:(Category *)category {
+    NSString* filePath = [[NSBundle mainBundle] pathForResource:category.value ofType:@"json"];
     NSData* data = [[NSData alloc] initWithContentsOfFile:filePath];
     NSDictionary* json = [NSJSONSerialization JSONObjectWithData:data options:0 error:nil];
     NSArray* wordsDict = [json objectForKey:@"words"];
@@ -62,36 +93,7 @@
         [vocabularies addObject:obj];
     }
     
-    self.vocaburies = vocabularies;
-}
-
-- (void)reloadSelectedCategoryIfNeed
-{
-    NSString* selectedCategory = [self getSelectedCategoryValue];
-    if (![currentCategory isEqualToString:selectedCategory]) {
-        [self reloadDataFromCategory:selectedCategory];
-    }
-}
-
-- (void)loadData
-{
-    NSString* selectedCategory = [[NSUserDefaults standardUserDefaults] objectForKey:kSelectedCategoryKey];
-    [self reloadDataFromCategory:selectedCategory];
-}
-
--(Vocabulary *)getAnyVocabulary
-{
-    [self reloadSelectedCategoryIfNeed];
-    int randomNumber = arc4random();
-    int index = randomNumber%self.vocaburies.count;
-    
-    return [self.vocaburies objectAtIndex:index];
-}
-
--(NSArray<Vocabulary *> *)allVocabulary
-{
-    [self reloadSelectedCategoryIfNeed];
-    return self.vocaburies;
+    return vocabularies;
 }
 
 - (NSArray<Category*>*)categories
@@ -110,17 +112,34 @@
     return categories;
 }
 
-- (NSString*)getSelectedCategoryValue
+- (void)setSelectedCategory:(Category *)category
 {
-    NSUserDefaults* userDefault = [[NSUserDefaults alloc] initWithSuiteName:@"group.fuckingEnglish"];
-    NSString* selected = [userDefault objectForKey:kSelectedCategoryKey];
-    return selected ? selected : kDefaultCategory;
+    NSUserDefaults* userDefault = [NSUserDefaults standardUserDefaults];
+    [userDefault setObject:category.value forKey:kSelectedCategoryKey];
+    [userDefault synchronize];
+    
+    _selectedCategory = category;
+    
+    [NSNotificationCenter.defaultCenter postNotificationName:SelectedCategoryDidChangeNotification object:nil];
 }
 
-- (void)setSelectedCategoryValue:(NSString*)value
-{
-    NSUserDefaults* userDefault = [[NSUserDefaults alloc] initWithSuiteName:@"group.fuckingEnglish"];
-    [userDefault setObject:value forKey:kSelectedCategoryKey];
-    [userDefault synchronize];
+- (Category *)selectedCategory {
+    NSUserDefaults* userDefault = [NSUserDefaults standardUserDefaults];
+    NSString* selectedCategoryValue = [userDefault objectForKey:kSelectedCategoryKey];
+    
+    if (!selectedCategoryValue)
+    {
+        selectedCategoryValue = kDefaultCategory;
+    }
+
+    for (Category *category in self.categories)
+    {
+        if ([category.value isEqualToString:selectedCategoryValue])
+        {
+            return category;
+        }
+    }
+    
+    return nil;
 }
 @end

@@ -8,13 +8,14 @@
 
 #import "CategoryRow.h"
 #import "DataManager.h"
+
 @implementation CategoryRow
 - (void)bindData:(Category*)category
 {
     [self.categoryNameLabel setText:category.name];
 
-    NSString* selectedCategoryValue = [[DataManager shareInstanced] getSelectedCategoryValue];
-    if ([selectedCategoryValue isEqualToString:category.value]) {
+    Category *selectedCategory = [DataManager.shareInstanced selectedCategory];
+    if ([selectedCategory.value isEqualToString:category.value]) {
         [self.contentContainer setBackgroundColor:[UIColor lightGrayColor]];
     } else {
         [self.contentContainer setBackgroundColor:[UIColor clearColor]];

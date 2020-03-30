@@ -31,6 +31,10 @@
 		04ED73A92194009A00046F62 /* Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 04ED73A82194009A00046F62 /* Utils.m */; };
 		04ED73AA2194009A00046F62 /* Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 04ED73A82194009A00046F62 /* Utils.m */; };
 		04ED73AD219401A100046F62 /* BaseNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04ED73AC219401A100046F62 /* BaseNavigationController.m */; };
+		2A0A34D02431E6AE000DA484 /* CategoriesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0A34CE2431E6AE000DA484 /* CategoriesViewController.m */; };
+		2A0A34D12431E6AE000DA484 /* CategoriesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2A0A34CF2431E6AE000DA484 /* CategoriesViewController.xib */; };
+		2A0A34DA2431E748000DA484 /* CategoryCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0A34D82431E748000DA484 /* CategoryCell.m */; };
+		2A0A34DB2431E748000DA484 /* CategoryCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2A0A34D92431E748000DA484 /* CategoryCell.xib */; };
 		2A1773E82373AEC3008E05E1 /* food.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E32373AEC3008E05E1 /* food.json */; };
 		2A1773E92373AEC3008E05E1 /* food.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E32373AEC3008E05E1 /* food.json */; };
 		2A1773EA2373AEC3008E05E1 /* food.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A1773E32373AEC3008E05E1 /* food.json */; };
@@ -158,6 +162,12 @@
 		04ED73AB219401A100046F62 /* BaseNavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseNavigationController.h; sourceTree = "<group>"; };
 		04ED73AC219401A100046F62 /* BaseNavigationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaseNavigationController.m; sourceTree = "<group>"; };
 		20CBE4771C7ADBA89C0C8DD2 /* libPods-FuckingEnglish.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FuckingEnglish.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A0A34CD2431E6AE000DA484 /* CategoriesViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CategoriesViewController.h; sourceTree = "<group>"; };
+		2A0A34CE2431E6AE000DA484 /* CategoriesViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CategoriesViewController.m; sourceTree = "<group>"; };
+		2A0A34CF2431E6AE000DA484 /* CategoriesViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CategoriesViewController.xib; sourceTree = "<group>"; };
+		2A0A34D72431E748000DA484 /* CategoryCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CategoryCell.h; sourceTree = "<group>"; };
+		2A0A34D82431E748000DA484 /* CategoryCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CategoryCell.m; sourceTree = "<group>"; };
+		2A0A34D92431E748000DA484 /* CategoryCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CategoryCell.xib; sourceTree = "<group>"; };
 		2A1773E32373AEC3008E05E1 /* food.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = food.json; sourceTree = "<group>"; };
 		2A1773E42373AEC3008E05E1 /* words.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = words.json; sourceTree = "<group>"; };
 		2A1773E52373AEC3008E05E1 /* categories.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = categories.json; sourceTree = "<group>"; };
@@ -245,20 +255,16 @@
 		04282CF921919E2D00585781 /* FuckingEnglish */ = {
 			isa = PBXGroup;
 			children = (
-				2A1773F72373B011008E05E1 /* FuckingEnglish.entitlements */,
+				2A0A34D52431E708000DA484 /* Controller */,
+				2A0A34D42431E705000DA484 /* View */,
+				2A0A34D32431E702000DA484 /* Model */,
 				04282CFA21919E2D00585781 /* AppDelegate.h */,
 				04282CFB21919E2D00585781 /* AppDelegate.m */,
-				04282CFD21919E2D00585781 /* ViewController.h */,
-				04282CFE21919E2D00585781 /* ViewController.m */,
-				04282D0021919E2D00585781 /* Main.storyboard */,
 				04282D0321919E3000585781 /* Assets.xcassets */,
-				04282D0521919E3000585781 /* LaunchScreen.storyboard */,
+				2A1773F72373B011008E05E1 /* FuckingEnglish.entitlements */,
 				04282D0821919E3000585781 /* Info.plist */,
+				04282D0521919E3000585781 /* LaunchScreen.storyboard */,
 				04282D0921919E3000585781 /* main.m */,
-				048756392193FE5B00EC3C8B /* VocabularyCell.h */,
-				0487563A2193FE5B00EC3C8B /* VocabularyCell.m */,
-				04ED73AB219401A100046F62 /* BaseNavigationController.h */,
-				04ED73AC219401A100046F62 /* BaseNavigationController.m */,
 			);
 			path = FuckingEnglish;
 			sourceTree = "<group>";
@@ -317,6 +323,56 @@
 				2A1773FB2373F34B008E05E1 /* Category.m */,
 			);
 			path = Common;
+			sourceTree = "<group>";
+		};
+		2A0A34D22431E6F2000DA484 /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				2A0A34CD2431E6AE000DA484 /* CategoriesViewController.h */,
+				2A0A34CE2431E6AE000DA484 /* CategoriesViewController.m */,
+				2A0A34CF2431E6AE000DA484 /* CategoriesViewController.xib */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		2A0A34D32431E702000DA484 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		2A0A34D42431E705000DA484 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				2A0A34D62431E726000DA484 /* Cell */,
+				04282D0021919E2D00585781 /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		2A0A34D52431E708000DA484 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				04ED73AB219401A100046F62 /* BaseNavigationController.h */,
+				04ED73AC219401A100046F62 /* BaseNavigationController.m */,
+				04282CFD21919E2D00585781 /* ViewController.h */,
+				04282CFE21919E2D00585781 /* ViewController.m */,
+				2A0A34D22431E6F2000DA484 /* Category */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		2A0A34D62431E726000DA484 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				048756392193FE5B00EC3C8B /* VocabularyCell.h */,
+				0487563A2193FE5B00EC3C8B /* VocabularyCell.m */,
+				2A0A34D72431E748000DA484 /* CategoryCell.h */,
+				2A0A34D82431E748000DA484 /* CategoryCell.m */,
+				2A0A34D92431E748000DA484 /* CategoryCell.xib */,
+			);
+			path = Cell;
 			sourceTree = "<group>";
 		};
 		2A1773E22373AEA8008E05E1 /* Resource */ = {
@@ -490,6 +546,7 @@
 			files = (
 				2A1773EE2373AEC3008E05E1 /* categories.json in Resources */,
 				2A1773F42373AEC3008E05E1 /* job.json in Resources */,
+				2A0A34D12431E6AE000DA484 /* CategoriesViewController.xib in Resources */,
 				04282D0721919E3000585781 /* LaunchScreen.storyboard in Resources */,
 				2A1773E82373AEC3008E05E1 /* food.json in Resources */,
 				2A1773F12373AEC3008E05E1 /* fruit.json in Resources */,
@@ -497,6 +554,7 @@
 				2A94828F23828AA100680215 /* body.json in Resources */,
 				2A94828D23828AA100680215 /* animals.json in Resources */,
 				2A94828C23828AA100680215 /* verb.json in Resources */,
+				2A0A34DB2431E748000DA484 /* CategoryCell.xib in Resources */,
 				2A1773EB2373AEC3008E05E1 /* words.json in Resources */,
 				2A94828E23828AA100680215 /* family.json in Resources */,
 				04282D0421919E3000585781 /* Assets.xcassets in Resources */,
@@ -609,7 +667,9 @@
 				048756382193FD8200EC3C8B /* Vocabulary.m in Sources */,
 				04ED73AD219401A100046F62 /* BaseNavigationController.m in Sources */,
 				04282CFC21919E2D00585781 /* AppDelegate.m in Sources */,
+				2A0A34DA2431E748000DA484 /* CategoryCell.m in Sources */,
 				04ED73A92194009A00046F62 /* Utils.m in Sources */,
+				2A0A34D02431E6AE000DA484 /* CategoriesViewController.m in Sources */,
 				0487563B2193FE5B00EC3C8B /* VocabularyCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

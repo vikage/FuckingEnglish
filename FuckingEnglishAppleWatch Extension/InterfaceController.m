@@ -47,7 +47,7 @@
 - (void)table:(WKInterfaceTable*)table didSelectRowAtIndex:(NSInteger)rowIndex
 {
     Category* selectedCategory = [self.categories objectAtIndex:rowIndex];
-    [[DataManager shareInstanced] setSelectedCategoryValue:selectedCategory.value];
+    [DataManager.shareInstanced setSelectedCategory:selectedCategory];
     [self reloadTable];
     [self reloadComplication];
 }

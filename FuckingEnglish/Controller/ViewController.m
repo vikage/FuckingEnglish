@@ -10,13 +10,17 @@
 #import "DataManager.h"
 #import "VocabularyCell.h"
 #import <AVFoundation/AVFoundation.h>
+#import "CategoriesViewController.h"
 @interface ViewController ()<UITableViewDataSource, UITableViewDelegate, UISearchBarDelegate>
 @property (nonatomic, strong) NSArray *vocabularies;
 @property (nonatomic, strong) NSDictionary *vocabularyDataDict;
 @property (nonatomic, strong) NSDictionary *vocabularySearchData;
+@property (nonatomic, strong) Category *currentCategory;
 @end
 
-@implementation ViewController
+@implementation ViewController {
+    UIBarButtonItem *selectCategoryButton;
+}
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -24,13 +28,19 @@
     [self config];
 }
 
--(void) config {
-    self.vocabularies = [[[DataManager shareInstanced] allVocabulary] sortedArrayUsingComparator:^NSComparisonResult(Vocabulary *  _Nonnull obj1, Vocabulary *  _Nonnull obj2) {
+- (void)loadData {
+    self.currentCategory = [DataManager.shareInstanced selectedCategory];
+    self.vocabularies = [[[DataManager shareInstanced] getVocabularyInCategory:self.currentCategory] sortedArrayUsingComparator:^NSComparisonResult(Vocabulary *  _Nonnull obj1, Vocabulary *  _Nonnull obj2) {
         return [obj1.word compare:obj2.word];
     }];
     
     self.vocabularyDataDict = [self buildDataWithSource:self.vocabularies];
+    [self.vocabularyTableView reloadData];
     
+    [selectCategoryButton setTitle:self.currentCategory.name];
+}
+
+-(void) config {
     self.vocabularyTableView.rowHeight = UITableViewAutomaticDimension;
     self.vocabularyTableView.estimatedRowHeight = 60;
     self.vocabularyTableView.dataSource = self;
@@ -40,6 +50,13 @@
     
     self.searchBar.delegate = self;
     self.searchBar.autocapitalizationType = UITextAutocorrectionTypeNo;
+    
+    selectCategoryButton = [[UIBarButtonItem alloc] initWithTitle:self.currentCategory.name style:UIBarButtonItemStylePlain target:self action:@selector(categoryBarButtonDidTap:)];
+    selectCategoryButton.tintColor = UIColor.whiteColor;
+    self.navigationItem.rightBarButtonItem = selectCategoryButton;
+    
+    [self registerNotifications];
+    [self loadData];
 }
 
 -(NSDictionary *) buildDataWithSource:(NSArray *)vocabularies {
@@ -64,6 +81,23 @@
 {
     return UIStatusBarStyleLightContent;
 }
+
+// MARK: - Notifications
+- (void)registerNotifications {
+    [NSNotificationCenter.defaultCenter addObserver:self selector:@selector(categoryDidChangeNotification:) name:SelectedCategoryDidChangeNotification object:nil];
+}
+
+- (void)categoryDidChangeNotification:(NSNotification *)notification {
+    [self loadData];
+}
+
+// MARK: - Action
+- (void)categoryBarButtonDidTap:(UIBarButtonItem *)sender {
+    CategoriesViewController *vc = [[CategoriesViewController alloc] init];
+    UINavigationController *navigationController = [[UINavigationController alloc] initWithRootViewController:vc];
+    [self presentViewController:navigationController animated:YES completion:nil];
+}
+
 #pragma mark - UITableViewDatasource, UITableViewDelegate
 -(NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
 {

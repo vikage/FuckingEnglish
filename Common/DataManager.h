@@ -11,12 +11,15 @@
 #import "Vocabulary.h"
 #import <Foundation/Foundation.h>
 
+extern NSNotificationName const SelectedCategoryDidChangeNotification;
+
 @interface DataManager : NSObject
 + (instancetype)shareInstanced;
 
 - (Vocabulary*)getAnyVocabulary;
-- (NSArray<Vocabulary*>*)allVocabulary;
+- (NSArray<Vocabulary*>*)allVocabularyInSelectedCategory;
+- (NSArray<Vocabulary*>*)getVocabularyInCategory:(Category *)category;
 - (NSArray<Category*>*)categories;
-- (NSString*)getSelectedCategoryValue;
-- (void)setSelectedCategoryValue:(NSString*)value;
+- (void)setSelectedCategory:(Category *)category;
+- (Category *)selectedCategory;
 @end
