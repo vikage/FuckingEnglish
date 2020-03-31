@@ -8,13 +8,16 @@
 
 #import "PracticeViewController.h"
 #import "AnswerFieldView.h"
+#import <AVFoundation/AVFoundation.h>
 @interface PracticeViewController ()<AnswerFieldViewDelegate>
 @property (nonatomic, strong) Vocabulary *currentWord;
 @property (nonatomic) NSInteger currentWordIndex;
 @property (nonatomic) NSInteger correctCount;
 @end
 
-@implementation PracticeViewController
+@implementation PracticeViewController {
+    AVAudioPlayer *player;
+}
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -93,6 +96,7 @@
         [field markAsCorrect];
         [generator notificationOccurred:UINotificationFeedbackTypeSuccess];
         self.correctCount ++;
+        [self playSound:@"Right Answer"];
     } else {
         for (AnswerFieldView *field in self.answerFields)
         {
@@ -105,7 +109,12 @@
         [field markAsWrong];
         [field shake];
         [generator notificationOccurred:UINotificationFeedbackTypeError];
+        [self playSound:@"Wrong Answer"];
     }
+    
+    dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(0.25 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
+        [field.word.word normalSpeech];
+    });
     
     if (self.autoNextSwitch.isOn)
     {
@@ -113,6 +122,17 @@
     } else {
         self.nextButton.hidden = NO;
     }
+}
+
+- (void)playSound:(NSString *)name {
+    [[AVAudioSession sharedInstance] setActive:YES error:nil];
+    [[AVAudioSession sharedInstance] setCategory:AVAudioSessionCategorySoloAmbient error:nil];
+    
+    NSURL *url = [[NSBundle mainBundle] URLForResource:name withExtension:@"mp3"];
+    player = [[AVAudioPlayer alloc] initWithContentsOfURL:url fileTypeHint:AVFileTypeMPEGLayer3 error:nil];
+    player.volume = 0.2;
+    [player prepareToPlay];
+    [player play];
 }
 
 

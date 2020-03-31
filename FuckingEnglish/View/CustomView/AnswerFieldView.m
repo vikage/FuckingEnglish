@@ -27,7 +27,7 @@
     
     if (CGRectContainsPoint(self.bounds, location))
     {
-        [self.word.word normalSpeech];
+//        [self.word.word normalSpeech];
         [self.delegate answerFieldDidSelect:self];
     }
     

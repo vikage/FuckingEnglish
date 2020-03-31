@@ -39,6 +39,8 @@
 		2A0772D52431FF3C00C6C3A4 /* AnswerFieldView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0772D42431FF3C00C6C3A4 /* AnswerFieldView.m */; };
 		2A0772D92432064F00C6C3A4 /* NSArray+Util.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0772D82432064F00C6C3A4 /* NSArray+Util.m */; };
 		2A0772DD2432D73600C6C3A4 /* NSString+Speak.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0772DC2432D73600C6C3A4 /* NSString+Speak.m */; };
+		2A0772E12432E16D00C6C3A4 /* Right Answer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2A0772DF2432E16D00C6C3A4 /* Right Answer.mp3 */; };
+		2A0772E22432E16D00C6C3A4 /* Wrong Answer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2A0772E02432E16D00C6C3A4 /* Wrong Answer.mp3 */; };
 		2A0A34D02431E6AE000DA484 /* CategoriesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0A34CE2431E6AE000DA484 /* CategoriesViewController.m */; };
 		2A0A34D12431E6AE000DA484 /* CategoriesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2A0A34CF2431E6AE000DA484 /* CategoriesViewController.xib */; };
 		2A0A34DA2431E748000DA484 /* CategoryCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0A34D82431E748000DA484 /* CategoryCell.m */; };
@@ -189,6 +191,8 @@
 		2A0772DA2432069600C6C3A4 /* Foundation+Categories.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Foundation+Categories.h"; sourceTree = "<group>"; };
 		2A0772DB2432D73600C6C3A4 /* NSString+Speak.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSString+Speak.h"; sourceTree = "<group>"; };
 		2A0772DC2432D73600C6C3A4 /* NSString+Speak.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSString+Speak.m"; sourceTree = "<group>"; };
+		2A0772DF2432E16D00C6C3A4 /* Right Answer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Right Answer.mp3"; sourceTree = "<group>"; };
+		2A0772E02432E16D00C6C3A4 /* Wrong Answer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Wrong Answer.mp3"; sourceTree = "<group>"; };
 		2A0A34CD2431E6AE000DA484 /* CategoriesViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CategoriesViewController.h; sourceTree = "<group>"; };
 		2A0A34CE2431E6AE000DA484 /* CategoriesViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CategoriesViewController.m; sourceTree = "<group>"; };
 		2A0A34CF2431E6AE000DA484 /* CategoriesViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CategoriesViewController.xib; sourceTree = "<group>"; };
@@ -441,6 +445,15 @@
 			path = Foundation;
 			sourceTree = "<group>";
 		};
+		2A0772DE2432E16300C6C3A4 /* Sound */ = {
+			isa = PBXGroup;
+			children = (
+				2A0772DF2432E16D00C6C3A4 /* Right Answer.mp3 */,
+				2A0772E02432E16D00C6C3A4 /* Wrong Answer.mp3 */,
+			);
+			path = Sound;
+			sourceTree = "<group>";
+		};
 		2A0A34D22431E6F2000DA484 /* Category */ = {
 			isa = PBXGroup;
 			children = (
@@ -496,6 +509,7 @@
 		2A1773E22373AEA8008E05E1 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
+				2A0772DE2432E16300C6C3A4 /* Sound */,
 				2A1773E52373AEC3008E05E1 /* categories.json */,
 				2A1773E32373AEC3008E05E1 /* food.json */,
 				2A1773E62373AEC3008E05E1 /* fruit.json */,
@@ -663,12 +677,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				2A1773EE2373AEC3008E05E1 /* categories.json in Resources */,
+				2A0772E22432E16D00C6C3A4 /* Wrong Answer.mp3 in Resources */,
 				2A1773F42373AEC3008E05E1 /* job.json in Resources */,
 				2A0A34D12431E6AE000DA484 /* CategoriesViewController.xib in Resources */,
 				04282D0721919E3000585781 /* LaunchScreen.storyboard in Resources */,
 				2A1773E82373AEC3008E05E1 /* food.json in Resources */,
 				2A1773F12373AEC3008E05E1 /* fruit.json in Resources */,
 				2A0772852431F91D00C6C3A4 /* PracticeViewController.xib in Resources */,
+				2A0772E12432E16D00C6C3A4 /* Right Answer.mp3 in Resources */,
 				2A94828B23828AA100680215 /* hobbies.json in Resources */,
 				2A94828F23828AA100680215 /* body.json in Resources */,
 				2A94828D23828AA100680215 /* animals.json in Resources */,
