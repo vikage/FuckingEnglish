@@ -31,6 +31,14 @@
 		04ED73A92194009A00046F62 /* Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 04ED73A82194009A00046F62 /* Utils.m */; };
 		04ED73AA2194009A00046F62 /* Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 04ED73A82194009A00046F62 /* Utils.m */; };
 		04ED73AD219401A100046F62 /* BaseNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04ED73AC219401A100046F62 /* BaseNavigationController.m */; };
+		2A0772842431F91D00C6C3A4 /* PracticeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0772822431F91D00C6C3A4 /* PracticeViewController.m */; };
+		2A0772852431F91D00C6C3A4 /* PracticeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2A0772832431F91D00C6C3A4 /* PracticeViewController.xib */; };
+		2A0772CC2431FB3F00C6C3A4 /* UIView+RoundCorner.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0772B72431FB3F00C6C3A4 /* UIView+RoundCorner.m */; };
+		2A0772CD2431FB3F00C6C3A4 /* UIView+Util.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0772B92431FB3F00C6C3A4 /* UIView+Util.m */; };
+		2A0772CE2431FB3F00C6C3A4 /* UIViewController+Util.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0772BC2431FB3F00C6C3A4 /* UIViewController+Util.m */; };
+		2A0772D52431FF3C00C6C3A4 /* AnswerFieldView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0772D42431FF3C00C6C3A4 /* AnswerFieldView.m */; };
+		2A0772D92432064F00C6C3A4 /* NSArray+Util.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0772D82432064F00C6C3A4 /* NSArray+Util.m */; };
+		2A0772DD2432D73600C6C3A4 /* NSString+Speak.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0772DC2432D73600C6C3A4 /* NSString+Speak.m */; };
 		2A0A34D02431E6AE000DA484 /* CategoriesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0A34CE2431E6AE000DA484 /* CategoriesViewController.m */; };
 		2A0A34D12431E6AE000DA484 /* CategoriesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2A0A34CF2431E6AE000DA484 /* CategoriesViewController.xib */; };
 		2A0A34DA2431E748000DA484 /* CategoryCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0A34D82431E748000DA484 /* CategoryCell.m */; };
@@ -162,6 +170,25 @@
 		04ED73AB219401A100046F62 /* BaseNavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseNavigationController.h; sourceTree = "<group>"; };
 		04ED73AC219401A100046F62 /* BaseNavigationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaseNavigationController.m; sourceTree = "<group>"; };
 		20CBE4771C7ADBA89C0C8DD2 /* libPods-FuckingEnglish.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FuckingEnglish.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A0772812431F91D00C6C3A4 /* PracticeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PracticeViewController.h; sourceTree = "<group>"; };
+		2A0772822431F91D00C6C3A4 /* PracticeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PracticeViewController.m; sourceTree = "<group>"; };
+		2A0772832431F91D00C6C3A4 /* PracticeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PracticeViewController.xib; sourceTree = "<group>"; };
+		2A0772872431FB3F00C6C3A4 /* Categories.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Categories.h; sourceTree = "<group>"; };
+		2A0772B12431FB3F00C6C3A4 /* UIKit+Categories.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIKit+Categories.h"; sourceTree = "<group>"; };
+		2A0772B62431FB3F00C6C3A4 /* UIView+RoundCorner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+RoundCorner.h"; sourceTree = "<group>"; };
+		2A0772B72431FB3F00C6C3A4 /* UIView+RoundCorner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+RoundCorner.m"; sourceTree = "<group>"; };
+		2A0772B82431FB3F00C6C3A4 /* UIView+Util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Util.h"; sourceTree = "<group>"; };
+		2A0772B92431FB3F00C6C3A4 /* UIView+Util.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Util.m"; sourceTree = "<group>"; };
+		2A0772BB2431FB3F00C6C3A4 /* UIViewController+Util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+Util.h"; sourceTree = "<group>"; };
+		2A0772BC2431FB3F00C6C3A4 /* UIViewController+Util.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Util.m"; sourceTree = "<group>"; };
+		2A0772D02431FB5600C6C3A4 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		2A0772D32431FF3C00C6C3A4 /* AnswerFieldView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnswerFieldView.h; sourceTree = "<group>"; };
+		2A0772D42431FF3C00C6C3A4 /* AnswerFieldView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnswerFieldView.m; sourceTree = "<group>"; };
+		2A0772D72432064F00C6C3A4 /* NSArray+Util.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSArray+Util.h"; sourceTree = "<group>"; };
+		2A0772D82432064F00C6C3A4 /* NSArray+Util.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Util.m"; sourceTree = "<group>"; };
+		2A0772DA2432069600C6C3A4 /* Foundation+Categories.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Foundation+Categories.h"; sourceTree = "<group>"; };
+		2A0772DB2432D73600C6C3A4 /* NSString+Speak.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSString+Speak.h"; sourceTree = "<group>"; };
+		2A0772DC2432D73600C6C3A4 /* NSString+Speak.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSString+Speak.m"; sourceTree = "<group>"; };
 		2A0A34CD2431E6AE000DA484 /* CategoriesViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CategoriesViewController.h; sourceTree = "<group>"; };
 		2A0A34CE2431E6AE000DA484 /* CategoriesViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CategoriesViewController.m; sourceTree = "<group>"; };
 		2A0A34CF2431E6AE000DA484 /* CategoriesViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CategoriesViewController.xib; sourceTree = "<group>"; };
@@ -255,16 +282,10 @@
 		04282CF921919E2D00585781 /* FuckingEnglish */ = {
 			isa = PBXGroup;
 			children = (
+				2A0772CF2431FB4D00C6C3A4 /* App */,
 				2A0A34D52431E708000DA484 /* Controller */,
-				2A0A34D42431E705000DA484 /* View */,
 				2A0A34D32431E702000DA484 /* Model */,
-				04282CFA21919E2D00585781 /* AppDelegate.h */,
-				04282CFB21919E2D00585781 /* AppDelegate.m */,
-				04282D0321919E3000585781 /* Assets.xcassets */,
-				2A1773F72373B011008E05E1 /* FuckingEnglish.entitlements */,
-				04282D0821919E3000585781 /* Info.plist */,
-				04282D0521919E3000585781 /* LaunchScreen.storyboard */,
-				04282D0921919E3000585781 /* main.m */,
+				2A0A34D42431E705000DA484 /* View */,
 			);
 			path = FuckingEnglish;
 			sourceTree = "<group>";
@@ -313,6 +334,7 @@
 		048756352193FD6F00EC3C8B /* Common */ = {
 			isa = PBXGroup;
 			children = (
+				2A0772862431FB3F00C6C3A4 /* Extension */,
 				0414BAA42192836E00D596A8 /* DataManager.h */,
 				0414BAA52192836E00D596A8 /* DataManager.m */,
 				0431CFAC219286AD00264F3C /* Vocabulary.h */,
@@ -323,6 +345,100 @@
 				2A1773FB2373F34B008E05E1 /* Category.m */,
 			);
 			path = Common;
+			sourceTree = "<group>";
+		};
+		2A0772802431F90F00C6C3A4 /* Test */ = {
+			isa = PBXGroup;
+			children = (
+				2A0772812431F91D00C6C3A4 /* PracticeViewController.h */,
+				2A0772822431F91D00C6C3A4 /* PracticeViewController.m */,
+				2A0772832431F91D00C6C3A4 /* PracticeViewController.xib */,
+			);
+			path = Test;
+			sourceTree = "<group>";
+		};
+		2A0772862431FB3F00C6C3A4 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				2A0772D62432063700C6C3A4 /* Foundation */,
+				2A0772872431FB3F00C6C3A4 /* Categories.h */,
+				2A0772A82431FB3F00C6C3A4 /* UIKit */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		2A0772A82431FB3F00C6C3A4 /* UIKit */ = {
+			isa = PBXGroup;
+			children = (
+				2A0772B12431FB3F00C6C3A4 /* UIKit+Categories.h */,
+				2A0772B52431FB3F00C6C3A4 /* UIView */,
+				2A0772BA2431FB3F00C6C3A4 /* UIViewController */,
+			);
+			path = UIKit;
+			sourceTree = "<group>";
+		};
+		2A0772B52431FB3F00C6C3A4 /* UIView */ = {
+			isa = PBXGroup;
+			children = (
+				2A0772B62431FB3F00C6C3A4 /* UIView+RoundCorner.h */,
+				2A0772B72431FB3F00C6C3A4 /* UIView+RoundCorner.m */,
+				2A0772B82431FB3F00C6C3A4 /* UIView+Util.h */,
+				2A0772B92431FB3F00C6C3A4 /* UIView+Util.m */,
+			);
+			path = UIView;
+			sourceTree = "<group>";
+		};
+		2A0772BA2431FB3F00C6C3A4 /* UIViewController */ = {
+			isa = PBXGroup;
+			children = (
+				2A0772BB2431FB3F00C6C3A4 /* UIViewController+Util.h */,
+				2A0772BC2431FB3F00C6C3A4 /* UIViewController+Util.m */,
+			);
+			path = UIViewController;
+			sourceTree = "<group>";
+		};
+		2A0772CF2431FB4D00C6C3A4 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				04282CFA21919E2D00585781 /* AppDelegate.h */,
+				04282CFB21919E2D00585781 /* AppDelegate.m */,
+				04282D0321919E3000585781 /* Assets.xcassets */,
+				2A1773F72373B011008E05E1 /* FuckingEnglish.entitlements */,
+				04282D0821919E3000585781 /* Info.plist */,
+				04282D0521919E3000585781 /* LaunchScreen.storyboard */,
+				04282D0921919E3000585781 /* main.m */,
+				2A0772D02431FB5600C6C3A4 /* PrefixHeader.pch */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		2A0772D12431FF0F00C6C3A4 /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				04282D0021919E2D00585781 /* Main.storyboard */,
+			);
+			path = Storyboard;
+			sourceTree = "<group>";
+		};
+		2A0772D22431FF1400C6C3A4 /* CustomView */ = {
+			isa = PBXGroup;
+			children = (
+				2A0772D32431FF3C00C6C3A4 /* AnswerFieldView.h */,
+				2A0772D42431FF3C00C6C3A4 /* AnswerFieldView.m */,
+			);
+			path = CustomView;
+			sourceTree = "<group>";
+		};
+		2A0772D62432063700C6C3A4 /* Foundation */ = {
+			isa = PBXGroup;
+			children = (
+				2A0772D72432064F00C6C3A4 /* NSArray+Util.h */,
+				2A0772D82432064F00C6C3A4 /* NSArray+Util.m */,
+				2A0772DA2432069600C6C3A4 /* Foundation+Categories.h */,
+				2A0772DB2432D73600C6C3A4 /* NSString+Speak.h */,
+				2A0772DC2432D73600C6C3A4 /* NSString+Speak.m */,
+			);
+			path = Foundation;
 			sourceTree = "<group>";
 		};
 		2A0A34D22431E6F2000DA484 /* Category */ = {
@@ -345,8 +461,9 @@
 		2A0A34D42431E705000DA484 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				2A0772D22431FF1400C6C3A4 /* CustomView */,
+				2A0772D12431FF0F00C6C3A4 /* Storyboard */,
 				2A0A34D62431E726000DA484 /* Cell */,
-				04282D0021919E2D00585781 /* Main.storyboard */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -354,6 +471,7 @@
 		2A0A34D52431E708000DA484 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				2A0772802431F90F00C6C3A4 /* Test */,
 				04ED73AB219401A100046F62 /* BaseNavigationController.h */,
 				04ED73AC219401A100046F62 /* BaseNavigationController.m */,
 				04282CFD21919E2D00585781 /* ViewController.h */,
@@ -550,6 +668,7 @@
 				04282D0721919E3000585781 /* LaunchScreen.storyboard in Resources */,
 				2A1773E82373AEC3008E05E1 /* food.json in Resources */,
 				2A1773F12373AEC3008E05E1 /* fruit.json in Resources */,
+				2A0772852431F91D00C6C3A4 /* PracticeViewController.xib in Resources */,
 				2A94828B23828AA100680215 /* hobbies.json in Resources */,
 				2A94828F23828AA100680215 /* body.json in Resources */,
 				2A94828D23828AA100680215 /* animals.json in Resources */,
@@ -661,14 +780,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				04282CFF21919E2D00585781 /* ViewController.m in Sources */,
+				2A0772CE2431FB3F00C6C3A4 /* UIViewController+Util.m in Sources */,
 				2A1773FC2373F34B008E05E1 /* Category.m in Sources */,
 				048756362193FD8200EC3C8B /* DataManager.m in Sources */,
+				2A0772DD2432D73600C6C3A4 /* NSString+Speak.m in Sources */,
 				04282D0A21919E3000585781 /* main.m in Sources */,
 				048756382193FD8200EC3C8B /* Vocabulary.m in Sources */,
 				04ED73AD219401A100046F62 /* BaseNavigationController.m in Sources */,
+				2A0772CC2431FB3F00C6C3A4 /* UIView+RoundCorner.m in Sources */,
+				2A0772842431F91D00C6C3A4 /* PracticeViewController.m in Sources */,
 				04282CFC21919E2D00585781 /* AppDelegate.m in Sources */,
 				2A0A34DA2431E748000DA484 /* CategoryCell.m in Sources */,
+				2A0772D92432064F00C6C3A4 /* NSArray+Util.m in Sources */,
+				2A0772D52431FF3C00C6C3A4 /* AnswerFieldView.m in Sources */,
 				04ED73A92194009A00046F62 /* Utils.m in Sources */,
+				2A0772CD2431FB3F00C6C3A4 /* UIView+Util.m in Sources */,
 				2A0A34D02431E6AE000DA484 /* CategoriesViewController.m in Sources */,
 				0487563B2193FE5B00EC3C8B /* VocabularyCell.m in Sources */,
 			);
@@ -863,11 +989,12 @@
 			baseConfigurationReference = 9970A9BD98466311F0F91C60 /* Pods-FuckingEnglish.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = FuckingEnglish/FuckingEnglish.entitlements;
+				CODE_SIGN_ENTITLEMENTS = FuckingEnglish/App/FuckingEnglish.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = FSZYJCFCJJ;
-				INFOPLIST_FILE = FuckingEnglish/Info.plist;
+				GCC_PREFIX_HEADER = FuckingEnglish/App/PrefixHeader.pch;
+				INFOPLIST_FILE = FuckingEnglish/App/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -876,6 +1003,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglishApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -885,11 +1013,12 @@
 			baseConfigurationReference = 5CB4A395B1F9BE5CF888AB79 /* Pods-FuckingEnglish.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = FuckingEnglish/FuckingEnglish.entitlements;
+				CODE_SIGN_ENTITLEMENTS = FuckingEnglish/App/FuckingEnglish.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = FSZYJCFCJJ;
-				INFOPLIST_FILE = FuckingEnglish/Info.plist;
+				GCC_PREFIX_HEADER = FuckingEnglish/App/PrefixHeader.pch;
+				INFOPLIST_FILE = FuckingEnglish/App/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -898,6 +1027,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.thanhdev.FuckingEnglishApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  FuckingEnglish
+//
+//  Created by Thanh Vu on 3/30/20.
+//  Copyright © 2020 fuxsociety. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Categories.h"
+
+#endif /* PrefixHeader_pch */

@@ -9,5 +9,7 @@
 #import "Vocabulary.h"
 
 @implementation Vocabulary
-
+- (NSString *)description {
+    return [NSString stringWithFormat:@"%@ - %@", self.word, self.mean];
+}
 @end

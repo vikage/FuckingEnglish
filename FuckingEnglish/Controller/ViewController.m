@@ -11,6 +11,7 @@
 #import "VocabularyCell.h"
 #import <AVFoundation/AVFoundation.h>
 #import "CategoriesViewController.h"
+#import "PracticeViewController.h"
 @interface ViewController ()<UITableViewDataSource, UITableViewDelegate, UISearchBarDelegate>
 @property (nonatomic, strong) NSArray *vocabularies;
 @property (nonatomic, strong) NSDictionary *vocabularyDataDict;
@@ -55,6 +56,10 @@
     selectCategoryButton.tintColor = UIColor.whiteColor;
     self.navigationItem.rightBarButtonItem = selectCategoryButton;
     
+    UIBarButtonItem *practiceBarButtonItem = [[UIBarButtonItem alloc] initWithImage:[UIImage imageNamed:@"practice"] style:UIBarButtonItemStylePlain target:self action:@selector(practiceBarButtonDidTap:)];
+    practiceBarButtonItem.tintColor = UIColor.whiteColor;
+    self.navigationItem.leftBarButtonItem = practiceBarButtonItem;
+    
     [self registerNotifications];
     [self loadData];
 }
@@ -98,6 +103,13 @@
     [self presentViewController:navigationController animated:YES completion:nil];
 }
 
+- (void)practiceBarButtonDidTap:(UIBarButtonItem *)sender {
+    PracticeViewController *vc = [[PracticeViewController alloc] init];
+    vc.vocabularies = [self.vocabularies shuffle];
+    vc.modalPresentationStyle = UIModalPresentationFullScreen;
+    [self presentViewController:vc animated:YES completion:nil];
+}
+
 #pragma mark - UITableViewDatasource, UITableViewDelegate
 -(NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
 {
@@ -136,7 +148,7 @@
     [tableView deselectRowAtIndexPath:indexPath animated:YES];
     
     Vocabulary *vocabulary = [self vocabularyAtIndex:indexPath];
-    [self speech:vocabulary.word];
+    [vocabulary.word slowSpeech];
 }
 
 -(NSArray<NSString *> *)sectionIndexTitlesForTableView:(UITableView *)tableView {
@@ -196,18 +208,5 @@
     Vocabulary *vocabulary = [vocabulariesInSection objectAtIndex:indexPath.row];
     
     return vocabulary;
-}
-
--(void)speech:(NSString *)text {
-    [[AVAudioSession sharedInstance] setCategory:AVAudioSessionCategoryPlayback error:nil];
-    AVSpeechSynthesizer *synthesizer = [[AVSpeechSynthesizer alloc] init];
-    
-    AVSpeechUtterance *speechutt = [AVSpeechUtterance speechUtteranceWithString:text];
-    speechutt.volume=90.0f;
-    speechutt.rate=0.50f;
-    speechutt.pitchMultiplier=0.80f;
-    [speechutt setRate:0.3f];
-    speechutt.voice = [AVSpeechSynthesisVoice voiceWithLanguage:@"en-us"];
-    [synthesizer speakUtterance:speechutt];
 }
 @end

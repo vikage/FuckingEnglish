@@ -26,6 +26,7 @@ NSNotificationName const SelectedCategoryDidChangeNotification = @"SelectedCateg
     static DataManager *instance;
     dispatch_once(&onceToken, ^{
         instance = [[DataManager alloc] init];
+        [instance loadData];
     });
     
     return instance;
@@ -34,7 +35,7 @@ NSNotificationName const SelectedCategoryDidChangeNotification = @"SelectedCateg
 -(instancetype)init
 {
     self = [super init];
-    [self loadData];
+    
     return self;
 }
 
@@ -53,7 +54,7 @@ NSNotificationName const SelectedCategoryDidChangeNotification = @"SelectedCateg
 
 - (void)loadData
 {
-    Category *selectedCategory = [DataManager.shareInstanced selectedCategory];
+    Category *selectedCategory = [self selectedCategory];
     [self reloadDataFromCategory:selectedCategory];
 }
 
