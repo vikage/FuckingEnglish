@@ -1,40 +1,44 @@
 {
-	"categories":[
-		{
-			"name": "3k words",
-			"value": "words"
-		},
-		{
-			"name": "Hoa quả",
-			"value": "fruit"
-		},
-		{
-			"name": "Nghề nghiệp",
-			"value": "job"
-		},
-		{
-			"name": "Đồ ăn và dụng cụ",
-			"value": "food"
-		},
-    {
-      "name": "Động vật",
-      "value": "animals"
-    },
-    {
-      "name": "Cơ thể",
-      "value": "body"
-    },
-    {
-      "name": "Gia đình",
-      "value": "family"
-    },
-    {
-      "name": "Sở thích",
-      "value": "hobbies"
-    },
-    {
-      "name": "Động từ",
-      "value": "verb"
-    }
-	]
+    "categories":[
+        {
+            "name": "Cambridge",
+            "value": "cambridge"
+        },
+        {
+            "name": "3k words",
+            "value": "words"
+        },
+        {
+            "name": "Hoa quả",
+            "value": "fruit"
+        },
+        {
+            "name": "Nghề nghiệp",
+            "value": "job"
+        },
+        {
+            "name": "Đồ ăn và dụng cụ",
+            "value": "food"
+        },
+        {
+            "name": "Động vật",
+            "value": "animals"
+        },
+        {
+            "name": "Cơ thể",
+            "value": "body"
+        },
+        {
+            "name": "Gia đình",
+            "value": "family"
+        },
+        {
+            "name": "Sở thích",
+            "value": "hobbies"
+        },
+        {
+            "name": "Động từ",
+            "value": "verb"
+        }
+    ]
 }

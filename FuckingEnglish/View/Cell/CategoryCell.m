@@ -17,6 +17,7 @@
     self.containerView.layer.cornerRadius = 10;
     self.containerView.layer.masksToBounds = YES;
     self.containerView.backgroundColor = UIColorFromRGB(0x222223);
+    self.categoryNameLabel.textColor = UIColor.whiteColor;
 }
 
 - (void)setSelected:(BOOL)selected animated:(BOOL)animated {

@@ -13,8 +13,8 @@
 {
     self = [super init];
     if (self) {
-        self.name = dict[@"name"];
-        self.value = dict[@"value"];
+        _name = dict[@"name"];
+        _value = dict[@"value"];
     }
     return self;
 }

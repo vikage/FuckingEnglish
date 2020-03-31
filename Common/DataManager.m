@@ -8,7 +8,7 @@
 
 #import "DataManager.h"
 #define kSelectedCategoryKey @"kSelectedCategoryKey"
-#define kDefaultCategory @"words"
+#define kDefaultCategory @"cambridge"
 NSNotificationName const SelectedCategoryDidChangeNotification = @"SelectedCategoryDidChangeNotification";
 
 @interface DataManager()

@@ -78,6 +78,9 @@
 		2A94829723828B9500680215 /* family.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828923828AA000680215 /* family.json */; };
 		2A94829823828B9500680215 /* hobbies.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828623828AA000680215 /* hobbies.json */; };
 		2A94829923828B9500680215 /* verb.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A94828723828AA000680215 /* verb.json */; };
+		2AEE8D7124334629003AE85F /* cambridge.json in Resources */ = {isa = PBXBuildFile; fileRef = 2AEE8D7024334629003AE85F /* cambridge.json */; };
+		2AEE8D7224334629003AE85F /* cambridge.json in Resources */ = {isa = PBXBuildFile; fileRef = 2AEE8D7024334629003AE85F /* cambridge.json */; };
+		2AEE8D7324334629003AE85F /* cambridge.json in Resources */ = {isa = PBXBuildFile; fileRef = 2AEE8D7024334629003AE85F /* cambridge.json */; };
 		87D420988B54AF051456AB60 /* libPods-FuckingEnglishTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 808AF493329BCF4310056710 /* libPods-FuckingEnglishTests.a */; };
 		FD4FAD8FB20868A0F9F3140C /* libPods-FuckingEnglish.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 20CBE4771C7ADBA89C0C8DD2 /* libPods-FuckingEnglish.a */; };
 /* End PBXBuildFile section */
@@ -216,6 +219,7 @@
 		2A94828823828AA000680215 /* animals.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = animals.json; sourceTree = "<group>"; };
 		2A94828923828AA000680215 /* family.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = family.json; sourceTree = "<group>"; };
 		2A94828A23828AA100680215 /* body.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = body.json; sourceTree = "<group>"; };
+		2AEE8D7024334629003AE85F /* cambridge.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cambridge.json; sourceTree = "<group>"; };
 		5CB4A395B1F9BE5CF888AB79 /* Pods-FuckingEnglish.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FuckingEnglish.release.xcconfig"; path = "Pods/Target Support Files/Pods-FuckingEnglish/Pods-FuckingEnglish.release.xcconfig"; sourceTree = "<group>"; };
 		808AF493329BCF4310056710 /* libPods-FuckingEnglishTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FuckingEnglishTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9970A9BD98466311F0F91C60 /* Pods-FuckingEnglish.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FuckingEnglish.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FuckingEnglish/Pods-FuckingEnglish.debug.xcconfig"; sourceTree = "<group>"; };
@@ -520,6 +524,7 @@
 				2A94828923828AA000680215 /* family.json */,
 				2A94828623828AA000680215 /* hobbies.json */,
 				2A94828723828AA000680215 /* verb.json */,
+				2AEE8D7024334629003AE85F /* cambridge.json */,
 			);
 			path = Resource;
 			sourceTree = "<group>";
@@ -691,6 +696,7 @@
 				2A94828C23828AA100680215 /* verb.json in Resources */,
 				2A0A34DB2431E748000DA484 /* CategoryCell.xib in Resources */,
 				2A1773EB2373AEC3008E05E1 /* words.json in Resources */,
+				2AEE8D7124334629003AE85F /* cambridge.json in Resources */,
 				2A94828E23828AA100680215 /* family.json in Resources */,
 				04282D0421919E3000585781 /* Assets.xcassets in Resources */,
 				04282D0221919E2D00585781 /* Main.storyboard in Resources */,
@@ -710,6 +716,7 @@
 			files = (
 				2A94829323828B7400680215 /* hobbies.json in Resources */,
 				2A1773E92373AEC3008E05E1 /* food.json in Resources */,
+				2AEE8D7224334629003AE85F /* cambridge.json in Resources */,
 				2A94829023828B7400680215 /* animals.json in Resources */,
 				2A94829123828B7400680215 /* body.json in Resources */,
 				2A94829423828B7400680215 /* verb.json in Resources */,
@@ -735,6 +742,7 @@
 				2A1773F32373AEC3008E05E1 /* fruit.json in Resources */,
 				2A1773F62373AEC3008E05E1 /* job.json in Resources */,
 				2A1773F02373AEC3008E05E1 /* categories.json in Resources */,
+				2AEE8D7324334629003AE85F /* cambridge.json in Resources */,
 				2A94829923828B9500680215 /* verb.json in Resources */,
 				04282D3E21919F3F00585781 /* Assets.xcassets in Resources */,
 				2A94829623828B9500680215 /* body.json in Resources */,

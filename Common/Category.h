@@ -11,8 +11,8 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface Category : NSObject
-@property (nonatomic, strong) NSString* name;
-@property (nonatomic, strong) NSString* value;
+@property (nonatomic, strong, readonly) NSString* name;
+@property (nonatomic, strong, readonly) NSString* value;
 
 - (instancetype)initWithDictionary:(NSDictionary*)dict;
 @end
